@@ -41,25 +41,57 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
-    <div class="cs50 inview">
-        <h1>B1</h1>
+    <div class="hnr">
+        <h2>B1</h2>
     </div>
-    <div class="cs5025">
-        <h1>B1</h1>
-    </div>
-    <div class="cs5025">
-        <h1>B1</h1>
-    </div>
-     <div class="cs50">
-        <h1>B1</h1>
-    </div>
-    <div class="cs5025">
-        <h1 class="inview">B1</h1>
-    </div>
-    <div class="cs5025">
-        <h1>B1</h1>
+    <div class="hg">
+        <div class="hover h1">
+            <svg version="1.1" id="bulding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 145.5 126" style="enable-background:new 0 0 145.5 126;" xml:space="preserve">
+                <polygon class="st1" points="83,87.5 145,38.5 62.5,0.5 0.5,49.5 "/>
+                <polygon class="st1" points="83,125.5 0.5,87.5 0.5,49.5 83,87.5 "/>
+                <polygon class="st1" points="83,125.5 145,76.5 145,38.5 83,87.5 "/>
+            </svg>
+            <p class="over hovertext-1">hello</p>
+        </div>
+        
+        <div class="hover h2">
+            <svg version="1.1" id="bulding-2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 145.5 126" style="enable-background:new 0 0 145.5 126;" xml:space="preserve">
+                <polygon class="st2" points="83,87.5 145,38.5 62.5,0.5 0.5,49.5 "/>
+                <polygon class="st2" points="83,125.5 0.5,87.5 0.5,49.5 83,87.5 "/>
+                <polygon class="st2" points="83,125.5 145,76.5 145,38.5 83,87.5 "/>
+            </svg>
+            <p class="over hovertext-2">hello</p>
+        </div>
+        <div class="hover h3">
+            <svg version="1.1" id="bulding-3"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 145.5 126" style="enable-background:new 0 0 145.5 126;" xml:space="preserve">
+                <polygon class="st3" points="83,87.5 145,38.5 62.5,0.5 0.5,49.5 "/>
+                <polygon class="st3" points="83,125.5 0.5,87.5 0.5,49.5 83,87.5 "/>
+                <polygon class="st3" points="83,125.5 145,76.5 145,38.5 83,87.5 "/>
+            </svg>
+            <p class="over hovertext-3">hello</p>
+        </div>
     </div>
     
+    <div>
+        <table>   
+            <tr>      
+                <th>Wohnung</th>
+                <th class="l">Fläche</th>
+            </tr>   
+            <tr class="trh1 h1">
+                <td><span><b>1</b> / 3,5er</span></td> 
+                <td class="l">89.50 m²</td>
+            </tr> 
+            <tr class="trh2 h2">
+                <td><span><b>2</b> / 4,5er</span></td> 
+                <td class="l">118.00 m²</td>
+            </tr>
+            <tr class="trh3 h3"> 
+                <td><span><b>3</b> / 2,5er</span></td> 
+                <td class="l">56.30 m²</td>
+            </tr>
+        </table>
+    </div>
     
     
     

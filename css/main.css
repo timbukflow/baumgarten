@@ -239,6 +239,29 @@ h2 {
 }
 
 /*---------------------------------- 
+    start
+-----------------------------------*/
+
+.cs50 {
+    width: 50%;
+    height: 100vh;
+    position: relative;
+    float: left;
+    background-color: green;
+}
+
+.cs5025 {
+    width: 50%;
+    height: 50vh;
+    position: relative;
+    float: left;
+    background-color: darkgreen;
+}
+
+.cs5025 h1 {
+    position: relative;
+}
+/*---------------------------------- 
     grundrisse
 -----------------------------------*/
 
@@ -253,6 +276,22 @@ h2 {
     position: absolute;
     display: inline-block;
 }
+
+
+/*---------------------------------- 
+    inview animation
+-----------------------------------*/
+
+.inview {
+    left: -200px;
+    -webkit-transition: left 1.5s ease-in-out;
+    transition:         left 1.5s ease-in-out;
+}
+
+.inview-fade {
+    left:0px;
+}
+
 
 /*---------------------------------- 
 responsive ipad
