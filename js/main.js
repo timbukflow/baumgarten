@@ -1,26 +1,21 @@
 $(document).ready(function () {
-
     
-    $( ".h1" ).hover(function() {
-        $( ".trh1" ).toggleClass("trhover")
-        $( ".st1" ).toggleClass("hoo");
-        $( ".hovertext-1" ).toggleClass("fonton");
+    $( ".eg1" ).hover(function() {
+        $(".eg1").toggleClass("bl");
+        $(".etage2, .etage3, .etage4").toggleClass("fade")
     });
-    
-    $( ".h2" ).hover(function() {
-        $( ".trh2" ).toggleClass("trhover")
-        $( ".st2" ).toggleClass("hoo");
-        $( ".hovertext-2" ).toggleClass("fonton");
+    $( ".eg2").hover(function() {
+        $(".eg2").toggleClass("bl");
+        $(".etage2, .etage3, .etage4").toggleClass("fade")
     });
-    
-    $( ".h3" ).hover(function() {
-        $( ".trh3" ).toggleClass("trhover")
-        $( ".st3" ).toggleClass("hoo");
-        $( ".hovertext-3" ).toggleClass("fonton");
+    $( ".eg3").hover(function() {
+        $(".eg3").toggleClass("bl");
+        $(".etage2, .etage3, .etage4").toggleClass("fade")
     });
     
     
-        $(window).scroll(function() {
+    
+    $(window).scroll(function() {
         $('.inview').each(function(i) {
             var bottom_of_object = $(this).offset().top;
             var bottom_of_window = $(window).scrollTop() + $(window).height();
@@ -29,6 +24,19 @@ $(document).ready(function () {
                 $(this).addClass('inview-fade');
             } else {
                 $(this).removeClass('inview-fade');
+            }
+        }); 
+    }).scroll();
+    
+    $(window).scroll(function() {
+        $('.inviewtop').each(function(i) {
+            var bottom_of_object = $(this).offset().top;
+            var bottom_of_window = $(window).scrollTop() + $(window).height();
+            
+            if( bottom_of_window > bottom_of_object ) {
+                $(this).addClass('inview-fade-top');
+            } else {
+                $(this).removeClass('inview-fade-top');
             }
         }); 
     }).scroll();

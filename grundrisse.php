@@ -46,29 +46,33 @@
     </div>
     <div class="hg">
         <div class="hover h1">
-            <svg version="1.1" id="bulding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 145.5 126" style="enable-background:new 0 0 145.5 126;" xml:space="preserve">
-                <polygon class="st1" points="83,87.5 145,38.5 62.5,0.5 0.5,49.5 "/>
-                <polygon class="st1" points="83,125.5 0.5,87.5 0.5,49.5 83,87.5 "/>
-                <polygon class="st1" points="83,125.5 145,76.5 145,38.5 83,87.5 "/>
+            <svg version="1.1" id="bulding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 313.6 210.9" style="enable-background:new 0 0 313.6 210.9;" xml:space="preserve">
+                <g class="etage1">
+                    <polygon class="st1" points="312.9,90.2 312.9,117.6 134.2,210.7 134.2,167.1 	"/>
+                    <polygon class="st1" points="134.2,167.1 134.2,210.7 0.7,141.2 0.7,109.7 	"/>
+                    <polygon class="st1" points="0.7,109.7 134.2,167.1 312.9,90.2 184.5,64.9 	"/>
+                </g>
+                <g class="etage1">
+                    <polygon class="s1 eg1" points="0.7,140.8 0.7,109.7 112.8,82.4 171.5,98 56.9,133.9 56.7,170.8 	"/><polygon class="s1 eg2" points="258.7,145.8 134.7,210.8 56.9,170.5 56.9,133.9 171.5,98 201.5,106 213.2,101.9 258.7,113.5 	"/>
+                    <polygon class="s1 eg3" points="258.7,113.5 213.2,101.9 224.4,97.9 136.6,76.6 184.5,64.9 312.9,90.2 312.7,117.8 258.7,145.8 	"/>
+                </g>
+                <g class="etage2">
+                    <polygon class="s1" points="312.9,62.8 312.9,90.2 134.2,167.1 134.2,123.4 	"/>
+                    <polygon class="st1" points="134.2,123.4 134.2,167.1 0.7,109.7 0.7,78.2 	"/>
+                    <polygon class="st1" points="0.7,78.2 134.2,123.4 312.9,62.8 184.4,42.8 	"/>
+                </g>
+                <g class="etage3">
+                    <polygon class="st1" points="312.9,35.5 312.9,62.8 134.2,123.4 134.2,79.8 	"/>
+                    <polygon class="st1" points="134.2,79.8 134.2,123.4 0.7,78.2 0.7,46.7 		"/>
+                    <polygon class="st1" points="0.7,46.7 185.7,20.9 312.9,35.5 134.2,79.8 		"/>
+                </g>
+                <g class="etage4">
+                    <polygon class="st1" points="288.9,6.5 288.9,32.7 106.9,72.9 106.9,32.1 	"/>
+                    <polygon class="st1" points="106.9,31.9 106.9,73.1 17.5,50.9 17.5,17.9 	"/>
+                    <polygon class="st1" points="288.9,6.5 201.6,0.1 17.5,17.9 106.9,32.1 	"/>
+                </g>
             </svg>
             <p class="over hovertext-1">hello</p>
-        </div>
-        
-        <div class="hover h2">
-            <svg version="1.1" id="bulding-2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 145.5 126" style="enable-background:new 0 0 145.5 126;" xml:space="preserve">
-                <polygon class="st2" points="83,87.5 145,38.5 62.5,0.5 0.5,49.5 "/>
-                <polygon class="st2" points="83,125.5 0.5,87.5 0.5,49.5 83,87.5 "/>
-                <polygon class="st2" points="83,125.5 145,76.5 145,38.5 83,87.5 "/>
-            </svg>
-            <p class="over hovertext-2">hello</p>
-        </div>
-        <div class="hover h3">
-            <svg version="1.1" id="bulding-3"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 145.5 126" style="enable-background:new 0 0 145.5 126;" xml:space="preserve">
-                <polygon class="st3" points="83,87.5 145,38.5 62.5,0.5 0.5,49.5 "/>
-                <polygon class="st3" points="83,125.5 0.5,87.5 0.5,49.5 83,87.5 "/>
-                <polygon class="st3" points="83,125.5 145,76.5 145,38.5 83,87.5 "/>
-            </svg>
-            <p class="over hovertext-3">hello</p>
         </div>
     </div>
     
@@ -78,15 +82,15 @@
                 <th>Wohnung</th>
                 <th class="l">Fläche</th>
             </tr>   
-            <tr class="trh1 h1">
+            <tr class="eg1 h1">
                 <td><span><b>1</b> / 3,5er</span></td> 
                 <td class="l">89.50 m²</td>
             </tr> 
-            <tr class="trh2 h2">
+            <tr class="eg2 h1">
                 <td><span><b>2</b> / 4,5er</span></td> 
                 <td class="l">118.00 m²</td>
             </tr>
-            <tr class="trh3 h3"> 
+            <tr class="eg3 h1"> 
                 <td><span><b>3</b> / 2,5er</span></td> 
                 <td class="l">56.30 m²</td>
             </tr>

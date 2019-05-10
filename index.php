@@ -50,14 +50,14 @@
     <div class="cs5025">
         <h1>B1</h1>
     </div>
-     <div class="cs50">
-        <h1>B1</h1>
+     <div class="cs50 inviewtop">
+        <h1 class="inview">Hallo Oldy</h1>
     </div>
-    <div class="cs5025">
-        <h1 class="inview">B1</h1>
+    <div class="cs5025 inviewtop">
+        <h1 class="inview">Baumgarten</h1>
     </div>
-    <div class="cs5025">
-        <h1>B1</h1>
+    <div class="cs5025 inviewtop">
+        <h1 class="inview">What the fxxx</h1>
     </div>
     
     
