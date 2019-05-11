@@ -1,22 +1,46 @@
 $(document).ready(function () {
     
-    $( ".Ae1w1" ).hover(function() {
-        $(".Ae1w1").toggleClass("bl");
-        $(".Ae1").siblings().toggleClass("fade")
-        $(".Ae1w1g").fadeToggle("gfade")
-    });
-    $( ".Ae1w2" ).hover(function() {
-        $(".Ae1w2").toggleClass("bl");
-        $(".Ae1").siblings().toggleClass("fade")
-    });
-    $( ".Ae1w3" ).hover(function() {
-        $(".Ae1w3").toggleClass("bl");
-        $(".Ae1").siblings().toggleClass("fade")
-    });
+    // building A //
+    $(".ae1w1").hover(function() {
+        $(".ae1w1").toggleClass("activ");
+        $(".ae1").nextAll().toggleClass("up")});
+    $(".ae1w2").hover(function() {
+        $(".ae1w2").toggleClass("activ");
+        $(".ae1").nextAll().toggleClass("up")});
+    $(".ae1w3").hover(function() {
+        $(".ae1w3").toggleClass("activ");
+        $(".ae1").nextAll().toggleClass("up")});
     
-    $( ".Ae2w1" ).hover(function() {
-        $(".Ae2w1").toggleClass("bl");
-        $(".Ae2").nextAll().toggleClass("fade")
+    $(".ae2w1").hover(function() {
+        $(".ae2w1").toggleClass("activ");
+        $(".ae2").nextAll().toggleClass("up")});
+    $(".ae2w2").hover(function() {
+        $(".ae2w2").toggleClass("activ");
+        $(".ae2").nextAll().toggleClass("up")});
+    $(".ae2w3").hover(function() {
+        $(".ae2w3").toggleClass("activ");
+        $(".ae2").nextAll().toggleClass("up")});
+    
+    $(".ae3w1").hover(function() {
+        $(".ae3w1").toggleClass("activ");
+        $(".ae3").nextAll().toggleClass("up")});
+    $(".ae3w2").hover(function() {
+        $(".ae3w2").toggleClass("activ");
+        $(".ae3").nextAll().toggleClass("up")});
+    $(".ae3w3").hover(function() {
+        $(".ae3w3").toggleClass("activ");
+        $(".ae3").nextAll().toggleClass("up")});
+    
+    $(".ae4w1").hover(function() {
+        $(".ae4w1").toggleClass("activ");});
+    $(".ae4w2").hover(function() {
+        $(".ae4w2").toggleClass("activ");});
+
+    
+    
+    
+    $(".Ae1w1g").click(function(){
+        $(".Ae1w1gp").fadeToggle("gfade")
     });
     
     
