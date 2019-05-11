@@ -1,16 +1,22 @@
 $(document).ready(function () {
     
-    $( ".eg1" ).hover(function() {
-        $(".eg1").toggleClass("bl");
-        $(".etage2, .etage3, .etage4").toggleClass("fade")
+    $( ".Ae1w1" ).hover(function() {
+        $(".Ae1w1").toggleClass("bl");
+        $(".Ae1").siblings().toggleClass("fade")
+        $(".Ae1w1g").fadeToggle("gfade")
     });
-    $( ".eg2").hover(function() {
-        $(".eg2").toggleClass("bl");
-        $(".etage2, .etage3, .etage4").toggleClass("fade")
+    $( ".Ae1w2" ).hover(function() {
+        $(".Ae1w2").toggleClass("bl");
+        $(".Ae1").siblings().toggleClass("fade")
     });
-    $( ".eg3").hover(function() {
-        $(".eg3").toggleClass("bl");
-        $(".etage2, .etage3, .etage4").toggleClass("fade")
+    $( ".Ae1w3" ).hover(function() {
+        $(".Ae1w3").toggleClass("bl");
+        $(".Ae1").siblings().toggleClass("fade")
+    });
+    
+    $( ".Ae2w1" ).hover(function() {
+        $(".Ae2w1").toggleClass("bl");
+        $(".Ae2").nextAll().toggleClass("fade")
     });
     
     

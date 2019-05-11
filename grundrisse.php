@@ -46,32 +46,73 @@
     </div>
     <div class="hg">
         <div class="hover h1">
-            <svg version="1.1" id="bulding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 313.6 210.9" style="enable-background:new 0 0 313.6 210.9;" xml:space="preserve">
-                <g class="etage1">
-                    <polygon class="st1" points="312.9,90.2 312.9,117.6 134.2,210.7 134.2,167.1 	"/>
-                    <polygon class="st1" points="134.2,167.1 134.2,210.7 0.7,141.2 0.7,109.7 	"/>
-                    <polygon class="st1" points="0.7,109.7 134.2,167.1 312.9,90.2 184.5,64.9 	"/>
-                </g>
-                <g class="etage1">
-                    <polygon class="s1 eg1" points="0.7,140.8 0.7,109.7 112.8,82.4 171.5,98 56.9,133.9 56.7,170.8 	"/><polygon class="s1 eg2" points="258.7,145.8 134.7,210.8 56.9,170.5 56.9,133.9 171.5,98 201.5,106 213.2,101.9 258.7,113.5 	"/>
-                    <polygon class="s1 eg3" points="258.7,113.5 213.2,101.9 224.4,97.9 136.6,76.6 184.5,64.9 312.9,90.2 312.7,117.8 258.7,145.8 	"/>
-                </g>
-                <g class="etage2">
-                    <polygon class="s1" points="312.9,62.8 312.9,90.2 134.2,167.1 134.2,123.4 	"/>
-                    <polygon class="st1" points="134.2,123.4 134.2,167.1 0.7,109.7 0.7,78.2 	"/>
-                    <polygon class="st1" points="0.7,78.2 134.2,123.4 312.9,62.8 184.4,42.8 	"/>
-                </g>
-                <g class="etage3">
-                    <polygon class="st1" points="312.9,35.5 312.9,62.8 134.2,123.4 134.2,79.8 	"/>
-                    <polygon class="st1" points="134.2,79.8 134.2,123.4 0.7,78.2 0.7,46.7 		"/>
-                    <polygon class="st1" points="0.7,46.7 185.7,20.9 312.9,35.5 134.2,79.8 		"/>
-                </g>
-                <g class="etage4">
-                    <polygon class="st1" points="288.9,6.5 288.9,32.7 106.9,72.9 106.9,32.1 	"/>
-                    <polygon class="st1" points="106.9,31.9 106.9,73.1 17.5,50.9 17.5,17.9 	"/>
-                    <polygon class="st1" points="288.9,6.5 201.6,0.1 17.5,17.9 106.9,32.1 	"/>
-                </g>
-            </svg>
+            <!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In  -->
+            <svg version="1.1" id="bulding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 511.6 344.7" style="enable-background:new 0 0 511.6 344.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#5F735C;stroke-width:0.8504;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#5F735C;stroke-width:0.8504;stroke-miterlimit:10;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#5F735C;stroke-width:0.8504;stroke-miterlimit:10;}
+</style>
+<g>
+	<polyline class="st0" points="442.8,304.7 459.7,314.5 510.8,285.1 255.8,137.9 221.8,137.9 170.7,167.4 136.8,167.3 119.7,177.2 
+		17.8,118.3 17.8,98.7 51.8,79 	"/>
+	<polyline class="st1" points="255.6,118.2 255.6,98.5 238.7,88.9 255.6,78.9 272.5,89 255.6,98.5 	"/>
+	<polyline class="st1" points="306.8,108.5 306.8,88.8 289.9,79.2 306.8,69.2 323.7,79.3 306.8,88.8 	"/>
+	<polyline class="st1" points="323.7,157.5 323.7,137.9 306.8,128.3 323.7,118.3 340.7,128.4 323.7,137.9 	"/>
+	<polyline class="st1" points="374.8,186.9 374.8,167.3 357.9,157.7 374.8,147.7 391.7,157.7 374.8,167.3 	"/>
+	<polyline class="st1" points="85.8,216.4 85.8,196.8 68.8,187.2 85.8,177.1 102.7,187.2 85.8,196.8 	"/>
+	<polyline class="st1" points="17.8,177.1 17.8,157.5 0.8,147.9 17.8,137.9 34.7,147.9 17.8,157.5 	"/>
+	<polyline class="st1" points="119.8,275.3 119.8,255.7 102.8,246.1 119.8,236.1 136.7,246.2 119.8,255.7 	"/>
+	<polyline class="st1" points="238.7,344 238.7,324.4 221.7,314.8 238.7,304.8 255.6,314.8 238.7,324.4 	"/>
+</g>
+<g>
+	<g class="Ae1">
+		<polygon class="st2 Ae1w1" points="85.7,137.9 85.6,118.2 136.6,88.9 102.8,69.2 51.8,98.6 51.8,118.3 		"/>
+		<polygon class="st2 Ae1w2" points="136.6,88.9 85.6,118.2 85.7,137.9 119.8,157.5 170.7,128.1 170.7,108.5 		"/>
+		<polygon class="st2 Ae1w3" points="136.7,49.5 204.6,88.9 204.8,108.5 170.7,128.1 170.7,108.5 102.8,69.2 		"/>
+	</g>
+	<g class="Ae2">
+		<polygon class="st3 Ae2w1" points="51.8,79 51.8,98.6 119.8,137.9 119.8,118.3 		"/>
+		<polygon class="st3 Ae2w1" points="119.8,118.3 204.7,69.2 204.6,88.9 119.8,137.9 		"/>
+	</g>
+	<g>
+		<polygon class="st3" points="51.8,59.4 51.8,79 119.8,118.3 119.8,98.7 		"/>
+		<polygon class="st3" points="119.8,98.7 119.8,118.3 204.7,69.2 204.8,49.6 		"/>
+	</g>
+	
+	<g>
+        <polygon class="st3" points="51.8,59.4 136.8,10.3 204.8,49.6 119.8,98.7 	"/>
+		<polygon class="st3" points="68.8,69.2 68.8,49.6 102.8,69.2 102.8,88.8 		"/>
+		<polygon class="st3" points="102.8,69.2 187.8,20.1 187.8,39.8 102.8,88.8 		"/>
+		<polygon class="st3" points="68.8,49.6 153.8,0.5 187.8,20.1 102.8,69.2 		"/>
+	</g>
+</g>
+<g>
+	<polygon class="st3" points="153.8,216.4 153.8,236.1 221.8,275.3 221.8,255.7 	"/>
+	<polygon class="st3" points="153.8,196.8 153.8,216.4 221.8,255.7 221.8,236.1 	"/>
+	<polygon class="st3" points="153.8,177.2 153.8,196.8 221.8,236.1 221.8,216.4 	"/>
+	<polygon class="st3" points="221.8,275.3 289.8,236.1 289.8,216.4 221.8,255.7 	"/>
+	<polygon class="st3" points="221.8,236.1 289.8,196.8 289.8,216.4 221.8,255.7 	"/>
+	<polygon class="st3" points="221.8,216.4 221.8,236.1 289.8,196.8 289.8,177.2 	"/>
+	<polygon class="st3" points="153.8,177.2 221.8,137.9 289.8,177.2 221.8,216.4 	"/>
+	<polygon class="st3" points="238.7,206.7 238.7,186.9 272.5,167.3 272.5,186.9 	"/>
+	<polygon class="st3" points="170.7,147.8 170.7,167.4 238.7,206.7 238.7,186.9 	"/>
+	<polygon class="st3" points="204.8,128.1 272.5,167.3 238.7,186.9 170.7,147.8 	"/>
+</g>
+<g>
+	<polygon class="st3" points="306.8,285.1 306.8,304.7 374.8,344 374.8,324.4 	"/>
+	<polygon class="st3" points="306.8,265.5 306.8,285.1 374.8,324.4 374.8,304.8 	"/>
+	<polygon class="st3" points="306.8,245.9 306.8,265.5 374.8,304.8 374.8,285.1 	"/>
+	<polygon class="st3" points="374.8,344 459.8,294.9 459.7,275.4 374.8,324.4 	"/>
+	<polygon class="st3" points="374.8,304.8 459.7,255.7 459.7,275.4 374.8,324.4 	"/>
+	<polygon class="st3" points="374.8,285.1 374.8,304.8 459.7,255.7 459.8,236 	"/>
+	<polygon class="st3" points="306.8,245.9 391.8,196.8 459.8,236 374.8,285.1 	"/>
+	<polygon class="st3" points="323.8,255.7 323.8,236 357.8,255.7 357.8,275.3 	"/>
+	<polygon class="st3" points="357.8,255.7 442.8,206.6 442.8,226.2 357.8,275.3 	"/>
+	<polygon class="st3" points="323.8,236 408.8,187 442.8,206.6 357.8,255.7 	"/>
+</g>
+</svg>
             <p class="over hovertext-1">hello</p>
         </div>
     </div>
@@ -82,20 +123,23 @@
                 <th>Wohnung</th>
                 <th class="l">Fläche</th>
             </tr>   
-            <tr class="eg1 h1">
+            <tr class="Ae1w1 h1">
                 <td><span><b>1</b> / 3,5er</span></td> 
                 <td class="l">89.50 m²</td>
             </tr> 
-            <tr class="eg2 h1">
+            <tr class="Ae1w2 h1">
                 <td><span><b>2</b> / 4,5er</span></td> 
                 <td class="l">118.00 m²</td>
             </tr>
-            <tr class="eg3 h1"> 
+            <tr class="Ae1w3 h1"> 
                 <td><span><b>3</b> / 2,5er</span></td> 
                 <td class="l">56.30 m²</td>
             </tr>
         </table>
     </div>
+    
+    <h1 class="Ae1w1g">Hello</h1>
+    <img  class="Ae1w1g" src="img/bulding-3d.svg" alt="Smiley face">
     
     
     
