@@ -142,15 +142,9 @@ g {
 }
 
 table {
-
     width: 84%;
-    position: relative;
     margin: 8%;
     border: none;
-}
-
-.lineactive {
-    display: table;
 }
 
 table, th, td, td a {
@@ -182,12 +176,15 @@ th:last-child, td:last-child {border-right: none;}
 
 .plan {
     display: none;
-    position: absolute;
+    position: fixed;
     top: 0px;
-    left: 0px;
-    width: 100%;
-    background-color: antiquewhite;
+    right: 0px;
+    width: 50%;
+    height:  100vh;
+    background-color: #fff;
     cursor: pointer;
+    z-index: 10;
+    
 }
 
 .planhover {
@@ -196,7 +193,7 @@ th:last-child, td:last-child {border-right: none;}
 
 .v td {
     font-style: italic;
-    opacity: 0.5;
+    color: rgba(95, 115, 92, 0.5);
 }
 
 
