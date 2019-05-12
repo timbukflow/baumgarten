@@ -1,19 +1,24 @@
 $(document).ready(function () {
     
     // building A //
+    
+    $(".a").hover(function() {
+        $("html, body").animate({scrollTop:$("#a").position().top},200);
+    });
+    
     $(".ae1w1").hover(function() {
         $(".ae1w1").toggleClass("activ");
-        $(".ae1").nextAll().toggleClass("up")});
+        $(".ae1").nextAll().toggleClass("up");});
     $(".ae1w2").hover(function() {
         $(".ae1w2").toggleClass("activ");
-        $(".ae1").nextAll().toggleClass("up")});
+        $(".ae1").nextAll().toggleClass("up");});
     $(".ae1w3").hover(function() {
         $(".ae1w3").toggleClass("activ");
-        $(".ae1").nextAll().toggleClass("up")});
+        $(".ae1").nextAll().toggleClass("up");}); 
     
     $(".ae2w1").hover(function() {
         $(".ae2w1").toggleClass("activ");
-        $(".ae2").nextAll().toggleClass("up")});
+        $(".ae2").nextAll().toggleClass("up");});
     $(".ae2w2").hover(function() {
         $(".ae2w2").toggleClass("activ");
         $(".ae2").nextAll().toggleClass("up")});
@@ -36,11 +41,15 @@ $(document).ready(function () {
     $(".ae4w2").hover(function() {
         $(".ae4w2").toggleClass("activ");});
 
+    // building B //
+    
+    $(".b").hover(function() {
+        $("html, body").animate({scrollTop:$("#b").position().top},200);
+    });
     
     
-    
-    $(".Ae1w1g").click(function(){
-        $(".Ae1w1gp").fadeToggle("gfade")
+    $(".planb").click(function(){
+        $(this).children().fadeToggle("planhover")
     });
     
     
