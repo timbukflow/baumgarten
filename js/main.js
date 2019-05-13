@@ -44,13 +44,25 @@ $(document).ready(function () {
     // building B //
     
     $(".b").hover(function() {
-        $("html, body").animate({scrollTop:$("#b").position().top},200);
+        $("html, body").animate({scrollTop:$("#b").position().top},500);
     });
     
+    // plan hover //
     
     $(".planb").click(function(){
         $(this).children().fadeToggle("planhover")
     });
+    
+    // nav //
+    
+    $('#navburger').click(function(){
+		$(this).toggleClass('open');
+        $('.nav').fadeToggle(1000);
+        $('.nav ul').toggleClass('up');
+        $('.nav li').toggleClass('open');
+        $('h4').toggleClass('navon')
+        $('body').toggleClass('noscroll')
+	});
     
     
     

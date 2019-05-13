@@ -41,8 +41,36 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
+    <nav id="navcontainer">  
+        <div class="logocontainer">
+            <a href="index" target="_top">
+                <img class="logo" alt="baumgarten freudenau goldach logo" src="img/baumgarten-freudenau-goldach-logo.svg" width="81" height="56">
+                <h1 class="header">Baumgarten</h1>
+            </a>
+            <div id="navburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>    
+            </div>
+            <div class="mail">
+                <a href="kontakt">
+                    <img alt="adlerweg-wittenbach-mail" src="img/adlerweg-wittenbach-mail.svg" height="26" width="18">
+                </a>
+            </div>
+        </div>
+        <div class="nav">
+            <ul>
+                <li><a href="index">Projekt</a></li>
+                <li><a href="lage">Lage</a></li>
+                <li><a href="grundrisse">Grundrisse</a></li>
+                <li><a href="download/adlerweg-wittenbach-inlay.pdf" target="_blank">Miete</a></li>
+                <li><a href="kontakt">Kontakt</a></li>
+            </ul>
+        </div>
+    </nav>
+    
     <div class="cb">
-        
         <svg version="1.1" id="bulding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
              viewBox="0 0 494.4 383.4" style="enable-background:new 0 0 494.4 383.4;" xml:space="preserve">
             <g><!--way and tree-->
@@ -213,10 +241,14 @@
                                      c0.6-0.6,1.3-1.1,2.1-1.5C438.3,148,439.2,147.8,440.1,147.8z"/>
             </g>
         </svg>
+        <div class="reservation">
+            <h3>Vermietungsstart:<br>Reservieren Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Oktober 2020 bezugsbereit.</h3>
+        </div>
     </div>
     
     <div class="ct">
-        <table id="a">   
+        <h4>Haus A</h4>
+        <table id="a">
             <tr>      
                 <th>Haus</th>
                 <th>Ebene</th>
@@ -371,6 +403,7 @@
             </tr>
         </table>
         
+        <h4>Haus B</h4>
         <table id="b">   
             <tr>      
                 <th>Haus</th>
