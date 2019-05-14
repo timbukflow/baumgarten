@@ -85,7 +85,7 @@
     
     <div class="chome">
         <div class="fg">
-            <h1>Freudenau Goldach</h1>
+            <h1>Leben im Freudenau bei Goldach</h1>
             <p>Finden Sie in unserer modernen Überbauung, Baumgarten beim Freudenau in Goldach – in einem der fünf hochwertigen Wohnhäuser – Ihre neue, gut besonnte 2.5- bis 4.5-Zimmer-Wohnung mit Terrasse, Balkon oder Gartensitzplatz. Im Haus 1 stehen zudem Gewerbeflächen zur Verfügung.</p>
             <p>Die Wohnungsgrundrisse weisen allesamt grosszügige und offene Wohnräume auf, mit direkt angelagerten Balkon- oder Gartenflächen und klar davon abgetrennten Schlafbereichen.</p>
             <h3><a class="link" href="#lage" target="_blank">Feudenau in Goldach</a></h3>
