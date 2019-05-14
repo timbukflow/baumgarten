@@ -3,7 +3,7 @@ $(document).ready(function () {
     // building A //
     
     $(".a").hover(function() {
-        $("html, body").animate({scrollTop:$("#a").position().top},200);
+        $("html, body").animate({scrollTop:$("#a").position().top - 125},200);
     });
     
     $(".ae1w1").hover(function() {
@@ -41,11 +41,13 @@ $(document).ready(function () {
     $(".ae4w2").hover(function() {
         $(".ae4w2").toggleClass("activ");});
 
+    
     // building B //
     
     $(".b").hover(function() {
         $("html, body").animate({scrollTop:$("#b").position().top},500);
     });
+    
     
     // plan hover //
     
@@ -53,16 +55,29 @@ $(document).ready(function () {
         $(this).children().fadeToggle("planhover")
     });
     
+    
     // nav //
     
     $('#navburger').click(function(){
 		$(this).toggleClass('open');
-        $('.nav').fadeToggle(1000);
-        $('.nav ul').toggleClass('up');
-        $('.nav li').toggleClass('open');
-        $('h4').toggleClass('navon')
+        $('.resp').toggleClass('navrespon')
         $('body').toggleClass('noscroll')
 	});
+    
+    
+    // nav scroll down fade in //
+    
+     $(window).scroll(function() { 
+         if ($(this).scrollTop()> 300) { 
+             $('.navc').addClass("navfade"); 
+         } else { 
+             $('.navc').removeClass("navfade");
+             $('.resp').removeClass("navrespon");
+         } 
+});
+    
+    
+    
     
     
     

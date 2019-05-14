@@ -41,32 +41,23 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
-    <nav id="navcontainer">  
-        <div class="logocontainer">
+    <nav class="navc m">  
+        <div class="logonav">
             <a href="index" target="_top">
                 <img class="logo" alt="baumgarten freudenau goldach logo" src="img/baumgarten-freudenau-goldach-logo.svg" width="81" height="56">
-                <h1 class="header">Baumgarten</h1>
+                <h1>Baumgarten</h1>
             </a>
+        </div>
+        <div class="topnav" id="myTopnav">
+            <a class="resp" href="#lage">Lage</a>
+            <a class="resp" href="mietwohnungen">Mietwohnungen</a>
+            <a class="resp" href="#kontakt">Kontakt</a>
             <div id="navburger">
                 <span></span>
                 <span></span>
                 <span></span>
                 <span></span>    
             </div>
-            <div class="mail">
-                <a href="kontakt">
-                    <img alt="adlerweg-wittenbach-mail" src="img/adlerweg-wittenbach-mail.svg" height="26" width="18">
-                </a>
-            </div>
-        </div>
-        <div class="nav">
-            <ul>
-                <li><a href="index">Projekt</a></li>
-                <li><a href="lage">Lage</a></li>
-                <li><a href="grundrisse">Grundrisse</a></li>
-                <li><a href="download/adlerweg-wittenbach-inlay.pdf" target="_blank">Miete</a></li>
-                <li><a href="kontakt">Kontakt</a></li>
-            </ul>
         </div>
     </nav>
     
@@ -242,7 +233,7 @@
             </g>
         </svg>
         <div class="reservation">
-            <h3>Vermietungsstart:<br>Reservieren Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Oktober 2020 bezugsbereit.</h3>
+            <h3>Vermietungsstart:<br>Reservieren Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Oktober 2020 bezugsbereit.<br><a class="link" href="download/.pdf" target="_blank">Anmeldeformular</a></h3>
         </div>
     </div>
     

@@ -96,96 +96,144 @@ body {
   background: #fff;
 }
     
-h1, h2, h3, h4 {
+h1, h2, h3, h4, p, a  {
     font-family: 'PT Serif', serif;
-    color: #5F735C;
+    color: #3c483a;
     font-size: 24px;
     text-decoration: none;
     font-weight: 400;
     text-align: left;
-    letter-spacing: 0.75px;
+    letter-spacing: 0.6px;
 }
 
-h3 {
-    font-size: 16px;
+h3, h3, a {
+    font-size: 17px;
 }
 
-a {
-    text-decoration: none;
+p{
+    font-size: 18px;
+    line-height: 1.75;
 }
+
+.link {
+    position: relative;
+    display: inline-block;
+    
+}
+
+.link::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: 0 auto;
+    height: 1px;
+    background-color: #5F735C;
+    -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.link:hover::after {
+    width: 80%;
+    -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
 /*---------------------------------- 
     header nav
 -----------------------------------*/
 
-#navcontainer {
+.navc {
     position: fixed;
     width: 100%;
-    margin: 0 auto;
-    background-color: #fff;
-    z-index: 100;
-    top: 0;
+    z-index: 1;
+    top: -100px;
+    background: white;
+    -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
-.navon {
-    display: none;
-    opacity: 0;
-    -webkit-transition: .75s ease-in-out;
-    -moz-transition: .75s ease-in-out;
-    -o-transition: .75s ease-in-out;
-    transition: .75s ease-in-out;
+.m {
+    top: 0px;
 }
 
-.logocontainer {
-    padding: 22px 45px;
-    -webkit-transition:.75s ease-in-out;
-    -moz-transition: .75s ease-in-out;
-    -o-transition: .75s ease-in-out;
-    transition: .75s ease-in-out; 
+.navfade {
+    top: 0px;
+    -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+
+.logonav {
+    float: left;
 }
 
 .logo {
-    width: 81px;
+    margin: 20px 10px 20px 30px;
+    vertical-align: bottom;
+    
 }
 
-h1.header {
+.logonav h1 {
     display: inline-block;
-    padding: 0px 25px;
-    padding-top: 9px;
-    vertical-align: middle;
+    margin-top: 43px;
 }
 
-.phone, .mail {
+
+.topnav {
     float: right;
+        margin: 40px 15px 0px 0px;
+    
+}
+
+.topnav a {
+    display: inline-block;
     position: relative;
-    margin: 24px 40px 24px 0px;
-    -webkit-transition:.75s ease-in-out;
-    -moz-transition: .75s ease-in-out;
-    -o-transition: .75s ease-in-out;
-    transition: .75s ease-in-out;
+    text-align: right;
+    float: left;
+    padding: 15px;
+    color: #5F735C;
 }
 
-.mail a {
-    font-size: 16px;
+.topnav a::after {
+    content: '';
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    width: 0;
+    margin: 0 auto;
+    height: 1px;
+    background-color: white;
+     -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
-.phone img, .mail img{
-    width: 24px;
+.topnav a:hover::after {
+    width: 80%;
+     -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
-.mail:hover img {
-    opacity: 0.5;
+.navrespon {
+    display: block !important;
 }
+
+
 
 /*---------------------------------- 
     nav burger
 -----------------------------------*/
 
 #navburger {
+    display: none;
     float: right;
     width: 25px;
     height: 17px;
     position: relative;
-    margin: 28px 0px;
+    
     cursor: pointer;
     z-index: 11;
     -webkit-transition: .75s ease-in-out ;
@@ -294,6 +342,145 @@ h1.header {
 }
 
 /*---------------------------------- 
+    start
+-----------------------------------*/
+
+.cstart {
+    width: calc(100% - 60px);
+    height: calc(100vh - 60px);
+    margin: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.logonavstart {
+    position: absolute;
+    top: 0;
+    background: #5F735C;
+}
+
+.logonavstart img {
+    margin: 60px;
+}
+
+.topnavstart {
+    float: right;
+    margin: 10px 15px;
+    position: absolute;
+    right: 0;
+}
+
+.topnavstart a {
+    display: inline-block;
+    position: relative;
+    text-align: right;
+    float: left;
+    padding: 15px;
+    color: white;
+}
+
+.topnavstart a::after {
+    content: '';
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    width: 0;
+    margin: 0 auto;
+    height: 1px;
+    background-color: white;
+     -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.topnavstart a:hover::after {
+    width: 80%;
+     -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.simgl, .simgr {
+    width: 50%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    float: left;
+}
+
+.simgl {background-image: url("../img/baumgarten-freudenau-goldach-aussen-02.jpg");}
+.simgr {background-image: url("../img/baumgarten-freudenau-goldach-aussen-04.jpg");
+background-position: right;}
+
+.stitle {
+    position: absolute;
+    top: 40%;
+    right: 0;
+    left: 0;
+    margin: auto;
+    font-size: 120px;
+    text-align: center;
+    color: white;
+}
+
+/*---------------------------------- 
+    projekt
+-----------------------------------*/
+
+.chome {
+    margin: 0px 30px;
+    position: relative;
+    display: inline-block;
+}
+
+.fg {
+    float: right;
+    background: #e9e1cb;
+    width: 40%;
+    position: relative;
+    top: -120px;
+    padding: 40px 60px;
+    
+}
+
+.fg h1 {
+    color: #435041;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+
+/*---------------------------------- 
+    inview animation
+-----------------------------------*/
+
+.inviewtop {
+    
+}
+
+.inview-fade-top {
+    box-shadow: inset 0px 0px 100px 0px rgba(0,0,0,0.75);
+    background-color: blueviolet;
+    -webkit-transition: all 1.5s ease-in-out;
+    transition:         all 1.5s ease-in-out;
+    transition-delay: 1.5s;
+}
+
+
+.inview {
+    left: -200px;
+    letter-spacing: -10px;
+    -webkit-transition: all 1.5s ease-in-out;
+    transition:         all 1.5s ease-in-out;
+}
+
+.inview-fade {
+    left:0px;
+    letter-spacing: 0px;
+}
+
+/*---------------------------------- 
     container bulding
 -----------------------------------*/
 
@@ -303,8 +490,7 @@ h1.header {
     margin: 40px 0px;
     position: fixed;
     display: inline-block;
-    border-right:1px dashed #5F735C; 
-    
+    border-right:1px dashed #5F735C;    
 }
 
 #bulding {
@@ -329,12 +515,14 @@ g {
 .activ {
     fill: #BEC7BE;
     background: rgba(190, 199, 190, 0.75);
-    transition: all 0.75s ease-in-out;
+    -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
 .up {
     opacity: 0.75;
-    transition: all 0.75s ease-in-out;
+    -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
     transform: translate(0px, -50px);
 }
 
@@ -351,7 +539,7 @@ g {
 -----------------------------------*/
 
 .ct {
-    height: 100vh;
+    top: 124px;;
     width: 50%;
     position: absolute;
     right: 0;
@@ -407,7 +595,6 @@ th:last-child, td:last-child {border-right: none;}
     background-color: #fff;
     cursor: pointer;
     z-index: 10;
-    
 }
 
 .planhover {
@@ -421,75 +608,6 @@ th:last-child, td:last-child {border-right: none;}
 
 
 /*---------------------------------- 
-    start
------------------------------------*/
-
-.cs50 {
-    width: 50%;
-    height: 100vh;
-    position: relative;
-    float: left;
-    background-color: green;
-    overflow: hidden;
-}
-
-.cs5025 {
-    width: 50%;
-    height: 50vh;
-    position: relative;
-    float: left;
-    background-color: darkgreen;
-    overflow: hidden;
-}
-
-/*---------------------------------- 
-    grundrisse
------------------------------------*/
-
-.hnr {
-    display: inline-block;
-    margin: 50px;
-}
-
-.hg {
-    width: 500px;
-    height: 400px;
-    position: absolute;
-    display: inline-block;
-}
-
-
-/*---------------------------------- 
-    inview animation
------------------------------------*/
-
-.inviewtop {
-    
-}
-
-.inview-fade-top {
-    box-shadow: inset 0px 0px 100px 0px rgba(0,0,0,0.75);
-    background-color: blueviolet;
-    -webkit-transition: all 1.5s ease-in-out;
-    transition:         all 1.5s ease-in-out;
-    transition-delay: 1.5s;
-}
-
-
-.inview {
-    left: -200px;
-    letter-spacing: -10px;
-    -webkit-transition: all 1.5s ease-in-out;
-    transition:         all 1.5s ease-in-out;
-}
-
-.inview-fade {
-    left:0px;
-    letter-spacing: 0px;
-}
-
-
-/*---------------------------------- 
 responsive ipad
 -----------------------------------*/
 
@@ -497,87 +615,37 @@ responsive ipad
 
 @media only screen and (max-width: 1400px) {
    
-    .headline-left, .headline-right, .headline-left-lage, .headline-right-lage {font-size: 21px;}
    
 }
 
 @media only screen and (max-width: 1200px) {
    
-    .headline-left, .headline-right, .headline-left-lage, .headline-right-lage {font-size: 18px; padding: 5%;}
-    h4 {font-size: 200px; line-height: 1.2;}
-   
-}
-
-@media only screen and (max-width: 970px) {
-    .headline-left, .headline-right, .headline-left-lage, .headline-right-lage {font-size: 24px; padding: 6%; float: left; width: 80%; margin-top: 0px;}
-    .article-projekt{margin-top: 70px;}
-    .article-projekt img {width: 100%;}
-    h4 {font-size: 200px; line-height: 1.2; top: 20%; left: 60%;}
-    .right {left: 60%;}
-    .three {top:13%;}
-}
-
-@media only screen and (max-width: 770px) {
-    h1.header {margin: 0;}
-    .header span {display: block;}
-    .minergie {width: 100%}
-    .minergie img {width: 170px; margin: 8px; margin-left: 18px;}
-    .minergie h1, .minergie h1.red {padding:15px;}
-    .minergie h1.red {float: right;}
-    h4 {top: 26%;}
-    .headerimg {min-height: 88vh;}
-    .article-grundrisse-left, .article-grundrisse-ug {width: 80%; margin: 0px 10%;}
-    .article-grundrisse-right {width: 100%;}
-    .container {width: 100%;}
-    .container-kontakt {width: 50%; margin-top: 0; padding: 0px 80px;}
-    .three {top:16%;}
-}
-
-@media only screen and (max-width: 690px) {
-    .minergie h1.red {width: 100%;} 
-    h4 {top: 30%; left: 50%;}
-    .right {left: 50%;}
-    .three {top: 20%;}
-    .container-kontakt {padding-right: 30px;}
   
 }
 
+@media only screen and (max-width: 770px) {
+    #navburger {display: block;}
+    .topnav a {
+    display: none;
+    float: none;
+    }
+    
+}
+
+@media only screen and (max-width: 690px) {
+ 
+}
+
 @media only screen and (max-width: 570px) {
-    .nav li {padding-right: 30px;}
-    .logo {width: 102px !important;}
-    #navburger {margin: 22px 0px !important;}
-    .logocontainer {padding: 14px 30px !important;}
-    .mail {display:none;}
-    .headline-left, .headline-right, .headline-left-lage, .headline-right-lage {width: 100%; font-size: 20px;}
-    .footer li {width: 100%;}
-    .footer li a {padding: 12px; padding-right: 20px; text-align: right;}
-    h1.header {font-size: 18px !important; padding-top: 5px;}
-    .three {top: 18%;}
-    .article-grundrisse-right img {margin: 80px 10%; width: 80%;}
-    .article-grundrisse {padding-top: 10px;}
-    .container-kontakt {width: 100%;}
-    .minergie img { width: 150px; margin: 8px; margin-left: 18px; margin-right: 0;}
+  
 }
 
 @media only screen and (max-width: 415px) {
-    .logocontainer {padding: 14px 20px !important;}
-    h1.header {padding-left: 12px;}
-    h1.header {font-size: 18px !important; padding-top: 5px;}
-    .logo {width: 90px !important;}
-    #navburger {margin: 17px 0px !important;}
-    .minergie h1 {font-size: 20px; padding: 10px; padding-top: 14px;}
-    .minergie img {width: 120px;}
-    .minergie h1.red {padding: 10px;}
-    h4 {font-size: 130px; left: 50%; top:36%;}
-    .right {left: 50%;}
-    .three {top: 25%;}
+  
 }
 
 @media only screen and (max-width: 375px) {
-    h4 {top: 40%;}
-    .three {top: 26%;}
-    .container {padding: 0 10px; margin-top: 90px;}
-    .container-kontakt {padding: 0px 40px;}
+   
 }
 
 

@@ -33,14 +33,66 @@
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i" rel="stylesheet">
 </head>
 
 <body>
   <!--[if IE]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
-
+    
+    
+    <nav class="navc">  
+        <div class="logonav">
+            <a href="index" target="_top">
+                <img class="logo" alt="baumgarten freudenau goldach logo" src="img/baumgarten-freudenau-goldach-logo.svg" width="81" height="56">
+                <h1>Baumgarten</h1>
+            </a>
+        </div>
+        <div class="topnav" id="myTopnav">
+            <div id="navburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>    
+            </div>
+            <a class="resp" href="#lage">Lage</a>
+            <a class="resp" href="mietwohnungen">Mietwohnungen</a>
+            <a class="resp" href="#kontakt">Kontakt</a>
+        </div>
+    </nav>
+    
+    <div class="cstart">
+        <div class="logonavstart">
+            <img alt="baumgarten freudenau goldach logo" src="img/baumgarten-freudenau-goldach-logo-weiss.svg" width="84" height="58">
+        </div>
+        <div class="topnavstart">
+            <a href="lage">Goldach</a>
+            <a href="mietwohnungen">Mietwohnungen</a>
+            <a href="kontakt">Kontakt</a>
+            <div id="navburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>    
+            </div>
+        </div>
+        
+        <div class="simgl"></div>
+        <div class="simgr"></div>
+        <h1 class="stitle">Baumgarten</h1>
+    </div>
+    
+    <div class="chome">
+        <div class="fg">
+            <h1>Freudenau Goldach</h1>
+            <p>Finden Sie in unserer modernen Überbauung, Baumgarten beim Freudenau in Goldach – in einem der fünf hochwertigen Wohnhäuser – Ihre neue, gut besonnte 2.5- bis 4.5-Zimmer-Wohnung mit Terrasse, Balkon oder Gartensitzplatz. Im Haus 1 stehen zudem Gewerbeflächen zur Verfügung.</p>
+            <p>Die Wohnungsgrundrisse weisen allesamt grosszügige und offene Wohnräume auf, mit direkt angelagerten Balkon- oder Gartenflächen und klar davon abgetrennten Schlafbereichen.</p>
+            <h3><a class="link" href="#lage" target="_blank">Feudenau in Goldach</a></h3>
+        </div>
+    </div>
+    
+    
     <div class="cs50 inview">
         <h1>B1</h1>
     </div>
