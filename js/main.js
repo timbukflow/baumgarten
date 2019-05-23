@@ -60,51 +60,18 @@ $(document).ready(function () {
     
     $('#navburger').click(function(){
 		$(this).toggleClass('open');
-        $('.resp').toggleClass('navrespon')
-        $('body').toggleClass('noscroll')
+        $('.nav').toggleClass('navfade')
 	});
-    
-    
-    // nav scroll down fade in //
-    
-     $(window).scroll(function() { 
-         if ($(this).scrollTop()> 300) { 
-             $('.navc').addClass("navfade"); 
-         } else { 
-             $('.navc').removeClass("navfade");
-             $('.resp').removeClass("navrespon");
-         } 
-});
-    
-    
-    
-    
-    
-    
-    $(window).scroll(function() {
-        $('.inview').each(function(i) {
-            var bottom_of_object = $(this).offset().top;
-            var bottom_of_window = $(window).scrollTop() + $(window).height();
-            
-            if( bottom_of_window > bottom_of_object ) {
-                $(this).addClass('inview-fade');
-            } else {
-                $(this).removeClass('inview-fade');
-            }
-        }); 
-    }).scroll();
-    
-    $(window).scroll(function() {
-        $('.inviewtop').each(function(i) {
-            var bottom_of_object = $(this).offset().top;
-            var bottom_of_window = $(window).scrollTop() + $(window).height();
-            
-            if( bottom_of_window > bottom_of_object ) {
-                $(this).addClass('inview-fade-top');
-            } else {
-                $(this).removeClass('inview-fade-top');
-            }
-        }); 
-    }).scroll();
+
+    // impressum //
+
+    $('.impressum').click(function() {
+        var totoggle = $(this).attr("data-toggle");
+        $(totoggle).slideToggle(500);
+        
+        if ($(totoggle).is(":visible")) {
+            $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000);
+        }     
+    });
     
 });

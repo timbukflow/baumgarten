@@ -1,0 +1,669 @@
+/*
+    Theme Name: baumgarten
+    Description: baumgarten
+    Version: 1.0
+    Author: Ivo Schwizer
+    Author URI: http://schwizerschlatter.com
+    Tags: No Tags
+*/
+
+html, body {
+    height: 100%;
+    position:relative;
+}
+
+body {
+    margin:0px;
+    background-color: #fff;
+    padding: 0px;
+}
+    
+h1, h2, h3, h4, p, a, figcaption  {
+    color: #718166;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'PT Serif', serif;  
+    font-size: 16px;
+    line-height: 25px;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    text-decoration: none;
+    letter-spacing: 0.6px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+figure {
+    margin-bottom: 50px;
+}
+
+figcaption {
+    font-size: 14px;
+    padding: 10px 15px;
+}
+
+p, a{
+    font-size: 18px;
+    line-height: 1.75;
+}
+
+.link, .linkw {
+    position: relative;
+    display: inline-block; 
+}
+
+.link::after {
+    content: '';
+    position: absolute;
+    bottom:0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: 0 auto;
+    height: 1px;
+    background-color: #718166;
+    opacity: 0.5;
+    -webkit-transition: .25s ease-in-out ;
+    -moz-transition: .25s ease-in-out;
+    -o-transition: .25s ease-in-out;
+    transition: .25s ease-in-out;
+}
+
+.link:hover::after{
+    opacity: 1;
+    width: 90%;
+    -webkit-transition: .25s ease-in-out ;
+    -moz-transition: .25s ease-in-out;
+    -o-transition: .25s ease-in-out;
+    transition: .25s ease-in-out;
+}
+
+.linkw::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: 0 auto;
+    height: 1px;
+    background-color: #ffffff;
+    opacity: 0.25;
+    -webkit-transition: .25s ease-in-out ;
+    -moz-transition: .25s ease-in-out;
+    -o-transition: .25s ease-in-out;
+    transition: .25s ease-in-out;
+}
+
+.linkw:hover::after{
+    opacity: 1;
+    width: 90%;
+    -webkit-transition: .25s ease-in-out ;
+    -moz-transition: .25s ease-in-out;
+    -o-transition: .25s ease-in-out;
+    transition: .25s ease-in-out;
+}
+
+/*---------------------------------- 
+    header nav
+-----------------------------------*/
+
+.navcontainer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 100;
+}
+
+.navlogo {
+    float: left;
+}
+
+.navlogo a {
+    background: #718166;
+    padding: 34px 37px;
+    display: inline-block;
+}
+
+.navburgercontainer {
+    float: left;
+    background: #fff;
+}
+
+/*---------------------------------- 
+    nav burger
+-----------------------------------*/
+
+#navburger {
+    display: block;
+    float: right;
+    width: 24px;
+    height: 16px;
+    position: relative;
+    margin: 52px 63px;
+    cursor: pointer;
+    -webkit-transition: .75s ease-in-out ;
+    -moz-transition: .75s ease-in-out;
+    -o-transition: .75s ease-in-out;
+    transition: .75s ease-in-out;
+}
+
+#navburger span {
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    background: #718166;
+    opacity: 1;
+    left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: .25s ease-in-out;
+    -moz-transition: .25s ease-in-out;
+    -o-transition: .25s ease-in-out;
+    transition: .25s ease-in-out;
+}
+
+#navburger span:nth-child(1) {
+    top: 0px;
+}
+
+#navburger span:nth-child(2),#navburger span:nth-child(3) {
+    top: 7px;
+}
+
+#navburger span:nth-child(4) {
+    top: 14px;
+}
+
+#navburger.open span:nth-child(1) {
+    top: 7px;
+    width: 0%;
+    left: 50%;
+}
+
+#navburger.open span:nth-child(2) {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#navburger.open span:nth-child(3) {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+#navburger.open span:nth-child(4) {
+    top: 8px;
+    width: 0%;
+    left: 50%;
+}
+
+.nav {
+    background-color: #718166;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    display: none;
+    left: 0;
+    top: 0;
+}
+
+.navfade {
+    display: block;
+}
+
+.nav ul {
+    position: absolute;
+    width: 100%;
+    top: 35%;
+    text-align: center;
+    padding: 0;
+}
+
+.nav li {
+    list-style-type: none;
+    margin: 20px 0px;
+}
+
+.nav a {
+    font-size: 34px;
+    color: #354033;
+    -webkit-transition: 0.25s ease-in-out;
+    -moz-transition: 0.25s ease-in-out;
+    -o-transition: 0.25s ease-in-out;
+    transition: 0.25s ease-in-out;
+}
+
+.nav a:hover {
+    color: #fff;
+    -webkit-transition: 0.25s ease-in-out;
+    -moz-transition: 0.25s ease-in-out;
+    -o-transition: 0.25s ease-in-out;
+    transition: 0.25s ease-in-out;
+}
+
+.nav img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+}
+
+/*---------------------------------- 
+    start
+-----------------------------------*/
+
+.sectionhome {
+    width: calc(100% - 60px);
+    height: calc(100vh - 60px);
+    margin: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.stitle {
+    position: absolute;
+    top: 40%;
+    right: 0;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 120px;
+    color: white;
+}
+
+.subtitle {
+    position: absolute;
+    width: 25%;
+    bottom: 0;
+    padding: 2%;
+    left: 0;
+    color: #fff;
+    margin: 0px;
+    
+}
+
+.subtitle a {
+    color: #fff;
+}
+
+.simgl, .simgr {
+    width: 50%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    float: left;
+}
+
+.simgl {background-image: url("../img/baumgarten-freudenau-goldach-aussen-baumgartenweg.jpg");}
+.simgr {background-image: url("../img/baumgarten-freudenau-goldach-aussen-04.jpg");
+background-position: right;}
+
+
+
+/*---------------------------------- 
+    projekt
+-----------------------------------*/
+
+.sectioncontainer {
+    margin: 0px 30px;
+    position: relative;
+    display: inline-block;
+}
+
+.acontainer {
+    position: relative;
+    width: 100%;
+    display: inline-block;
+    float: left;
+    margin-bottom: 80px;
+}
+
+.einleitung {
+    background: #718166;
+    width: 40%;
+    position: absolute;
+    right: 0;
+    top: -140px;
+    padding: 60px 60px 0px 60px;
+}
+
+.einleitung h1 {
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+
+
+.einleitunglauftext {
+    position: relative;
+    float: right;
+    background: #718166;
+    width: 40%;
+    top: 0;
+    padding: 20px 60px 60px 60px;
+}
+
+.einleitunglauftext p,
+.einleitunglauftext a{
+    color: #fff;
+}
+
+
+.logocontainer {
+    position: relative;
+    float: left;
+    width: 50%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.content50 {
+    position: relative;
+    width: 42%;
+    float: left;
+    padding: 4%;
+}
+
+.content75 {
+    position: relative;
+    width: 65%;
+    float: left;
+    padding: 4%;
+}
+
+.content50img {
+    position: relative;
+    width: 50%;
+    float: left;
+    padding: 0%;
+}
+
+.content75img {
+    position: relative;
+    width: 75%;
+    float: right;
+    padding: 0%;
+}
+
+.building{
+    padding: 6%;
+    width: 38%;
+}    
+
+.building svg{
+    position: absolute;
+    width: 76%;
+}
+
+.lb {
+    margin-top: 322px;
+    width: 30%;
+    padding-right: 16%;
+}
+
+.st6{ 
+    fill:#718166;
+    stroke:#718166;
+    stroke-width: 1;
+    opacity: 0;
+     -webkit-transition: 0.25s ease-in-out;
+    -moz-transition: 0.25s ease-in-out;
+    -o-transition: 0.25s ease-in-out;
+    transition: 0.25s ease-in-out;
+}
+
+.st6:hover{
+    opacity: 0.5;
+     -webkit-transition: 0.25s ease-in-out;
+    -moz-transition: 0.25s ease-in-out;
+    -o-transition: 0.25s ease-in-out;
+    transition: 0.25s ease-in-out;
+}
+
+/*---------------------------------- 
+    container bulding
+-----------------------------------*/
+
+.cb {
+    height: calc(100vh - 80px);
+    width: 50%;
+    margin: 40px 0px;
+    position: fixed;
+    display: inline-block;
+    border-right:1px dashed #718166;    
+}
+
+#bulding {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    margin: auto 10%;
+    overflow: visible;
+    cursor: pointer;
+}
+
+.st0{ fill:none;stroke:#718166;stroke-width: ;}
+.st1{ fill:#FFFFFF;stroke:#718166;stroke-width: 1;}
+.st3{ fill:none;stroke:#718166;stroke-dasharray:3,3; stroke-width: 1;}
+.st4{ fill:#718166;stroke-width: 1;}
+.st5{ fill:#FFFFFF;stroke:#718166;stroke-width: 1;}
+
+g {
+    transition: all 0.75s ease-in-out;
+}
+
+.activ {
+    fill: #BEC7BE;
+    background: rgba(190, 199, 190, 0.75);
+    -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.up {
+    opacity: 0.75;
+    -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transform: translate(0px, -50px);
+}
+
+.reservation {
+    position: absolute;
+    bottom: 0px;
+    width: 80%;
+    margin: 0% 10%;
+    
+}
+
+/*---------------------------------- 
+    container table
+-----------------------------------*/
+
+.ct {
+    top: 124px;;
+    width: 50%;
+    position: relative;
+    float: right;
+    right: 0;
+    display: inline-block;
+}
+
+.ct h4 {
+    width: 84%;
+    margin: 10% 8% 3% 8%;
+    padding-left: 10px;
+}
+
+table {
+    width: 84%;
+    margin: 3% 8%;
+    border: none;
+}
+
+table, th, td, td a {
+    font-family: 'PT Serif', serif;
+    color: #718166;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: 0.75px;
+    border-collapse: collapse;
+}
+
+th {
+    font-size: 12px;
+}
+
+th, td {
+    padding: 5px 0px 5px 10px;
+    text-align: left;
+    border-bottom: 1px solid #BEC7BE;   
+    border-right: 1px dashed #BEC7BE;
+}
+
+th:last-child, td:last-child {border-right: none;}
+
+.planb {cursor: pointer;}
+.planb img {margin: 3px;}
+
+.plan {
+    display: none;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 50%;
+    height:  100vh;
+    background-color: #fff;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.planhover {
+    display: block;
+}
+
+.v td {
+    font-style: italic;
+    color: rgba(95, 115, 92, 0.5);
+}
+
+/*---------------------------------- 
+    footer
+-----------------------------------*/
+
+footer {
+    margin: 0px 30px;
+    position: relative;
+    display: inline-block;
+    background: #718166;
+    width: calc(100% - 60px);
+    float: left;
+}
+
+.footer {
+    display: inline-block;
+    width: 100%;
+}
+
+.footerkontakt {
+    float: left;
+    
+}
+
+.footerkontakt p {
+    color: #fff;
+    padding: 40px;
+    margin: 0;
+}
+
+.footerkontakt a,
+#impressum p{
+    color: #fff;
+}
+
+.footernav {
+    float: right;
+    margin: 40px;
+}
+
+.footernav ul {
+    margin: 0;
+}
+
+.footernav a {
+    color: #fff;
+    margin: 0;
+}
+
+.impressum {
+    color: #fff;
+    margin: 0;
+    cursor: pointer;
+}
+
+#impressum {
+    display: none;
+    padding: 0px 40px;
+    position: relative;
+    float: left;
+}
+
+
+
+/*---------------------------------- 
+responsive ipad
+-----------------------------------*/
+
+
+
+@media only screen and (max-width: 1400px) {
+   
+   
+}
+
+@media only screen and (max-width: 1200px) {
+   
+  
+}
+
+@media only screen and (max-width: 770px) {
+    #navburger {display: block;}
+    .topnav a {
+    display: none;
+    float: none;
+    }
+    
+}
+
+@media only screen and (max-width: 690px) {
+ 
+}
+
+@media only screen and (max-width: 570px) {
+  
+}
+
+@media only screen and (max-width: 415px) {
+  
+}
+
+@media only screen and (max-width: 375px) {
+   
+}
