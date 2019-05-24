@@ -11,8 +11,15 @@
                 <span></span>
                 <span></span>
                 <span></span>
-                <span></span>    
+                <span></span>              
             </div>
+            <ul class="navfade">
+            <li><a href="#lage">Baumgarten</a></li>
+            <li><a href="#lage">Goldach</a></li>
+            <li><a href="mietwohnungen">Wohnangebot</a></li>
+            <li><a href="mietwohnungen">Baubeschreibung</a></li>
+            <li><a href="#kontakt">Kontakt</a></li>
+        </ul>
         </div>
     </nav>
     

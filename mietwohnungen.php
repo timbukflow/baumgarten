@@ -10,9 +10,6 @@
     <?php include 'header.php'; ?>
     
     <div class="cb">
-        <div class="grundriss">
-            <h1>Baumgarten Wohnangebot</h1>
-        </div>
         <svg version="1.1" id="bulding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
              viewBox="0 0 494.4 383.4" style="enable-background:new 0 0 494.4 383.4;" xml:space="preserve">
             <g><!--way and tree-->
@@ -28,6 +25,7 @@
                 <polyline class="st5" points="170.4,373 170.4,353.4 153.5,343.8 170.4,314.3 187.3,343.9 170.4,353.4"/>
                 <polyline class="st5" points="255.3,363.2 255.3,343.5 238.4,333.9 255.3,304.4 272.2,334 255.3,343.5"/>
                 <polyline class="st5" points="306.6,255.3 306.6,235.7 289.6,226 306.6,196.5 323.5,226.1 306.6,235.7"/>
+                <line class="st5" x1="153.5" y1="206.3" x2="204.6" y2="235.7"/>
             </g>
             <g class="a"><!--building A-->
                 <g class="ae1">
@@ -57,7 +55,7 @@
                         <line class="st0" x1="102.5" y1="157.2" x2="102.5" y2="137.6"/>
                     </g>
                 </g>
-                <g class="ae3">
+                <g class="ae4">
                     <polygon class="ae4w1 st1" points="145,112.8 128.1,103 128.1,83.4 94,63.8 34.5,98.3 102.4,137.5"/>
                     <polygon class="ae4w2 st1" points="94,63.8 136.5,39.3 170.5,59 170.4,78.7 187.4,88.6 145,112.8 128.1,103 128.1,83.4"/>
                     <g>
@@ -73,36 +71,36 @@
             </g>
             
             <g class="b"><!--building b-->
-                <g>
-                    <polygon class="st1" points="136.6,255.3 136.6,274.9 170.6,294.5 170.6,274.9 204.6,255.3 170.6,235.7"/>
-                    <polygon class="st1" points="204.6,216 170.6,235.7 238.6,274.9 238.6,294.5 272.6,274.9 272.6,255.3"/>
-                    <polygon class="st1" points="170.6,294.5 170.6,274.9 204.6,255.3 238.6,274.9 238.6,294.5 204.6,314.2"/>
+                <g class="be1">
+                    <polygon class="be1w1 st1" points="136.6,255.3 136.6,274.9 170.6,294.5 170.6,274.9 204.6,255.3 170.6,235.7"/>
+                    <polygon class="be1w2 st1" points="204.6,216 170.6,235.7 238.6,274.9 238.6,294.5 272.6,274.9 272.6,255.3"/>
+                    <polygon class="be1w3 st1" points="170.6,294.5 170.6,274.9 204.6,255.3 238.6,274.9 238.6,294.5 204.6,314.2"/>
                     <g>
                         <polyline class="st0" points="136.6,255.3 204.6,294.5 272.6,255.3"/>
                         <line class="st0" x1="204.6" y1="314.2" x2="204.6" y2="294.5"/>
                     </g>
                 </g>
-                <g>
-                    <polygon class="st1" points="136.6,235.6 136.6,255.3 170.6,274.9 170.6,255.3 204.6,235.7 170.6,216"/>
-                    <polygon class="st1" points="204.6,196.4 170.6,216 238.6,255.3 238.6,274.9 272.6,255.3 272.6,235.6"/>
-                    <polygon class="st1" points="170.6,274.9 170.6,255.3 204.6,235.7 238.6,255.3 238.6,274.9 204.6,294.5"/>
+                <g class="be2">
+                    <polygon class="be2w1 st1" points="136.6,235.6 136.6,255.3 170.6,274.9 170.6,255.3 204.6,235.7 170.6,216"/>
+                    <polygon class="be2w2 st1" points="204.6,196.4 170.6,216 238.6,255.3 238.6,274.9 272.6,255.3 272.6,235.6"/>
+                    <polygon class="be2w3 st1" points="170.6,274.9 170.6,255.3 204.6,235.7 238.6,255.3 238.6,274.9 204.6,294.5"/>
                     <g>
                         <polyline class="st0" points="136.6,235.6 204.6,274.9 272.6,235.6"/>
                         <line class="st0" x1="204.6" y1="294.5" x2="204.6" y2="274.9"/>
                     </g>
                 </g>
-                <g>
-                    <polygon class="st1" points="136.6,216 136.6,235.6 170.6,255.3 170.6,235.6 204.6,216 170.6,196.4"/>
-                    <polygon class="st1" points="204.6,176.7 170.6,196.4 238.6,235.6 238.6,255.3 272.6,235.6 272.6,216"/>
-                    <polygon class="st1" points="170.6,255.3 170.6,235.6 204.6,216 238.6,235.6 238.6,255.3 204.6,274.9"/>
+                <g class="be3">
+                    <polygon class="be3w1 st1" points="136.6,216 136.6,235.6 170.6,255.3 170.6,235.6 204.6,216 170.6,196.4"/>
+                    <polygon class="be3w2 st1" points="204.6,176.7 170.6,196.4 238.6,235.6 238.6,255.3 272.6,235.6 272.6,216"/>
+                    <polygon class="be3w3 st1" points="170.6,255.3 170.6,235.6 204.6,216 238.6,235.6 238.6,255.3 204.6,274.9"/>
                     <g>
                         <polyline class="st0" points="136.6,216 204.6,255.3 272.6,216"/>
                         <line class="st0" x1="204.6" y1="274.9" x2="204.6" y2="255.3"/>
                     </g>
                 </g>
-                <g>
-                    <polygon class="st1" points="170.6,235.7 187.4,225.7 187.4,206.1 221.4,186.7 272.6,216 204.6,255.3"/>
-                    <polygon class="st1" points="136.6,216 153.5,206.3 153.5,186.5 187.4,166.9 221.4,186.7 187.4,206.1 187.4,225.7 170.6,235.7"/>
+                <g class="be4">
+                    <polygon class="be4w1 st1" points="170.6,235.7 187.4,225.7 187.4,206.1 221.4,186.7 272.6,216 204.6,255.3"/>
+                    <polygon class="be4w2 st1" points="136.6,216 153.5,206.3 153.5,186.5 187.4,166.9 221.4,186.7 187.4,206.1 187.4,225.7 170.6,235.7"/>
                     <g>
                         <polyline class="st0" points="255.3,226 255.3,206.1 221.4,225.8"/>
                         <polyline class="st0" points="153.5,186.5 221.4,225.8 221.4,245.4 153.5,206.3"/>
@@ -115,36 +113,36 @@
             </g>
             
             <g class="c"><!--building c-->
-                <g>
-                    <polygon class="st1" points="289.6,324 340.6,294.6 374.6,314.2 323.6,343.6 323.5,363.2 289.6,343.6"/>
-                    <polygon class="st1" points="408.6,333.8 374.6,314.2 323.6,343.6 323.5,363.2 357.6,382.9 408.5,353.5"/>
-                    <polygon class="st1" points="340.6,294.6 374.5,274.9 442.4,314.3 442.6,333.8 408.5,353.5 408.6,333.8"/>
+                <g class="ce1">
+                    <polygon class="ce1w1 st1" points="289.6,324 340.6,294.6 374.6,314.2 323.6,343.6 323.5,363.2 289.6,343.6"/>
+                    <polygon class="ce1w2 st1" points="408.6,333.8 374.6,314.2 323.6,343.6 323.5,363.2 357.6,382.9 408.5,353.5"/>
+                    <polygon class="ce1w3 st1" points="340.6,294.6 374.5,274.9 442.4,314.3 442.6,333.8 408.5,353.5 408.6,333.8"/>
                     <g>
                         <polyline class="st0" points="289.6,324 357.6,363.3 442.4,314.3"/>
                         <line class="st0" x1="357.6" y1="382.9" x2="357.6" y2="363.3"/>
                     </g>
                 </g>
-                <g>
-                    <polygon class="st1" points="289.6,304.4 340.6,274.9 374.6,294.6 323.6,324 323.5,343.6 289.6,324"/>
-                    <polygon class="st1" points="408.6,314.2 374.6,294.6 323.6,324 323.5,343.6 357.6,363.3 408.5,333.9"/>
-                    <polygon class="st1" points="340.6,274.9 374.5,255.3 442.4,294.7 442.6,314.2 408.5,333.9 408.6,314.2"/>
+                <g class="ce2">
+                    <polygon class="ce2w1 st1" points="289.6,304.4 340.6,274.9 374.6,294.6 323.6,324 323.5,343.6 289.6,324"/>
+                    <polygon class="ce2w2 st1" points="408.6,314.2 374.6,294.6 323.6,324 323.5,343.6 357.6,363.3 408.5,333.9"/>
+                    <polygon class="ce2w3 st1" points="340.6,274.9 374.5,255.3 442.4,294.7 442.6,314.2 408.5,333.9 408.6,314.2"/>
                     <g>
                         <polyline class="st0" points="289.6,304.4 357.6,343.7 442.4,294.7"/>
                         <line class="st0" x1="357.6" y1="363.3" x2="357.6" y2="343.7"/>
                     </g>
                 </g>
-                <g>
-                    <polygon class="st1" points="289.6,284.8 340.6,255.4 374.6,275 323.6,304.4 323.5,324 289.6,304.4"/>
-                    <polygon class="st1" points="408.6,294.6 374.6,275 323.6,304.4 323.5,324 357.6,343.7 408.5,314.3"/>
-                    <polygon class="st1" points="340.6,255.4 374.5,235.7 442.4,275.1 442.6,294.6 408.5,314.3 408.6,294.6"/>
+                <g class="ce3">
+                    <polygon class="ce3w1 st1" points="289.6,284.8 340.6,255.4 374.6,275 323.6,304.4 323.5,324 289.6,304.4"/>
+                    <polygon class="ce3w2 st1" points="408.6,294.6 374.6,275 323.6,304.4 323.5,324 357.6,343.7 408.5,314.3"/>
+                    <polygon class="ce3w3 st1" points="340.6,255.4 374.5,235.7 442.4,275.1 442.6,294.6 408.5,314.3 408.6,294.6"/>
                     <g>
                         <polyline class="st0" points="289.6,284.8 357.6,324.1 442.4,275.1"/>
                         <line class="st0" x1="357.6" y1="343.7" x2="357.6" y2="324.1"/>
                     </g>
                 </g>
-                <g>
-                    <polygon class="st1" points="400.1,299.3 383.1,289.5 383.1,269.9 349.1,250.3 289.6,284.8 357.5,324"/>
-                    <polygon class="st1" points="349.1,250.3 391.6,225.8 425.6,245.5 425.4,265.2 442.4,275.1 400.1,299.3 383.1,289.5 383.1,269.9"/>
+                <g class="ce4">
+                    <polygon class="ce4w1 st1" points="400.1,299.3 383.1,289.5 383.1,269.9 349.1,250.3 289.6,284.8 357.5,324"/>
+                    <polygon class="ce4w2 st1" points="349.1,250.3 391.6,225.8 425.6,245.5 425.4,265.2 442.4,275.1 400.1,299.3 383.1,289.5 383.1,269.9"/>
                     <g>
                         <polyline class="st0" points="306.5,294.6 306.6,274.9 340.6,294.6 340.6,314.2"/>
                         <line class="st1" x1="340.6" y1="294.6" x2="425.6" y2="245.5"/>
@@ -163,7 +161,11 @@
         </div>
     </div>
     
+ 
     <div class="ct">
+        <div class="grundriss">
+            <h1>Baumgarten Wohnangebot</h1>
+        </div>
         <h4>Haus A</h4>
         <table id="a">
             <tr>      
@@ -370,7 +372,7 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w3 v">
+            <tr class="be2w1 v">
                 <td>A.1.3</td> 
                 <td>EG</td>
                 <td>3.5</td>
@@ -383,7 +385,7 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w3 v">
+            <tr class="be2w2 v">
                 <td>A.1.3</td> 
                 <td>EG</td>
                 <td>3.5</td>
@@ -396,7 +398,7 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w3 v">
+            <tr class="be2w3 v">
                 <td>A.1.3</td> 
                 <td>EG</td>
                 <td>3.5</td>
@@ -409,7 +411,7 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w3 v">
+            <tr class="be3w1 v">
                 <td>A.1.3</td> 
                 <td>EG</td>
                 <td>3.5</td>
@@ -422,7 +424,7 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w3 v">
+            <tr class="be3w2 v">
                 <td>A.1.3</td> 
                 <td>EG</td>
                 <td>3.5</td>
@@ -435,7 +437,7 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w3 v">
+            <tr class="be3w3 v">
                 <td>A.1.3</td> 
                 <td>EG</td>
                 <td>3.5</td>
@@ -448,7 +450,7 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w3 v">
+            <tr class="be4w1 v">
                 <td>A.1.3</td> 
                 <td>EG</td>
                 <td>3.5</td>
@@ -461,7 +463,163 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w1">
+            <tr class="be4w2">
+                <td>A.1.3</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>vermietet</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+        </table>
+        
+            <h4>Haus C</h4>
+        <table id="c">   
+            <tr>      
+                <th>Haus</th>
+                <th>Ebene</th>
+                <th>ZWHG</th>
+                <th>NF m²</th>
+                <th>BF m²</th>
+                <th>Mietzins brutto</th>
+                <th>Plan</th>
+            </tr>   
+            <tr class="ce1w1">
+                <td>A.1.1</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>1'800.-</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce1w2">
+                <td>A.1.2</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>1'800.-</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce1w3 v">
+                <td>A.1.3</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>vermietet</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce2w1 v">
+                <td>A.1.3</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>vermietet</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce2w2 v">
+                <td>A.1.3</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>vermietet</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce2w3 v">
+                <td>A.1.3</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>vermietet</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce3w1 v">
+                <td>A.1.3</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>vermietet</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce3w2 v">
+                <td>A.1.3</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>vermietet</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce3w3 v">
+                <td>A.1.3</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>vermietet</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce4w1 v">
+                <td>A.1.3</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>94.00</td>
+                <td>120.00</td>
+                <td>vermietet</td>
+                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                    </div>
+                </td>
+            </tr>
+            <tr class="ce4w2">
                 <td>A.1.3</td> 
                 <td>EG</td>
                 <td>3.5</td>

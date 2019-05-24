@@ -118,7 +118,7 @@ p, a{
 .navcontainer {
     position: fixed;
     top: 0;
-    right: 0;
+    left: 0;
     z-index: 100;
 }
 
@@ -137,12 +137,31 @@ p, a{
     background: #fff;
 }
 
+.navburgercontainer ul {
+    display: inline-block;
+    padding: 0 30px;
+    margin-top: 65px;
+    margin-bottom: 24px;
+}
+
+.navburgercontainer li {
+    float: left;
+    padding: 0 15px;
+}
+
+.navfade {
+     -webkit-transition: .75s ease-in-out ;
+    -moz-transition: .75s ease-in-out;
+    -o-transition: .75s ease-in-out;
+    transition: .75s ease-in-out;
+}
+
 /*---------------------------------- 
     nav burger
 -----------------------------------*/
 
 #navburger {
-    display: block;
+    display: none;
     float: right;
     width: 24px;
     height: 16px;
@@ -209,6 +228,7 @@ p, a{
     width: 0%;
     left: 50%;
 }
+
 
 .nav {
     background-color: #718166;
@@ -466,21 +486,21 @@ background-position: right;}
 .st5{ fill:#FFFFFF;stroke:#718166;stroke-width: 1;}
 
 g {
-    transition: all 0.75s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
 .activ {
     fill: #BEC7BE;
     background: rgba(190, 199, 190, 0.75);
-    -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
-    transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -webkit-transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
 .up {
     opacity: 0.75;
     -webkit-transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
     transition: all 0.6s cubic-bezier(0.645, 0.045, 0.355, 1);
-    transform: translate(0px, -50px);
+    transform: translate(0px, -40px);
 }
 
 .reservation {
@@ -496,7 +516,6 @@ g {
 -----------------------------------*/
 
 .ct {
-    top: 124px;;
     width: 50%;
     position: relative;
     float: right;
