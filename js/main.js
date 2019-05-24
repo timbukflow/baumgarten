@@ -131,17 +131,17 @@ $(document).ready(function () {
     
     // nav by scroll small //
     
-    $(document).on('scroll', function () {
-        if ($(document).scrollTop() > 10) {
-            $('#navburger').fadeIn(500);
-            $('.navfade').css('width', '0px').fadeOut(300);
-            
-        }   
-        else {
-            $('#navburger').fadeOut(500);
-            $('.navfade').fadeIn(500);
-        }
-    });
+
+    
+    var scrolling = false;
+   $(window).on('scroll', function(){
+      if( !scrolling ) {
+         scrolling = true;
+         (!window.requestAnimationFrame)
+            ? setTimeout(autoHideHeader, 250)
+            : requestAnimationFrame(autoHideHeader);
+      }
+});
     
     // nav //
     
