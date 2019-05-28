@@ -26,8 +26,7 @@
                 <h1>Freudenau in Goldach</h1>
                 </div>
              <div class="einleitunglauftext">   
-                <p>Finden Sie in unserer modernen Überbauung, Baumgarten beim Freudenau in Goldach – in einem der fünf hochwertigen Wohnhäuser – Ihre neue, gut besonnte 2.5- bis 4.5-Zimmer-Wohnung mit Terrasse, Balkon oder Gartensitzplatz. Im Haus 1 stehen zudem Gewerbeflächen zur Verfügung.</p>
-                <p>Die Wohnungsgrundrisse weisen allesamt grosszügige und offene Wohnräume auf, mit direkt angelagerten Balkon- oder Gartenflächen und klar davon abgetrennten Schlafbereichen.</p>
+                <h2>Finden Sie in unserer modernen Überbauung, Baumgarten beim Freudenau in Goldach – in einem der fünf hochwertigen Wohnhäuser – Ihre neue, gut besonnte 2.5- bis 4.5-Zimmer-Wohnung mit Terrasse, Balkon oder Gartensitzplatz. Im Haus 1 stehen zudem Gewerbeflächen zur Verfügung.</h2>
                 <a class="linkw" href="#lage" target="_blank">Feudenau in Goldach</a>
             </div>
             <figure class="logocontainer">
@@ -42,7 +41,7 @@
             </figure>
             <div class="content50 building">
                 <svg version="1.1" id="buildinghome" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 494.4 383.4" style="enable-background:new 0 0 494.4 383.4;" xml:space="preserve">
-                    <a class="link" href="wohnangebot" target="_blank"><polygon class="st6" points="34.5,98.3 34.5,157.1 102.5,196.4 187.5,147.3 187.4,88.6 170.4,78.7 170.5,59 136.5,39.3 "/>
+                    <a class="link" href="wohnangebot" target="_self"><polygon class="st6" points="34.5,98.3 34.5,157.1 102.5,196.4 187.5,147.3 187.4,88.6 170.4,78.7 170.5,59 136.5,39.3 "/>
                     <polygon class="st6" points="289.5,284.8 289.5,343.6 357.5,382.9 442.5,333.8 442.4,275.1 425.4,265.2 425.5,245.5 391.5,225.8 "/>
                     <polygon class="st6" points="136.6,216 153.5,206.3 153.5,186.5 187.4,166.9 272.6,216 272.6,274.9 204.6,314.2 136.6,274.9 "/></a>
                 </svg>
@@ -63,7 +62,7 @@
                     <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus B Erdgeschosswohnung Gartensitzplatz</figcaption>
                 </figure>
             </div>
-            <div class="content75">
+            <div class="content">
                 <h1><strong>Wohnen</strong> im Grünen</h1>
                 <p>Finden Sie in unserer modernen Überbauung, Baumgarten beim Freudenau in Goldach – in einem der fünf hochwertigen Wohnhäuser – Ihre neue, gut besonnte 2.5- bis 4.5-Zimmer-Wohnung mit Terrasse, Balkon oder Gartensitzplatz. Im Haus 1 stehen zudem Gewerbeflächen zur Verfügung.</p>
                 <p>Finden Sie in unserer modernen Überbauung, Baumgarten beim Freudenau in Goldach – in einem der fünf hochwertigen Wohnhäuser – Ihre neue, gut besonnte 2.5- bis 4.5-Zimmer-Wohnung mit Terrasse, Balkon oder Gartensitzplatz. Im Haus 1 stehen zudem Gewerbeflächen zur Verfügung.</p>
@@ -114,7 +113,7 @@
                 <img src="img/baumgarten-freudenau-goldach-luftbild.jpg" alt="baumgarten freudenau goldach luftbild" width="100%" height="auto">
                 <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus A und B</figcaption>
             </figure>
-            <div class="content75">
+            <div class="content">
                 <h1><strong>Baumgarten</strong> Goldach</h1>
                 <p>Finden Sie in unserer modernen Überbauung, Baumgarten beim Freudenau in Goldach – in einem der fünf hochwertigen Wohnhäuser – Ihre neue, gut besonnte 2.5- bis 4.5-Zimmer-Wohnung mit Terrasse, Balkon oder Gartensitzplatz. Im Haus 1 stehen zudem Gewerbeflächen zur Verfügung.</p>
                 <p>Finden Sie in unserer modernen Überbauung, Baumgarten beim Freudenau in Goldach – in einem der fünf hochwertigen Wohnhäuser – Ihre neue, gut besonnte 2.5- bis 4.5-Zimmer-Wohnung mit Terrasse, Balkon oder Gartensitzplatz. Im Haus 1 stehen zudem Gewerbeflächen zur Verfügung.</p>

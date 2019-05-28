@@ -50,9 +50,9 @@
             </g>
             <g class="a"><!--building A-->
                 <g class="ae1">
-                    <polygon class="ae1w1 st1" points="34.5,137.5 85.5,108.1 119.6,127.7 68.6,157.1 68.5,176.7 34.5,157.1"/>
+                    <polygon class="ae1w3 st1" points="34.5,137.5 85.5,108.1 119.6,127.7 68.6,157.1 68.5,176.7 34.5,157.1"/>
                     <polygon class="ae1w2 st1" points="153.6,147.3 119.6,127.7 68.6,157.1 68.5,176.7 102.5,196.4 153.5,167"/>
-                    <polygon class="ae1w3 st1" points="85.5,108.1 119.5,88.4 187.4,127.8 187.5,147.3 153.5,167 153.6,147.3"/>
+                    <polygon class="ae1w1 st1" points="85.5,108.1 119.5,88.4 187.4,127.8 187.5,147.3 153.5,167 153.6,147.3"/>
                     <g>
                         <polyline class="st0" points="34.5,137.5 102.5,176.8 187.4,127.8"/>
                         <line class="st0" x1="102.5" y1="196.4" x2="102.5" y2="176.8"/>
@@ -185,7 +185,7 @@
  
     <div class="ct">
         <div class="grundriss">
-            <h1>Baumgarten Wohnangebot</h1>
+            <h1>Baumgarten<br><strong>Wohnangebot</strong></h1>
         </div>
         <h4>Haus A</h4>
         <table id="a">
@@ -207,8 +207,11 @@
                 <td>1'800.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d.svg" alt="Smiley face">
+                        <img src="img/bg-ae1w1.jpg" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <p>Haus A / Ebene EG / Wohnung 1 </p>
+                        <a class="link" href="download/.pdf" target="_blank">Download Detail:</a>
                     </div>
+                    
                 </td>
             </tr>
             <tr class="ae1w2">

@@ -24,7 +24,7 @@ h1, h2, h3, h4, p, a, figcaption  {
     font-style: normal;
     font-family: 'PT Serif', serif;  
     font-size: 16px;
-    line-height: 25px;
+    line-height: 1.4;
     text-align: left;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -37,6 +37,12 @@ h1, h2, h3, h4, p, a, figcaption  {
 
 h1 {
     font-size: 32px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 26px;
     margin-top: 40px;
     margin-bottom: 40px;
 }
@@ -118,7 +124,7 @@ p, a{
 
 .cd-auto-hide-header {
     position: fixed;
-    z-index: 2;
+    z-index: 100;
     top: 0;
     left: 0;
     width: 256px;
@@ -337,8 +343,9 @@ p, a{
     left: 0;
     margin: auto;
     text-align: center;
-    font-size: 120px;
+    font-size: 140px;
     color: white;
+    z-index: 3;
 }
 
 .subtitle {
@@ -349,6 +356,7 @@ p, a{
     left: 0;
     color: #fff;
     margin: 0px;
+    z-index: 2;
     
 }
 
@@ -356,7 +364,9 @@ p, a{
     color: #fff;
 }
 
-.simgl, .simgr {
+.simgl, 
+.simgr,
+.gimg {
     width: 50%;
     min-height: 100vh;
     background-repeat: no-repeat;
@@ -365,10 +375,20 @@ p, a{
     float: left;
 }
 
+.fiximg {
+    width: calc(100% - 60px);
+    height: calc(100vh - 60px);
+    position: fixed;
+    overflow: hidden;
+    z-index: 1;
+}
+
 .simgl {background-image: url("../img/baumgarten-freudenau-goldach-aussen-baumgartenweg.jpg");}
 .simgr {background-image: url("../img/baumgarten-freudenau-goldach-aussen-04.jpg");
 background-position: right;}
 
+.gimg {background-image: url("../img/baumgarten-freudenau-goldach-bodensee.jpg");
+background-position: center; width: 100%;}
 
 
 /*---------------------------------- 
@@ -379,13 +399,15 @@ background-position: right;}
     margin: 0px 30px;
     position: relative;
     display: inline-block;
+    background: #fff;
+    z-index: 10;
+    float: left;
 }
 .acontainer {
     position: relative;
     width: 100%;
     display: inline-block;
     float: left;
-    margin-bottom: 80px;
 }
 .einleitung {
     background: #718166;
@@ -393,7 +415,7 @@ background-position: right;}
     position: absolute;
     right: 0;
     top: -140px;
-    padding: 60px 60px 0px 60px;
+    padding: 50px 60px 0px 60px;
 }
 .einleitung h1 {
     color: #fff;
@@ -408,7 +430,14 @@ background-position: right;}
     top: 0;
     padding: 20px 60px 60px 60px;
 }
-.einleitunglauftext p,
+.goldach {
+    float: left;
+    width: calc(100% - 400px);
+    padding: 80px 200px 80px 200px;
+}
+
+
+.einleitunglauftext h2,
 .einleitunglauftext a{
     color: #fff;
 }
@@ -425,11 +454,11 @@ background-position: right;}
     float: left;
     padding: 4%;
 }
-.content75 {
+.content {
     position: relative;
-    width: 65%;
+    width: calc(100% - 400px);
     float: left;
-    padding: 4%;
+    padding: 50px 200px 150px 200px;
 }
 .content50img {
     position: relative;
@@ -450,6 +479,7 @@ background-position: right;}
 .building svg{
     position: absolute;
     width: 76%;
+    cursor: pointer;
 }
 .lb {
     margin-top: 322px;
@@ -540,6 +570,11 @@ g {
     display: inline-block;
 }
 
+.ct .grundriss h1 {
+    margin: 10% 8% 0% 8%;
+    padding-left: 10px;
+}
+
 .ct h4 {
     width: 84%;
     margin: 10% 8% 3% 8%;
@@ -590,6 +625,22 @@ th:last-child, td:last-child {border-right: none;}
     cursor: pointer;
     z-index: 10;
 }
+.plan img {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-height: 80%;
+
+}
+.plan a {
+    position: absolute;
+    bottom: 40px;
+    margin: 16px;
+    cursor: pointer;
+}
 
 .planhover {
     display: block;
@@ -611,6 +662,7 @@ footer {
     background: #718166;
     width: calc(100% - 60px);
     float: left;
+    z-index: 1
 }
 
 .footer {
