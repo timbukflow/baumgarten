@@ -346,7 +346,10 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="15" height="15" alt="download icon"><strong> Baumgarten Haus A</strong> Grundrisse (PDF)</a></td> 
+                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
+            </tr>
+            <tr>
+                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Baumgarten </strong> Übersichtsplan (PDF)</a></td> 
             </tr>
         </table>
         
