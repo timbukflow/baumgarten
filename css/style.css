@@ -619,7 +619,7 @@ th:last-child, td:last-child {border-right: none;}
     position: fixed;
     top: 0px;
     right: 0px;
-    width: 50%;
+    width: 49.5%;
     height:  100vh;
     background-color: #fff;
     cursor: pointer;
@@ -629,17 +629,19 @@ th:last-child, td:last-child {border-right: none;}
     position: absolute;
     margin: auto;
     top: 0;
-    bottom: 0;
+    bottom: 10%;
     left: 0;
     right: 0;
-    max-height: 80%;
-
+    max-height: 75%;
+    max-width: 75%;
 }
 .plan a {
     position: absolute;
     bottom: 40px;
-    margin: 16px;
+    margin: 16px 8%;
     cursor: pointer;
+    
+    
 }
 
 .planhover {

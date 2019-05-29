@@ -126,7 +126,11 @@ $(document).ready(function () {
     // plan hover //
     
     $(".planb").click(function(){
-        $(this).children().fadeToggle("planhover")
+        $(this).children('div').fadeToggle("planhover");
+    });
+    
+    $(".plan").mouseleave(function(){
+        $(this).fadeOut(200);
     });
     
     

@@ -205,11 +205,11 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>1'800.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bg-ae1w1.jpg" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
-                        <p>Haus A / Ebene EG / Wohnung 1 </p>
-                        <a class="link" href="download/.pdf" target="_blank">Download Detail:</a>
+                        <a class="link" href="download/.pdf" target="_blank">A.1.1. / 3.5 ZWHG / NF 94.00m² / Download PDF:</a>
                     </div>
                     
                 </td>
