@@ -42,9 +42,11 @@ h1 {
 }
 
 h2 {
-    font-size: 26px;
+    font-size: 21px;
     margin-top: 40px;
     margin-bottom: 40px;
+    line-height: 1.5;
+    letter-spacing: 0.8px;
 }
 
 figure {
@@ -63,7 +65,9 @@ p, a{
 
 .link, .linkw {
     position: relative;
-    display: inline-block; 
+    display: inline-block;
+    cursor: pointer;
+    float: left;
 }
 
 .link::after {
@@ -408,6 +412,7 @@ background-position: center; width: 100%;}
     width: 100%;
     display: inline-block;
     float: left;
+    text-align: center;
 }
 .einleitung {
     background: #718166;
@@ -428,7 +433,7 @@ background-position: center; width: 100%;}
     background: #718166;
     width: calc(50% - 120px);
     top: 0;
-    padding: 20px 60px 60px 60px;
+    padding: 20px 60px 80px 60px;
 }
 .goldach {
     float: left;
@@ -446,19 +451,19 @@ background-position: center; width: 100%;}
     float: left;
     width: 50%;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 140px;
 }
 .content50 {
     position: relative;
-    width: 42%;
+    width: calc(50% - 120px);
     float: left;
-    padding: 4%;
+    padding: 20px 60px 150px 60px;
 }
 .content {
     position: relative;
-    width: calc(100% - 400px);
-    float: left;
-    padding: 50px 200px 150px 200px;
+    max-width: 900px;
+    display: inline-block;
+    margin: 20px 20px 150px 20px;
 }
 .content50img {
     position: relative;
@@ -481,11 +486,7 @@ background-position: center; width: 100%;}
     width: 76%;
     cursor: pointer;
 }
-.lb {
-    margin-top: 322px;
-    width: 30%;
-    padding-right: 16%;
-}
+
 .st6{ 
     fill:#718166;
     stroke:#718166;

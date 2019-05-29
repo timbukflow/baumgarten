@@ -1,10 +1,10 @@
 $(document).ready(function () {
     
     // building A //
-    
+    /*
     $(".a").hover(function() {
         $("html, body").animate({scrollTop:$("#a").position().top - 100},500);
-    });
+    });*/
     
     $(".ae1w1").hover(function() {
         $(".ae1w1").toggleClass("activ");
@@ -42,10 +42,10 @@ $(document).ready(function () {
         $(".ae4w2").toggleClass("activ");});
     
     // building B //
-    
+    /*
     $(".b").hover(function() {
         $("html, body").animate({scrollTop:$("#b").position().top - 100},500);
-    });
+    });*/
     
     $(".be1w1").hover(function() {
         $(".be1w1").toggleClass("activ");
@@ -83,10 +83,10 @@ $(document).ready(function () {
         $(".be4w2").toggleClass("activ");});
     
     // building C //
-    
+    /*
     $(".c").hover(function() {
         $("html, body").animate({scrollTop:$("#c").position().top - 100},500);
-    });
+    });*/
     
     $(".ce1w1").hover(function() {
         $(".ce1w1").toggleClass("activ");
@@ -129,9 +129,11 @@ $(document).ready(function () {
         $(this).children('div').fadeToggle("planhover");
     });
     
-    $(".lan").mouseleave(function(){
+    /*
+    $(".plan").mouseleave(function(){
         $(this).fadeOut(200);
     });
+    */
     
     
     // nav by scroll small //

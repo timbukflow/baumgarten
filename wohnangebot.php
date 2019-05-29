@@ -178,7 +178,7 @@
         </svg>
         
         <div class="reservation">
-            <h3>Vermietungsstart:<br>Reservieren Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Oktober 2020 bezugsbereit.<br><a class="link" href="download/.pdf" target="_blank">Anmeldeformular</a></h3>
+            <h3><strong>Reservieren</strong> Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Oktober 2020 bezugsbereit.<br><a class="link" href="download/.pdf" download="Baumgarten Anmeldeformular">Anmeldeformular</a></h3>
         </div>
     </div>
     
@@ -345,6 +345,9 @@
                     </div>
                 </td>
             </tr>
+            <tr>
+                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="15" height="15" alt="download icon"><strong> Baumgarten Haus A</strong> Grundrisse (PDF)</a></td> 
+            </tr>
         </table>
         
         <h4>Haus B</h4>
@@ -501,6 +504,9 @@
                     </div>
                 </td>
             </tr>
+            <tr>
+                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="15" height="15" alt="download icon"><strong> Baumgarten Haus B</strong> Grundrisse (PDF)</a></td> 
+            </tr>
         </table>
         
             <h4>Haus C</h4>
@@ -656,6 +662,9 @@
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
                     </div>
                 </td>
+            </tr>
+            <tr>
+                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="15" height="15" alt="download icon"><strong> Baumgarten Haus C</strong> Grundrisse (PDF)</a></td> 
             </tr>
         </table>
     </div>
