@@ -129,7 +129,7 @@ $(document).ready(function () {
         $(this).children('div').fadeToggle("planhover");
     });
     
-    $(".plan").mouseleave(function(){
+    $(".lan").mouseleave(function(){
         $(this).fadeOut(200);
     });
     

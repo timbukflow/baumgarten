@@ -209,7 +209,8 @@
                     <img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bg-ae1w1.jpg" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
-                        <a class="link" href="download/.pdf" target="_blank">A.1.1. / 3.5 ZWHG / NF 94.00m² / Download PDF:</a>
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><strong>A.1.1.</strong><br>3.5 ZWHG<br>NF 94.00m²<br>Download Pdf:</a>
                     </div>
                     
                 </td>
