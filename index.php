@@ -12,7 +12,6 @@
     <section class="sectionhome">
         <article>
             <h1 class="stitle">Baumgarten</h1>
-            <!--<h2 class="subtitle">Reservieren Sie jetzt Ihre gewünschte Wohnung am Freudenau in Goldach. Die Wohnungen im Baumgarten sind ab Oktober 2020 bezugsbereit.<a class="linkw" href="download/.pdf" target="_blank">Anmeldeformular</a></h2>-->
             <div class="fiximg">
                 <div class="simgl"></div>
                 <div class="simgr"></div>
@@ -31,6 +30,7 @@
              <div class="einleitunglauftext">   
                 <h2>An bester Lage in Freudenau Goldach am Bodensee entsteht die Überbauung <strong>&#171;Baumgarten&#187;</strong>. Die offen gestalteten Grundrisse mit moderner Architektur, lichtdurchfluteten Wohnräumen und privatisierten Aussenräume laden Sie ein, zu entspannen, zu leben und zu geniessen.</h2>
                 <h2>Die 2.5 bis 4.5 Zimmer-Wohnungen an der Baumgartenstrasse 8, 10 und 12 sind ab <strong>Frühsommer 2020</strong> für den Erstbezug bereit.</h2>
+                <a class="linkw" href="kontakt" target="_self">Reservieren Sie Ihre Wohnung</a>
             </div>
             <figure class="logocontainer">
                 <img src="img/baumgarten-freudenau-goldach-logo.svg" alt="Smiley face" height="155" width="240">
@@ -39,7 +39,7 @@
         
         <article class="acontainer">
             <figure>
-                <img src="img/baumgarten-freudenau-goldach-aussen-baumgartenweg.jpg" alt="baumgarten freudenau goldach aussenansicht baumgartenweg" width="100%" height="auto">
+                <img src="img/baumgarten-freudenau-goldach-baumgartenweg.jpg" alt="baumgarten freudenau goldach baumgartenweg wohnen in goldach bodensee warteggweg mietwohnung" width="100%" height="auto">
                 <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus A und B Baumgartenweg</figcaption>
             </figure>
             <div class="content50 building">
@@ -54,42 +54,42 @@
                 <h1>Modernes Wohnen</h1>
                 <p>Auf drei Wohnhäuser verteilt beinhaltet der Neubau <strong>&#171;Baumgarten&#187;</strong> 3 Eigentumswohnungen und 30 Mietwohnungen. Die offenen und grosszügigen Grundrisse der Wohnungen bieten den Bewohnern viel Freiraum.</p>
                 <p>Mittelpunkt bildet der grosse Wohn-Koch-Essbereich zusammen mit der halboffenen <strong>Loggia</strong> oder <strong>Terrasse</strong>. Die aussenliegenden, erweiterten «Wohnzimmer» sind mit warmem Holz ausgeschlagen und verleihen dem Aussen ein nutzerfreundliches und angenehmes Klima. Trotz der Offenheit finden die Bewohner in der Loggia oder auf der Terrasse einen weiteren Rückzugsort.</p>
-                <a class="link" href="wohnangebot" target="_self">Finden Sie unter <strong>&#171;Wohnungsangebot&#187;</strong> Ihre Wohnung</a>
+                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die Grundrisse vom Baumgarten</a>
             </div>
         </article>
         
         <article class="acontainer">
             <div class="content75img">
                 <figure>
-                    <img src="img/baumgarten-freudenau-goldach-erdgeschoss-wohnung.jpg" alt="baumgarten freudenau goldach aussenansicht baumgartenweg" width="100%" height="auto">
-                    <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus B Erdgeschosswohnung Gartensitzplatz</figcaption>
+                    <img src="img/baumgarten-freudenau-goldach-erdgeschoss-wohnung.jpg" alt="baumgarten freudenau goldach aussenansicht baumgartenweg wohnen in goldach bodensee warteggweg mietwohnung" width="100%" height="auto">
+                    <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus B, 3.5 Zimmer Wohnung Erdgeschosswohnung, Gartensitzplatz</figcaption>
                 </figure>
             </div>
             <div class="content">
                 <h1>Garten, Loggia und Dachterrassen</h1>
                 <p>Die Erdgeschosswohnungen besitzen alle einen grosszügigen Gartenbereich, der die Qualität des Wohnens im Grünen mit einem Freiraum Richtung Süden, Westen und Osten bietet. In der «Baumgarten»-Krone finden sich Attikageschosse, die durch ihre grünen Dachgärten und -terrassen bestechen. </p>
                 <p>Zusätzlich verwöhnt werden die Bewohner dieser Wohnräume mit einer blickfreien Privatsphäre das die Wohnqualität noch etwas steigern mag. Alle Wohnungen besitzen einen hohen Ausbaustandard in der Küche, zwei komfortable Nasszellen und je eine eigene Waschmaschine mit Tumbler.</p>
-                <a class="link" href="kontakt" target=_self><strong>Reservieren</strong> Sie noch heute ihre Wunschwohnung</a>
+                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die <strong>Erdgeschoss</strong> Grundrisse vom Baumgarten</a>
             </div>
         </article>
         
         <article class="acontainer">
             <figure>
-                <img src="img/baumgarten-freudenau-goldach-obergeschoss-wohnung.jpg" alt="baumgarten freudenau goldach obergeschoss wohnung" width="100%" height="auto">
-                <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus C Obergeschosswohnung mit Loggia</figcaption>
+                <img src="img/baumgarten-freudenau-goldach-obergeschoss-wohnung.jpg" alt="baumgarten freudenau goldach obergeschoss wohnen in goldach bodensee warteggweg mietwohnung" width="100%" height="auto">
+                <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus C, Obergeschosswohnung mit Loggia, Wohnen Essen Kochen.</figcaption>
             </figure>
             <div class="content">
                 <h1>Baumgartenweg</h1>
                 <p>Die neue Überbauung steht mit ihren drei Wohnhäusern mitten in einer grünen Baumlandschaft und ist mit dem Baumgartenweg verbunden. Das gesamte Gelände ist bequem zu Fuss erschliessbar, doch noch bequemer ist die direkte Verbindung von jedem Wohnhaus und Wohnungen mit dem Lift zur unterirdischen Tiefgarage.</p>
-                <p>Mit dem «Baumgarten»-Quartier entsteht ein Treffpunkt, der den Bewohnern die Möglichkeit bietet sich auszutauschen, sich für Aktivitäten und gemeinsame Begegnungen zu treffen und gemeinsam Zeit zu verbringen. Für Jung wie auch für Alt findet sich ein gemütlicher Aufenthaltsbereich und grüner Spielplatz wieder, wo gelacht und gespielt werden kann. «Baumgarten» ein Quartier in Harmonie mit sich und der Umgebung.</p>
-                <a class="link" href="kontakt" target=_self>Grundrisse <strong>Obergeschosswohnungen</strong></a>
+                <p>Mit dem «Baumgarten»-Quartier entsteht ein Treffpunkt, der den Bewohnern die Möglichkeit bietet sich auszutauschen, sich für Aktivitäten und gemeinsame Begegnungen zu treffen und gemeinsam Zeit zu verbringen. Für Jung wie auch für Alt findet sich ein gemütlicher Aufenthaltsbereich und grüner Spielplatz wieder, wo gelacht und gespielt werden kann. <strong>«Baumgarten»</strong> ein Quartier in Harmonie mit sich und der Umgebung.</p>
+                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die <strong>Obergeschoss</strong> Grundrisse vom Baumgarten</a>
             </div>
         </article>
         
         <article class="acontainer">
             <div class="content75img">
                 <figure>
-                    <img src="img/baumgarten-freudenau-goldach-attika-wohnung.jpg" alt="baumgarten freudenau goldach attikawohnung" width="100%" height="auto">
+                    <img src="img/baumgarten-freudenau-goldach-attika-wohnung-wohnen.jpg" alt="baumgarten freudenau goldach attikawohnung wohnen in goldach bodensee warteggweg mietwohnung" width="100%" height="auto">
                     <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus C Attikawohnung mit Terrasse. </figcaption>
                 </figure>
             </div>
@@ -102,8 +102,8 @@
         
         <article class="acontainer">
             <figure>
-                <img src="img/baumgarten-freudenau-goldach-luftbild.jpg" alt="baumgarten freudenau goldach luftbild" width="100%" height="auto">
-                <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus A und B</figcaption>
+                <img src="img/baumgarten-freudenau-goldach-luftbild.jpg" alt="baumgarten freudenau goldach luftbild wohnen in goldach bodensee warteggweg mietwohnung" width="100%" height="auto">
+                <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Blick auf die Baumgartenstrasse, Warteggweg, Freudenau und den Bodensee.</figcaption>
             </figure>
             <div class="content">
                 <h1>Lebensqualität</h1>

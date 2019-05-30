@@ -30,10 +30,18 @@
              <div class="einleitunglauftext goldach">   
                 <h2>Goldach zählt wohl zu einer der beliebtesten Gemeinden am Bodensee. Mit ihrer überschaubaren Grösse wird sie bereits als Kleinstadt bezeichnet, trägt aber noch immer den Charme eines grösseren Dorfes tief im Innern. Die Lage ist perfekt, mit dem See und Naherholungsgebieten direkt vor der Haustüre und der Nähe zur Kantonshauptstadt St.Gallen, das gerade mal 13 km entfernt ist.</h2>
             </div>
-            <figure>
-                <img src="img/baumgarten-freudenau-goldach-velofahren.jpg" alt="baumgarten freudenau goldach velofahren" width="100%" height="auto">
-                <figcaption><strong>Bodenseeregion Goldach</strong> / Velofahren an einem herrlichen Frühlingstag in der nähe zum Baumgarten.</figcaption>
-            </figure>
+            <div class="content50img">
+                <figure>
+                    <img src="img/baumgarten-freudenau-goldach-velofahren.jpg" alt="baumgarten freudenau goldach aussenansicht baumgartenweg" width="100%" height="auto">
+                    <figcaption><strong>Bodenseeregion Goldach</strong> / Mit der Familie ein Sup ausflug auf dem Bodensee.</figcaption>
+                </figure>
+            </div>
+            <div class="content50img">
+                <figure>
+                    <img src="img/baumgarten-freudenau-goldach-kinder-entdecken-bodensee.jpg" alt="baumgarten freudenau goldach aussenansicht baumgartenweg" width="100%" height="auto">
+                    <figcaption><strong>Bodenseeregion Goldach</strong> / Ein erfrischendes Getränk in der Tiki Strandbar.</figcaption>
+                </figure>
+            </div>
         </article>
         <article class="acontainer">
             <div class="content">
@@ -48,7 +56,7 @@
             </div>
             <div class="content50img">
                 <figure>
-                    <img src="img/baumgarten-freudenau-goldach-bodensee-sup.jpg" alt="baumgarten freudenau goldach aussenansicht baumgartenweg" width="100%" height="auto">
+                    <img src="img/d.jpg" alt="baumgarten freudenau goldach aussenansicht baumgartenweg" width="100%" height="auto">
                     <figcaption><strong>Bodenseeregion Goldach</strong> / Mit der Familie ein Sup ausflug auf dem Bodensee.</figcaption>
                 </figure>
             </div>

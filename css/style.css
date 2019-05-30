@@ -55,7 +55,7 @@ figure {
 
 figcaption {
     font-size: 14px;
-    padding: 10px 15px;
+    padding: 15px 20px;
 }
 
 p, a{
@@ -333,13 +333,12 @@ p, a{
 -----------------------------------*/
 
 .sectionhome {
-    width: calc(100% - 60px);
-    height: calc(100vh - 60px);
-    margin: 30px;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
     position: relative;
     overflow: hidden;
 }
-
 .stitle {
     position: absolute;
     top: 40%;
@@ -350,24 +349,11 @@ p, a{
     font-size: 140px;
     color: white;
     z-index: 3;
+    text-shadow: 0px 0px 30px rgba(100, 100, 100, 0.5);
 }
-
-.subtitle {
-    position: absolute;
-    width: 25%;
-    bottom: 0;
-    padding: 2%;
-    left: 0;
-    color: #fff;
-    margin: 0px;
-    z-index: 2;
-    
-}
-
 .subtitle a {
     color: #fff;
 }
-
 .simgl, 
 .simgr,
 .gimg {
@@ -378,29 +364,31 @@ p, a{
     background-size: cover;
     float: left;
 }
-
 .fiximg {
-    width: calc(100% - 60px);
-    height: calc(100vh - 60px);
+    width: 100%;
+    height: 100vh;
     position: fixed;
     overflow: hidden;
     z-index: 1;
 }
+.simgl {
+    background-image: url("../img/baumgarten-freudenau-goldach-attika-wohnung-wohnen.jpg");
+    background-position: left;
+}
+.simgr {
+    background-image: url("../img/baumgarten-freudenau-goldach-obergeschoss-wohnung.jpg");
+    background-position: left;}
 
-.simgl {background-image: url("../img/baumgarten-freudenau-goldach-aussen-baumgartenweg.jpg");}
-.simgr {background-image: url("../img/baumgarten-freudenau-goldach-aussen-04.jpg");
-background-position: right;}
-
-.gimg {background-image: url("../img/baumgarten-freudenau-goldach-bodensee.jpg");
-background-position: center; width: 100%;}
-
+.gimg {
+    background-image: url("../img/baumgarten-freudenau-goldach-bodensee.jpg");background-position: center; width: 100%;
+}
 
 /*---------------------------------- 
     projekt
 -----------------------------------*/
 
 .sectioncontainer {
-    margin: 0px 30px;
+    margin: 0;
     position: relative;
     display: inline-block;
     background: #fff;
@@ -450,7 +438,7 @@ background-position: center; width: 100%;}
     float: left;
     width: 50%;
     text-align: center;
-    margin-top: 140px;
+    margin-top: 150px;
 }
 .content50 {
     position: relative;
@@ -472,17 +460,17 @@ background-position: center; width: 100%;}
 }
 .content75img {
     position: relative;
-    width: 75%;
-    float: right;
+    width: 85%;
+    float: left;
     padding: 0%;
 }
 .building{
-    padding: 6%;
-    width: 38%;
+    padding: 7%;
+    width: 36%;
 }    
 .building svg{
     position: absolute;
-    width: 76%;
+    width: 72%;
     cursor: pointer;
 }
 
@@ -780,11 +768,11 @@ th:last-child, td:last-child {border-right: none;}
 -----------------------------------*/
 
 footer {
-    margin: 0px 30px;
+    margin: 0;
     position: relative;
     display: inline-block;
     background: #718166;
-    width: calc(100% - 60px);
+    width: 100%;
     float: left;
     z-index: 1
 }
@@ -801,8 +789,7 @@ footer {
 
 .footerkontakt p {
     color: #fff;
-    padding: 40px;
-    margin: 0;
+    margin: 40px;
 }
 
 .footerkontakt a,
@@ -812,14 +799,15 @@ footer {
 
 .footernav {
     float: right;
-    margin: 40px;
+    margin: 40px 80px 40px 40px;
 }
 
 .footernav ul {
     margin: 0;
+    display: inline-block;
 }
 
-.footernav a {
+footer a{
     color: #fff;
     margin: 0;
 }
@@ -832,7 +820,7 @@ footer {
 
 #impressum {
     display: none;
-    padding: 0px 40px;
+    padding: 40px 40px;
     position: relative;
     float: left;
 }
