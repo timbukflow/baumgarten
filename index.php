@@ -54,7 +54,7 @@
                 <h1>Modernes Wohnen</h1>
                 <p>Auf drei Wohnhäuser verteilt beinhaltet der Neubau <strong>&#171;Baumgarten&#187;</strong> 3 Eigentumswohnungen und 30 Mietwohnungen. Die offenen und grosszügigen Grundrisse der Wohnungen bieten den Bewohnern viel Freiraum.</p>
                 <p>Mittelpunkt bildet der grosse Wohn-Koch-Essbereich zusammen mit der halboffenen <strong>Loggia</strong> oder <strong>Terrasse</strong>. Die aussenliegenden, erweiterten «Wohnzimmer» sind mit warmem Holz ausgeschlagen und verleihen dem Aussen ein nutzerfreundliches und angenehmes Klima. Trotz der Offenheit finden die Bewohner in der Loggia oder auf der Terrasse einen weiteren Rückzugsort.</p>
-                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die Grundrisse vom Baumgarten</a>
+                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die Grundrisse</a>
             </div>
         </article>
         

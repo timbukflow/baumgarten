@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <header class="cd-auto-hide-header notscroll">
+    <header class="cd-auto-hide-header" id="notscroll">
 	<div class="logo">
         <a href="index" target="_top">
             <img src="img/baumgarten-freudenau-goldach-icon.svg" alt="baumgarten freudenau goldach logo" height="52" width="76"/>
@@ -191,11 +191,11 @@
         <table id="a">
             <tr>      
                 <th>Haus</th>
-                <th>Ebene</th>
+                <th>EB</th>
                 <th>ZWHG</th>
-                <th>NF m²</th>
-                <th>BF m²</th>
-                <th>Mietzins brutto</th>
+                <th>NF</th>
+                <th>BF</th>
+                <th>MZB</th>
                 <th>Plan</th>
             </tr>   
             <tr class="ae1w1">
@@ -236,7 +236,7 @@
                 <td>3.5</td>
                 <td>94.00</td>
                 <td>120.00</td>
-                <td>vermietet</td>
+                <td>verm</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -383,11 +383,11 @@
         <table id="b">   
             <tr>      
                 <th>Haus</th>
-                <th>Ebene</th>
+                <th>EB</th>
                 <th>ZWHG</th>
-                <th>NF m²</th>
-                <th>BF m²</th>
-                <th>Mietzins brutto</th>
+                <th>NF</th>
+                <th>BF</th>
+                <th>MZB</th>
                 <th>Plan</th>
             </tr>   
             <tr class="be1w1">
@@ -542,11 +542,11 @@
         <table id="c">   
             <tr>      
                 <th>Haus</th>
-                <th>Ebene</th>
+                <th>EB</th>
                 <th>ZWHG</th>
-                <th>NF m²</th>
-                <th>BF m²</th>
-                <th>Mietzins brutto</th>
+                <th>NF</th>
+                <th>BF</th>
+                <th>MZB</th>
                 <th>Plan</th>
             </tr>   
             <tr class="ce1w1">
