@@ -206,13 +206,12 @@
                 <td>120.00</td>
                 <td>1'800.-</td>
                 <td class="planb">
-                    <img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bg-ae1w1.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/plan-ae1w1.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><strong>A.1.1.</strong><br>3.5 ZWHG<br>NF 94.00m²<br>Download Pdf:</a>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.1.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
-                    
                 </td>
             </tr>
             <tr class="ae1w2">
@@ -222,9 +221,12 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>1'800.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
@@ -235,9 +237,12 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w3.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
@@ -248,9 +253,12 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
@@ -261,9 +269,12 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
@@ -274,9 +285,12 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
@@ -287,9 +301,12 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
@@ -300,9 +317,12 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
@@ -313,9 +333,12 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
@@ -326,9 +349,12 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae4w1.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.4.1.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
@@ -339,17 +365,17 @@
                 <td>94.00</td>
                 <td>120.00</td>
                 <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae4w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.4.1.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
             <tr>
-                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
-            </tr>
-            <tr>
-                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Baumgarten </strong> Übersichtsplan (PDF)</a></td> 
+                <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
         </table>
         
@@ -508,7 +534,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="15" height="15" alt="download icon"><strong> Baumgarten Haus B</strong> Grundrisse (PDF)</a></td> 
+                <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
         </table>
         
@@ -667,7 +693,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="15" height="15" alt="download icon"><strong> Baumgarten Haus C</strong> Grundrisse (PDF)</a></td> 
+                <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
         </table>
     </div>

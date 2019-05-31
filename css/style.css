@@ -32,7 +32,7 @@ h1, h2, h3, h4, p, a, figcaption, input, textarea, button, span  {
     hyphens: auto;
     -webkit-hyphens: auto;
     text-decoration: none;
-    letter-spacing: 0.6px;
+    letter-spacing: 0.75px;
 }
 
 h1 {
@@ -46,7 +46,7 @@ h2 {
     margin-top: 40px;
     margin-bottom: 40px;
     line-height: 1.5;
-    letter-spacing: 0.8px;
+    letter-spacing: 0.75px;
 }
 
 figure {
@@ -502,7 +502,6 @@ p, a{
     margin: 40px 0px;
     position: fixed;
     display: inline-block;
-    border-right:1px dashed #718166;    
 }
 
 #bulding {
@@ -560,6 +559,7 @@ g {
     float: right;
     right: 0;
     display: inline-block;
+    background: #f7f7f5;
 }
 
 .ct .grundriss h1 {
@@ -589,6 +589,7 @@ table, th, td, td a {
     text-align: left;
     letter-spacing: 0.75px;
     border-collapse: collapse;
+    line-height: 1.5;
 }
 
 th {
@@ -602,29 +603,29 @@ th, td {
     border-right: 1px dashed #BEC7BE;
 }
 
-td a {
-    font-size: 14px;
-    opacity: 0.5;
-}
 
 td a:hover {
     opacity: 1;
 }
 
+.downloadplan {
+    padding-top: 20px;
+}
 
 th:last-child, td:last-child {border-right: none;}
 
 .planb {cursor: pointer;}
-.planb img {margin: 3px;}
+.plani {margin: 3px; opacity: 0.5;}
+.plani:hover {opacity: 1;}
 
 .plan {
     display: none;
     position: fixed;
     top: 0px;
     right: 0px;
-    width: 49.5%;
+    width: 100%;
     height:  100vh;
-    background-color: #fff;
+    background-color: #f7f7f5;
     cursor: pointer;
     z-index: 10;
 }
@@ -632,7 +633,7 @@ th:last-child, td:last-child {border-right: none;}
     position: absolute;
     margin: auto;
     top: 0;
-    bottom: 10%;
+    bottom: 0;
     left: 0;
     right: 0;
     max-height: 75%;
@@ -640,9 +641,13 @@ th:last-child, td:last-child {border-right: none;}
 }
 .plan a {
     position: absolute;
-    bottom: 40px;
-    margin: 16px 8%;
-    cursor: pointer;   
+    bottom: 0;
+    margin: 50px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.plan a img {
+    position: relative;
 }
 .plan .closer {
     position: absolute;
@@ -659,6 +664,10 @@ th:last-child, td:last-child {border-right: none;}
 .v td {
     font-style: italic;
     color: rgba(95, 115, 92, 0.5);
+}
+.v td:last-child {
+    font-style: normal;
+    color: #718166;
 }
 
 /*---------------------------------- 
@@ -731,7 +740,7 @@ th:last-child, td:last-child {border-right: none;}
     margin: 0 0 5px;
     padding: 10px;
     font-size: 20px;
-    letter-spacing: 0.6px;
+    letter-spacing: 0.75px;
 }
     
 #contact button:hover {
