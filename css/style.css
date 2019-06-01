@@ -328,6 +328,16 @@ p, a{
   }
 }
 
+.respbaumgarten {
+    float: left;
+    padding: 19px 20px;
+    display: none;
+}
+
+.respbaumgarten a {
+    font-size: 20px;
+}
+
 /*---------------------------------- 
     start
 -----------------------------------*/
@@ -880,10 +890,12 @@ responsive ipad
     .cd-auto-hide-header .logo img {width: 50px;}
     .cd-primary-nav {float: right; padding-right: 10px;}
     .cd-primary-nav > ul {top:72px;}
+    .respbaumgarten {display: inline-block;
+}
     
     
     
-    .stitle {font-size: 50px; text-shadow: 0px 0px 10px rgba(100, 100, 100, 0.5);}
+    .stitle {display: none;}
     .simgl {display: none;}
     .simgr {width: 100%;}
     .einleitung {width: calc(100% - 60px);     padding: 30px 30px 0px 30px; top: -90px;}
@@ -892,7 +904,7 @@ responsive ipad
     h2 {font-size: 16px; margin-top: 10px;}
     .einleitunglauftext{width: calc(100% - 60px);     padding: 0px 30px 50px 30px;}
     p, a {font-size: 16px;}
-    .logocontainer {width: 100%; margin-top: 70px;}
+    .logocontainer {width: 100%; margin-top: 70px;     margin-bottom: 70px;}
     .content50 {width: calc(100% - 60px);padding: 20px 30px 50px 30px;}
     .building {padding: 40px 10% 0px; width: 80%;}
     .building svg {width: 80%;}

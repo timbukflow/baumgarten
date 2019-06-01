@@ -2,8 +2,11 @@
 	<div class="logo">
         <a href="index" target="_top">
             <img src="img/baumgarten-freudenau-goldach-icon.svg" alt="baumgarten freudenau goldach logo" height="52" width="76"/>
-            </a>
-        </div>
+        </a>
+    </div>
+    <div class="respbaumgarten">
+        <a href="index">Baumgarten</a>
+    </div>
 
 	<nav class="cd-primary-nav">
 		<a href="#cd-navigation" class="nav-trigger">

@@ -54,7 +54,7 @@
                 <h1>Modernes Wohnen</h1>
                 <p>Auf drei Wohnhäuser verteilt beinhaltet der Neubau <strong>&#171;Baumgarten&#187;</strong> 3 Eigentumswohnungen und 30 Mietwohnungen. Die offenen und grosszügigen Grundrisse der Wohnungen bieten den Bewohnern viel Freiraum.</p>
                 <p>Mittelpunkt bildet der grosse Wohn-Koch-Essbereich zusammen mit der halboffenen <strong>Loggia</strong> oder <strong>Terrasse</strong>. Die aussenliegenden, erweiterten «Wohnzimmer» sind mit warmem Holz ausgeschlagen und verleihen dem Aussen ein nutzerfreundliches und angenehmes Klima. Trotz der Offenheit finden die Bewohner in der Loggia oder auf der Terrasse einen weiteren Rückzugsort.</p>
-                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die Grundrisse</a>
+                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie das Wohnangebot</a>
             </div>
         </article>
         
@@ -69,7 +69,7 @@
                 <h1>Garten, Loggia und Dachterrassen</h1>
                 <p>Die Erdgeschosswohnungen besitzen alle einen grosszügigen Gartenbereich, der die Qualität des Wohnens im Grünen mit einem Freiraum Richtung Süden, Westen und Osten bietet. In der «Baumgarten»-Krone finden sich Attikageschosse, die durch ihre grünen Dachgärten und -terrassen bestechen. </p>
                 <p>Zusätzlich verwöhnt werden die Bewohner dieser Wohnräume mit einer blickfreien Privatsphäre das die Wohnqualität noch etwas steigern mag. Alle Wohnungen besitzen einen hohen Ausbaustandard in der Küche, zwei komfortable Nasszellen und je eine eigene Waschmaschine mit Tumbler.</p>
-                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die <strong>Erdgeschoss</strong> Grundrisse vom Baumgarten</a>
+                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die <strong>Erdgeschoss</strong> Grundrisse</a>
             </div>
         </article>
         
@@ -82,7 +82,7 @@
                 <h1>Baumgartenweg</h1>
                 <p>Die neue Überbauung steht mit ihren drei Wohnhäusern mitten in einer grünen Baumlandschaft und ist mit dem Baumgartenweg verbunden. Das gesamte Gelände ist bequem zu Fuss erschliessbar, doch noch bequemer ist die direkte Verbindung von jedem Wohnhaus und Wohnungen mit dem Lift zur unterirdischen Tiefgarage.</p>
                 <p>Mit dem «Baumgarten»-Quartier entsteht ein Treffpunkt, der den Bewohnern die Möglichkeit bietet sich auszutauschen, sich für Aktivitäten und gemeinsame Begegnungen zu treffen und gemeinsam Zeit zu verbringen. Für Jung wie auch für Alt findet sich ein gemütlicher Aufenthaltsbereich und grüner Spielplatz wieder, wo gelacht und gespielt werden kann. <strong>«Baumgarten»</strong> ein Quartier in Harmonie mit sich und der Umgebung.</p>
-                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die <strong>Obergeschoss</strong> Grundrisse vom Baumgarten</a>
+                <a class="link" href="wohnangebot" target="_self"><strong>Entdecken</strong> Sie die <strong>Obergeschoss</strong> Grundrisse</a>
             </div>
         </article>
         
