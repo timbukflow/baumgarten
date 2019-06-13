@@ -185,6 +185,13 @@ $(document).ready(function () {
 	    }
 	}
     
+     // home fade in animation //
+
+    setTimeout(function () {
+    $('.einleitung').addClass('fadeInUp');
+    $('.cd-auto-hide-header').addClass('fadeInDown');}, 500
+);
+    
     // impressum //
 
     $('.impressum').click(function() {
