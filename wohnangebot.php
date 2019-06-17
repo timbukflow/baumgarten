@@ -50,8 +50,8 @@
             </g>
             <g class="a"><!--building A-->
                 <g class="ae1">
-                    <polygon class="ae1w3 st1" points="34.5,137.5 85.5,108.1 119.6,127.7 68.6,157.1 68.5,176.7 34.5,157.1"/>
-                    <polygon class="ae1w2 st1" points="153.6,147.3 119.6,127.7 68.6,157.1 68.5,176.7 102.5,196.4 153.5,167"/>
+                    <polygon class="ae1w2 st1" points="34.5,137.5 85.5,108.1 119.6,127.7 68.6,157.1 68.5,176.7 34.5,157.1"/>
+                    <polygon class="ae1w3 st1" points="153.6,147.3 119.6,127.7 68.6,157.1 68.5,176.7 102.5,196.4 153.5,167"/>
                     <polygon class="ae1w1 st1" points="85.5,108.1 119.5,88.4 187.4,127.8 187.5,147.3 153.5,167 153.6,147.3"/>
                     <g>
                         <polyline class="st0" points="34.5,137.5 102.5,176.8 187.4,127.8"/>
@@ -59,26 +59,26 @@
                     </g>
                 </g>
                 <g class="ae2">
-                    <polygon class="ae2w1 st1" points="34.5,117.9 85.5,88.5 119.6,108.1 68.6,137.5 68.5,157.1 34.5,137.5"/>
+                    <polygon class="ae2w3 st1" points="34.5,117.9 85.5,88.5 119.6,108.1 68.6,137.5 68.5,157.1 34.5,137.5"/>
                     <polygon class="ae2w2 st1" points="153.6,127.7 119.6,108.1 68.6,137.5 68.5,157.1 102.5,176.8 153.5,147.4"/>
-                    <polygon class="ae2w3 st1" points="85.5,88.5 119.5,68.8 187.4,108.2 187.5,127.7 153.5,147.4 153.6,127.7"/>
+                    <polygon class="ae2w1 st1" points="85.5,88.5 119.5,68.8 187.4,108.2 187.5,127.7 153.5,147.4 153.6,127.7"/>
                     <g>
                         <polyline class="st0" points="34.5,117.9 102.5,157.2 187.4,108.2"/>
                         <line class="st0" x1="102.5" y1="176.8" x2="102.5" y2="157.2"/>
                     </g>
                 </g>
                 <g class="ae3">
-                    <polygon class="ae3w1 st1" points="34.5,98.3 85.5,68.9 119.6,88.5 68.6,117.9 68.5,137.5 34.5,117.9"/>
+                    <polygon class="ae3w3 st1" points="34.5,98.3 85.5,68.9 119.6,88.5 68.6,117.9 68.5,137.5 34.5,117.9"/>
                     <polygon class="ae3w2 st1" points="153.6,108.1 119.6,88.5 68.6,117.9 68.5,137.5 102.5,157.2 153.5,127.8"/>
-                    <polygon class="ae3w3 st1" points="85.5,68.9 119.5,49.2 187.4,88.6 187.5,108.1 153.5,127.8 153.6,108.1"/>
+                    <polygon class="ae3w1 st1" points="85.5,68.9 119.5,49.2 187.4,88.6 187.5,108.1 153.5,127.8 153.6,108.1"/>
                     <g>
                         <polyline class="st0" points="34.5,98.3 102.5,137.6 187.4,88.6"/>
                         <line class="st0" x1="102.5" y1="157.2" x2="102.5" y2="137.6"/>
                     </g>
                 </g>
                 <g class="ae4">
-                    <polygon class="ae4w1 st1" points="145,112.8 128.1,103 128.1,83.4 94,63.8 34.5,98.3 102.4,137.5"/>
-                    <polygon class="ae4w2 st1" points="94,63.8 136.5,39.3 170.5,59 170.4,78.7 187.4,88.6 145,112.8 128.1,103 128.1,83.4"/>
+                    <polygon class="ae4w2 st1" points="145,112.8 128.1,103 128.1,83.4 94,63.8 34.5,98.3 102.4,137.5"/>
+                    <polygon class="ae4w1 st1" points="94,63.8 136.5,39.3 170.5,59 170.4,78.7 187.4,88.6 145,112.8 128.1,103 128.1,83.4"/>
                     <g>
                         <polyline class="st0" points="51.5,108.1 51.5,88.4 85.5,108.1 85.5,127.7"/>
                         <line class="st1" x1="85.5" y1="108.1" x2="170.5" y2="59"/>
@@ -94,34 +94,34 @@
             <g class="b"><!--building b-->
                 <g class="be1">
                     <polygon class="be1w1 st1" points="136.6,255.3 136.6,274.9 170.6,294.5 170.6,274.9 204.6,255.3 170.6,235.7"/>
-                    <polygon class="be1w2 st1" points="204.6,216 170.6,235.7 238.6,274.9 238.6,294.5 272.6,274.9 272.6,255.3"/>
-                    <polygon class="be1w3 st1" points="170.6,294.5 170.6,274.9 204.6,255.3 238.6,274.9 238.6,294.5 204.6,314.2"/>
+                    <polygon class="be1w3 st1" points="204.6,216 170.6,235.7 238.6,274.9 238.6,294.5 272.6,274.9 272.6,255.3"/>
+                    <polygon class="be1w2 st1" points="170.6,294.5 170.6,274.9 204.6,255.3 238.6,274.9 238.6,294.5 204.6,314.2"/>
                     <g>
                         <polyline class="st0" points="136.6,255.3 204.6,294.5 272.6,255.3"/>
                         <line class="st0" x1="204.6" y1="314.2" x2="204.6" y2="294.5"/>
                     </g>
                 </g>
                 <g class="be2">
-                    <polygon class="be2w1 st1" points="136.6,235.6 136.6,255.3 170.6,274.9 170.6,255.3 204.6,235.7 170.6,216"/>
-                    <polygon class="be2w2 st1" points="204.6,196.4 170.6,216 238.6,255.3 238.6,274.9 272.6,255.3 272.6,235.6"/>
-                    <polygon class="be2w3 st1" points="170.6,274.9 170.6,255.3 204.6,235.7 238.6,255.3 238.6,274.9 204.6,294.5"/>
+                    <polygon class="be2w3 st1" points="136.6,235.6 136.6,255.3 170.6,274.9 170.6,255.3 204.6,235.7 170.6,216"/>
+                    <polygon class="be2w1 st1" points="204.6,196.4 170.6,216 238.6,255.3 238.6,274.9 272.6,255.3 272.6,235.6"/>
+                    <polygon class="be2w2 st1" points="170.6,274.9 170.6,255.3 204.6,235.7 238.6,255.3 238.6,274.9 204.6,294.5"/>
                     <g>
                         <polyline class="st0" points="136.6,235.6 204.6,274.9 272.6,235.6"/>
                         <line class="st0" x1="204.6" y1="294.5" x2="204.6" y2="274.9"/>
                     </g>
                 </g>
                 <g class="be3">
-                    <polygon class="be3w1 st1" points="136.6,216 136.6,235.6 170.6,255.3 170.6,235.6 204.6,216 170.6,196.4"/>
-                    <polygon class="be3w2 st1" points="204.6,176.7 170.6,196.4 238.6,235.6 238.6,255.3 272.6,235.6 272.6,216"/>
-                    <polygon class="be3w3 st1" points="170.6,255.3 170.6,235.6 204.6,216 238.6,235.6 238.6,255.3 204.6,274.9"/>
+                    <polygon class="be3w3 st1" points="136.6,216 136.6,235.6 170.6,255.3 170.6,235.6 204.6,216 170.6,196.4"/>
+                    <polygon class="be3w1 st1" points="204.6,176.7 170.6,196.4 238.6,235.6 238.6,255.3 272.6,235.6 272.6,216"/>
+                    <polygon class="be3w2 st1" points="170.6,255.3 170.6,235.6 204.6,216 238.6,235.6 238.6,255.3 204.6,274.9"/>
                     <g>
                         <polyline class="st0" points="136.6,216 204.6,255.3 272.6,216"/>
                         <line class="st0" x1="204.6" y1="274.9" x2="204.6" y2="255.3"/>
                     </g>
                 </g>
                 <g class="be4">
-                    <polygon class="be4w1 st1" points="170.6,235.7 187.4,225.7 187.4,206.1 221.4,186.7 272.6,216 204.6,255.3"/>
-                    <polygon class="be4w2 st1" points="136.6,216 153.5,206.3 153.5,186.5 187.4,166.9 221.4,186.7 187.4,206.1 187.4,225.7 170.6,235.7"/>
+                    <polygon class="be4w2 st1" points="170.6,235.7 187.4,225.7 187.4,206.1 221.4,186.7 272.6,216 204.6,255.3"/>
+                    <polygon class="be4w1 st1" points="136.6,216 153.5,206.3 153.5,186.5 187.4,166.9 221.4,186.7 187.4,206.1 187.4,225.7 170.6,235.7"/>
                     <g>
                         <polyline class="st0" points="255.3,226 255.3,206.1 221.4,225.8"/>
                         <polyline class="st0" points="153.5,186.5 221.4,225.8 221.4,245.4 153.5,206.3"/>
@@ -135,35 +135,35 @@
             
             <g class="c"><!--building c-->
                 <g class="ce1">
-                    <polygon class="ce1w1 st1" points="289.6,324 340.6,294.6 374.6,314.2 323.6,343.6 323.5,363.2 289.6,343.6"/>
+                    <polygon class="ce1w3 st1" points="289.6,324 340.6,294.6 374.6,314.2 323.6,343.6 323.5,363.2 289.6,343.6"/>
                     <polygon class="ce1w2 st1" points="408.6,333.8 374.6,314.2 323.6,343.6 323.5,363.2 357.6,382.9 408.5,353.5"/>
-                    <polygon class="ce1w3 st1" points="340.6,294.6 374.5,274.9 442.4,314.3 442.6,333.8 408.5,353.5 408.6,333.8"/>
+                    <polygon class="ce1w1 st1" points="340.6,294.6 374.5,274.9 442.4,314.3 442.6,333.8 408.5,353.5 408.6,333.8"/>
                     <g>
                         <polyline class="st0" points="289.6,324 357.6,363.3 442.4,314.3"/>
                         <line class="st0" x1="357.6" y1="382.9" x2="357.6" y2="363.3"/>
                     </g>
                 </g>
                 <g class="ce2">
-                    <polygon class="ce2w1 st1" points="289.6,304.4 340.6,274.9 374.6,294.6 323.6,324 323.5,343.6 289.6,324"/>
+                    <polygon class="ce2w3 st1" points="289.6,304.4 340.6,274.9 374.6,294.6 323.6,324 323.5,343.6 289.6,324"/>
                     <polygon class="ce2w2 st1" points="408.6,314.2 374.6,294.6 323.6,324 323.5,343.6 357.6,363.3 408.5,333.9"/>
-                    <polygon class="ce2w3 st1" points="340.6,274.9 374.5,255.3 442.4,294.7 442.6,314.2 408.5,333.9 408.6,314.2"/>
+                    <polygon class="ce2w1 st1" points="340.6,274.9 374.5,255.3 442.4,294.7 442.6,314.2 408.5,333.9 408.6,314.2"/>
                     <g>
                         <polyline class="st0" points="289.6,304.4 357.6,343.7 442.4,294.7"/>
                         <line class="st0" x1="357.6" y1="363.3" x2="357.6" y2="343.7"/>
                     </g>
                 </g>
                 <g class="ce3">
-                    <polygon class="ce3w1 st1" points="289.6,284.8 340.6,255.4 374.6,275 323.6,304.4 323.5,324 289.6,304.4"/>
-                    <polygon class="ce3w2 st1" points="408.6,294.6 374.6,275 323.6,304.4 323.5,324 357.6,343.7 408.5,314.3"/>
-                    <polygon class="ce3w3 st1" points="340.6,255.4 374.5,235.7 442.4,275.1 442.6,294.6 408.5,314.3 408.6,294.6"/>
+                    <polygon class="ce3w2 st1" points="289.6,284.8 340.6,255.4 374.6,275 323.6,304.4 323.5,324 289.6,304.4"/>
+                    <polygon class="ce3w3 st1" points="408.6,294.6 374.6,275 323.6,304.4 323.5,324 357.6,343.7 408.5,314.3"/>
+                    <polygon class="ce3w1 st1" points="340.6,255.4 374.5,235.7 442.4,275.1 442.6,294.6 408.5,314.3 408.6,294.6"/>
                     <g>
                         <polyline class="st0" points="289.6,284.8 357.6,324.1 442.4,275.1"/>
                         <line class="st0" x1="357.6" y1="343.7" x2="357.6" y2="324.1"/>
                     </g>
                 </g>
                 <g class="ce4">
-                    <polygon class="ce4w1 st1" points="400.1,299.3 383.1,289.5 383.1,269.9 349.1,250.3 289.6,284.8 357.5,324"/>
-                    <polygon class="ce4w2 st1" points="349.1,250.3 391.6,225.8 425.6,245.5 425.4,265.2 442.4,275.1 400.1,299.3 383.1,289.5 383.1,269.9"/>
+                    <polygon class="ce4w2 st1" points="400.1,299.3 383.1,289.5 383.1,269.9 349.1,250.3 289.6,284.8 357.5,324"/>
+                    <polygon class="ce4w1 st1" points="349.1,250.3 391.6,225.8 425.6,245.5 425.4,265.2 442.4,275.1 400.1,299.3 383.1,289.5 383.1,269.9"/>
                     <g>
                         <polyline class="st0" points="306.5,294.6 306.6,274.9 340.6,294.6 340.6,314.2"/>
                         <line class="st1" x1="340.6" y1="294.6" x2="425.6" y2="245.5"/>
@@ -190,21 +190,19 @@
         <h4>Haus A</h4>
         <table id="a">
             <tr>      
-                <th>Haus</th>
+                <th>Nr.</th>
                 <th>EB</th>
                 <th>ZWHG</th>
-                <th>NF</th>
                 <th>BF</th>
                 <th>MZB</th>
                 <th>Plan</th>
             </tr>   
             <tr class="ae1w1">
-                <td>A.1.1</td> 
+                <td>A.01</td> 
                 <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>1'800.-</td>
+                <td>4.5</td>
+                <td>133.00</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -215,12 +213,11 @@
                 </td>
             </tr>
             <tr class="ae1w2">
-                <td>A.1.2</td> 
+                <td>A.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>1'800.-</td>
+                <td>101.00</td>
+                <td>2'070.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -230,13 +227,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae1w3 v">
-                <td>A.1.3</td> 
+            <tr class="ae1w3">
+                <td>A.03</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>verm</td>
+                <td>93.00</td>
+                <td>2'070.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -246,13 +242,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae2w1 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+            <tr class="ae2w1">
+                <td>A.04</td> 
+                <td>1.OG</td>
+                <td>4.5</td>
+                <td>129.00</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -262,13 +257,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae2w2 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ae2w2">
+                <td>A.05</td> 
+                <td>1. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>101.00</td>
+                <td>2'070.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -278,13 +272,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae2w3 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ae2w3">
+                <td>A.06</td> 
+                <td>1. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>101.00</td>
+                <td>2'070.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -294,13 +287,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae3w1 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+            <tr class="ae3w1">
+                <td>A.07</td> 
+                <td>2. OG</td>
+                <td>4.5</td>
+                <td>129.00</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -310,13 +302,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae3w2 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ae3w2">
+                <td>A.08</td> 
+                <td>2. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>101.00</td>
+                <td>2'120.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -326,13 +317,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae3w3 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ae3w3">
+                <td>A.09</td> 
+                <td>2. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>101.00</td>
+                <td>2'180.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -342,13 +332,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae4w1 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ae4w1">
+                <td>A.10</td> 
+                <td>Attika</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>95.00</td>
+                <td>2'170.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -358,13 +347,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae4w2 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+            <tr class="ae4w2">
+                <td>A.11</td> 
+                <td>Attika</td>
+                <td>4.5</td>
+                <td>131.00</td>
+                <td>2'780.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -382,21 +370,19 @@
         <h4>Haus B</h4>
         <table id="b">   
             <tr>      
-                <th>Haus</th>
+                <th>Nr.</th>
                 <th>EB</th>
                 <th>ZWHG</th>
-                <th>NF</th>
                 <th>BF</th>
                 <th>MZB</th>
                 <th>Plan</th>
             </tr>   
             <tr class="be1w1">
-                <td>A.1.1</td> 
+                <td>B.01</td> 
                 <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>1'800.-</td>
+                <td>2.5</td>
+                <td>84.00</td>
+                <td>1'750.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d.svg" alt="Smiley face">
@@ -404,116 +390,107 @@
                 </td>
             </tr>
             <tr class="be1w2">
-                <td>A.1.2</td> 
+                <td>B.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>1'800.-</td>
+                <td>101.00</td>
+                <td>2'070.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
                     </div>
                 </td>
             </tr>
-            <tr class="be1w3 v">
-                <td>A.1.3</td> 
+            <tr class="be1w3">
+                <td>B.03</td> 
                 <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>4.5</td>
+                <td>118.00</td>
+                <td>2'330.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
                     </div>
                 </td>
             </tr>
-            <tr class="be2w1 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="be2w1">
+                <td>B.04</td> 
+                <td>1. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>105.00</td>
+                <td>2'120.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
                     </div>
                 </td>
             </tr>
-            <tr class="be2w2 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="be2w2">
+                <td>B.05</td> 
+                <td>1. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>105.00</td>
+                <td>2'120.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
                     </div>
                 </td>
             </tr>
-            <tr class="be2w3 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+            <tr class="be2w3">
+                <td>B.06</td> 
+                <td>1. OG</td>
+                <td>4.5</td>
+                <td>118.00</td>
+                <td>2'380.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
                     </div>
                 </td>
             </tr>
-            <tr class="be3w1 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="be3w1">
+                <td>B.07</td> 
+                <td>2. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>105.00</td>
+                <td>2'170.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
                     </div>
                 </td>
             </tr>
-            <tr class="be3w2 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="be3w2">
+                <td>B.08</td> 
+                <td>2. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>105.00</td>
+                <td>2'170.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
                     </div>
                 </td>
             </tr>
-            <tr class="be3w3 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+            <tr class="be3w3">
+                <td>B.09</td> 
+                <td>2. OG</td>
+                <td>4.5</td>
+                <td>118.00</td>
+                <td>2'430.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
                     </div>
                 </td>
             </tr>
-            <tr class="be4w1 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+            <tr class="be4w1">
+                <td>B.10</td> 
+                <td>Attika</td>
+                <td>4.5</td>
+                <td>117.00</td>
+                <td>2'580.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
@@ -521,12 +498,11 @@
                 </td>
             </tr>
             <tr class="be4w2">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
+                <td>B.11</td> 
+                <td>Attika</td>
+                <td>4.5</td>
+                <td>117.00</td>
+                <td>2'580.-</td>
                 <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/bulding-3d%202.svg" alt="Smiley face">
@@ -539,161 +515,182 @@
         </table>
         
             <h4>Haus C</h4>
-        <table id="c">   
+        <table id="c">
             <tr>      
-                <th>Haus</th>
+                <th>Nr.</th>
                 <th>EB</th>
                 <th>ZWHG</th>
-                <th>NF</th>
                 <th>BF</th>
                 <th>MZB</th>
                 <th>Plan</th>
             </tr>   
             <tr class="ce1w1">
-                <td>A.1.1</td> 
+                <td>C.01</td> 
                 <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>1'800.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>4.5</td>
+                <td>133.00</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w1.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.1.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
             <tr class="ce1w2">
-                <td>A.1.2</td> 
+                <td>C.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>1'800.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>101.00</td>
+                <td>2'070.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
-            <tr class="ce1w3 v">
-                <td>A.1.3</td> 
+            <tr class="ce1w3">
+                <td>C.03</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>93.00</td>
+                <td>2'070.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w3.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
-            <tr class="ce2w1 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+            <tr class="ce2w1">
+                <td>C.04</td> 
+                <td>1.OG</td>
+                <td>4.5</td>
+                <td>129.00</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
-            <tr class="ce2w2 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ce2w2">
+                <td>C.05</td> 
+                <td>1. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>101.00</td>
+                <td>2'070.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
-            <tr class="ce2w3 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ce2w3">
+                <td>C.06</td> 
+                <td>1. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>101.00</td>
+                <td>2'070.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
-            <tr class="ce3w1 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+            <tr class="ce3w1">
+                <td>C.07</td> 
+                <td>2. OG</td>
+                <td>4.5</td>
+                <td>129.00</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
-            <tr class="ce3w2 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ce3w2">
+                <td>C.08</td> 
+                <td>2. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>101.00</td>
+                <td>2'120.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
-            <tr class="ce3w3 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ce3w3">
+                <td>C.09</td> 
+                <td>2. OG</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>101.00</td>
+                <td>2'180.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
-            <tr class="ce4w1 v">
-                <td>A.1.3</td> 
-                <td>EG</td>
+            <tr class="ce4w1">
+                <td>C.10</td> 
+                <td>Attika</td>
                 <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>95.00</td>
+                <td>2'170.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae4w1.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.4.1.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
             <tr class="ce4w2">
-                <td>A.1.3</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>94.00</td>
-                <td>120.00</td>
-                <td>vermietet</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>C.11</td> 
+                <td>Attika</td>
+                <td>4.5</td>
+                <td>131.00</td>
+                <td>2'780.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/plan-ae4w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.4.1.</strong> / 4.5 ZWHG (PDF)</a>
                     </div>
                 </td>
             </tr>
             <tr>
-                <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C</strong> Alle Grundrisse (PDF)</a></td> 
+                <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
         </table>
     </div>
