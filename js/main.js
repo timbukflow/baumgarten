@@ -1,5 +1,7 @@
 $(document).ready(function () {
-    
+    $(function() {
+        $('.faaaad').removeClass('fodi');
+    });
     // building A //
     /*
     $(".a").hover(function() {

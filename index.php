@@ -8,7 +8,7 @@
     
 <body>
     <?php include 'header.php'; ?>
-    
+    <div class="faaaad fodi"></div>
     <section class="sectionhome">
         <article>
             <h1 class="stitle">Baumgarten</h1>
