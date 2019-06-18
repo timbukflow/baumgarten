@@ -8,7 +8,10 @@
     
 <body>
     <?php include 'header.php'; ?>
-    
+    <div class="fadecont">
+        <div class="fadeleft fade"></div>
+        <div class="faderight fade"></div>
+    </div>
     
     
     <section class="sectionhome">

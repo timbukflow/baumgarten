@@ -1,6 +1,7 @@
 $(document).ready(function () {
     $(function() {
-        $('.faaaad').removeClass('fodi');
+        $('.fadeleft').removeClass('fade');
+        $('.faderight').removeClass('fade');
     });
     // building A //
     /*
