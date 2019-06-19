@@ -901,32 +901,36 @@ footer a{
     float: left;
 }
 
+
 #optoutbanner99 {
 	font-size: 12px;
 	line-height: 18px;
     position: fixed;
-    bottom: 0;
+    top: 0;
     right: 0;
 	background-color: #f2f2f2;
-	padding:10px;
+	padding: 20px;
 	text-align: center;
 	z-index: 200;
 }
-#optoutbanner99 a {
-	text-decoration: underline;
-	color: #333;
+
+#optoutbanner99 a,
+#optoutbanner99 p{
 	cursor: pointer;
+    font-size: 15px;
+    display: inline-block;
+    margin: 0px 3px;
 }
+
 #acceptga {
 	text-decoration: none !important;
-	background-color: #333;
+	background-color: #718166;
 	color: #fff !important;
 	font-weight: normal !important;
-	padding: 3px;
+    padding: 0px 5px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
-    margin-right: 20px;
 }
 
 

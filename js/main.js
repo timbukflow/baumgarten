@@ -1,6 +1,6 @@
 $(document).ready(function () {
     
-    setTimeout(function(){$('#loader').fadeOut(800)},500);
+    setTimeout(function(){$('#loader').fadeOut(800)},800);
     
     // building A //
     /*

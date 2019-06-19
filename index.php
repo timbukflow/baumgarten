@@ -117,10 +117,6 @@
             </div>
         </article>
     </section>
-    <div id="optoutbanner99">
-    Wir verwenden Cookies für eine bessere Online-Erlebnis.
-    <a id="acceptga" onclick="accept()">Accept</a>
-    </div>
     
     <?php include 'footer.php'; ?>
 
