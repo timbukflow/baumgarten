@@ -27,7 +27,7 @@
                 <li><a class="linkw" href="wohnangebot">Wohnangebot</a></li>
                 <li><a class="linkw" href="kontakt">Kontakt</a></li>
                 <li><a class="linkw" href="kontakt">Downloads</a></li>
-                <li><p class="linkw impressum" data-toggle="#impressum">Impressum</p></li>
+                <li><span class="linkw impressum" data-toggle="#impressum">Impressum</span></li>
                 
             </ul>
         </nav>
