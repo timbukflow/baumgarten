@@ -58,7 +58,7 @@ h2 {
 }
 
 figure {
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 
 figcaption {
@@ -454,7 +454,6 @@ p, a{
     width: 100%;
     display: inline-block;
     float: left;
-    text-align: center;
 }
 .einleitung {
     background: #718166;
@@ -517,8 +516,8 @@ p, a{
 .content {
     position: relative;
     max-width: 900px;
-    display: inline-block;
-    margin: 20px 20px 150px 20px;
+    display: block;
+    margin: 20px auto 150px;
 }
 .content50img {
     position: relative;
