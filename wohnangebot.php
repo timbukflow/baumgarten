@@ -3,9 +3,9 @@
 <!--[if IE 8]>	 <html class="no-js lt-ie9" lang="de"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
-    <title>Baumgarten | Wohnangebot</title>
-    <meta name="description" content="Baumgarten | Wohnangebot"/>
-    <?php include 'head.php'; ?>
+<title>Baumgarten | Wohnangebot</title>
+<meta name="description" content="Baumgarten | Wohnangebot"/>
+<?php include 'head.php'; ?>
 </head>
 
 <body>
@@ -767,12 +767,6 @@
         </table>
     </div>
     
-   
-<script src="js/vendor/modernizr-3.6.0.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
-<script src="js/plugins.js"></script>
-<script src="js/main.js"></script>
 </body>
 
 </html>

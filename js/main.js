@@ -1,8 +1,15 @@
 $(document).ready(function () {
+    
+    setTimeout(function(){
+        $('#loader').addClass('loadhide');
+    },1000);
+    
+    setTimeout(function(){$('#loader').fadeOut(500)},1500);
     $(function() {
         $('.fadeleft').removeClass('fade');
         $('.faderight').removeClass('fade');
     });
+    
     // building A //
     /*
     $(".a").hover(function() {
