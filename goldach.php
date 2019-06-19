@@ -9,7 +9,11 @@
 </head>
     
 <body>
+    <div id="loader">
+        <img src="img/baumgarten-freudenau-goldach-baum.svg" alt="baumgarten freudenau goldach logo" width="30"/>
+    </div>
     <?php include 'header.php'; ?>
+    
     <div class="fadecont">
         <div class="fadeleft fade"></div>
         <div class="faderight fade"></div>

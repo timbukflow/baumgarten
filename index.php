@@ -10,7 +10,7 @@
     
 <body>
     <div id="loader">
-            <img src="img/baumgarten-freudenau-goldach-icon.svg" alt="baumgarten freudenau goldach logo" height="52" width="76"/>
+        <img src="img/baumgarten-freudenau-goldach-baum.svg" alt="baumgarten freudenau goldach logo" width="30"/>
     </div>
     <?php include 'header.php'; ?>
     
