@@ -25,8 +25,8 @@
                 <li><a class="linkw" href="index">Baumgarten</a></li>
                 <li><a class="linkw" href="goldach">Goldach</a></li>
                 <li><a class="linkw" href="wohnangebot">Wohnangebot</a></li>
-                <li><a class="linkw" href="kontakt">Kontakt</a></li><br>
-                <li><a class="linkw" href="kontakt">Downloads</a></li><br>
+                <li><a class="linkw" href="kontakt">Kontakt</a></li>
+                <li><a class="linkw" href="kontakt">Downloads</a></li>
                 <li><p class="linkw impressum" data-toggle="#impressum">Impressum</p></li>
                 
             </ul>
