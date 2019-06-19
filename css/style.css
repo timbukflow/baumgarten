@@ -138,12 +138,24 @@ p, a{
 
 #loader img {
     position: absolute;
-    top: 0;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: 50%;
     margin: auto;
+    animation-delay: 2s;
+    animation:  loader 2s infinite; 
 }
+
+@-webkit-keyframes loader {
+    from    { bottom: 70%;}
+    to  { bottom: 0;}
+}
+
+@keyframes loader {
+    from { bottom: 70%;}
+    to { bottom: 0;}
+}
+
    
 /*---------------------------------- 
     header nav

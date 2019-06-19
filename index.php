@@ -12,7 +12,6 @@
     <div id="loader">
             <img src="img/baumgarten-freudenau-goldach-icon.svg" alt="baumgarten freudenau goldach logo" height="52" width="76"/>
     </div>
-    
     <?php include 'header.php'; ?>
     
     <section class="sectionhome">
