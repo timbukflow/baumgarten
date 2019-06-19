@@ -9,11 +9,12 @@
 </head>
     
 <body>
-    <?php include 'header.php'; ?>
-    <div class="fadecont">
-        <div class="fadeleft fade"></div>
-        <div class="faderight fade"></div>
+    <div id="loader">
+            <img src="img/baumgarten-freudenau-goldach-icon.svg" alt="baumgarten freudenau goldach logo" height="52" width="76"/>
     </div>
+    
+    <?php include 'header.php'; ?>
+    
     <section class="sectionhome">
         <article>
             <h1 class="stitle">Baumgarten</h1>
@@ -117,9 +118,12 @@
             </div>
         </article>
     </section>
+    <div id="optoutbanner99">
+    Wir verwenden Cookies für eine bessere Online-Erlebnis.
+    <a id="acceptga" onclick="accept()">Accept</a>
+    </div>
     
     <?php include 'footer.php'; ?>
-    
 
 </body>
 </html>
