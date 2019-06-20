@@ -140,7 +140,7 @@ p, a{
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: -250px;
     margin: auto;
     
     animation:  loader 1.5s; 
@@ -151,13 +151,13 @@ p, a{
 }
 
 @-webkit-keyframes loader {
-    from    { bottom: 0;}
-    to  { bottom: -250px;}
+    from    { bottom: -250px;}
+    to      { bottom: 0px;}
 }
 
 @keyframes loader {
-     from    { bottom: 0;}
-    to  { bottom: -250px;}
+    from    { bottom: -250px;}
+    to      { bottom: 0px;}
 }
 
    
@@ -624,6 +624,7 @@ g {
     right: 0;
     display: inline-block;
     background: #f7f7f5;
+    padding-bottom: 100px;
 }
 
 .ct .grundriss h1 {

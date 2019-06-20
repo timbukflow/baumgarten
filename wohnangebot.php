@@ -287,9 +287,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-baumgarten-aeg01.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-aeg01.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-aeg01">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="downloads/baumgarten-grundriss-haus-a-erdgeschoss.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> A.01</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.01</strong> / 4.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -305,9 +308,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-baumgarten-aeg02.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 2">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-aeg02.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-aeg02">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="downloads/baumgarten-grundriss-haus-a-erdgeschoss.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> A.02</strong> / 3.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.02</strong> / 3.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -323,9 +329,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-baumgarten-aeg03.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 3">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-aeg03.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-aeg03">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="downloads/baumgarten-grundriss-haus-a-erdgeschoss.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> A.03</strong> / 3.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.03</strong> / 3.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -341,9 +350,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-aog04.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-aog04">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.04</strong> / 4.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -359,9 +371,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-aog05.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-aog05">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.05</strong> / 3.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -377,9 +392,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-aog06.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-aog06">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.06</strong> / 3.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -395,9 +413,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-aog07.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-aog07">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.07</strong> / 4.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -413,9 +434,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-aog08.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-aog08">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.08</strong> / 3.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -431,9 +455,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-aog09.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-aog09">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.09</strong> / 3.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -449,9 +476,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae4w1.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-attika-adg10.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-attika-adg10">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.4.1.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.10</strong> / 3.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -467,9 +497,12 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae4w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-adg11.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-adg11">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.4.1.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> A.11</strong> / 4.5 Zimmerwohnung (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -805,6 +838,7 @@
             </tr>
         </table>
     </div>
-    <?php include 'footer.php'; ?>
+    
+        <?php include 'script.php'; ?>
 </body>
 </html>
