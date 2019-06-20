@@ -646,7 +646,7 @@ table {
 table, th, td, td a {
     font-family: 'PT Serif', serif;
     color: #718166;
-    font-size: 16px;
+    font-size: 15px;
     text-decoration: none;
     font-weight: 400;
     text-align: left;
@@ -657,6 +657,7 @@ table, th, td, td a {
 
 th {
     font-size: 12px;
+    line-height: 1.25;
 }
 
 th, td {
@@ -764,7 +765,8 @@ th:last-child, td:last-child {border-right: none;}
 
 .container h1, 
 .container th,
-.container td{
+.container td,
+.container td a{
     color: #fff;
 }
 

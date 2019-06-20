@@ -9,6 +9,9 @@
 </head>
 
 <body>
+    <div id="loader">
+        <img src="img/baumgarten-freudenau-goldach-baum.svg" alt="baumgarten freudenau goldach logo" width="30"/>
+    </div>
     <header class="cd-auto-hide-header" id="notscroll">
 	<div class="logo">
         <a href="index" target="_top">
@@ -263,17 +266,23 @@
         <table id="a">
             <tr>      
                 <th>Nr.</th>
-                <th>EB</th>
+                <th>Etage</th>
                 <th>ZWHG</th>
-                <th>BF</th>
-                <th>MZB</th>
+                <th>Wohnfläche</th>
+                <th>Aussenfläche</th>
+                <th>Mietzins<br>netto</th>
+                <th>Neben-<br>kosten</th>
+                <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
             </tr>   
             <tr class="ae1w1">
                 <td>A.01</td> 
                 <td>EG</td>
                 <td>4.5</td>
-                <td>133.00</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
                 <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
@@ -288,8 +297,11 @@
                 <td>A.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'070.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -303,8 +315,11 @@
                 <td>A.03</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>93.00</td>
-                <td>2'070.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -318,7 +333,10 @@
                 <td>A.04</td> 
                 <td>1.OG</td>
                 <td>4.5</td>
-                <td>129.00</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
                 <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
@@ -333,8 +351,11 @@
                 <td>A.05</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'070.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -344,12 +365,15 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae2w3">
+            <tr class="ae2w3 v">
                 <td>A.06</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'070.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td colspan="3">reserviert</td>
+                <!--<td>480.-</td>
+                <td>2'480.-</td>-->
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -363,7 +387,10 @@
                 <td>A.07</td> 
                 <td>2. OG</td>
                 <td>4.5</td>
-                <td>129.00</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
                 <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
@@ -378,8 +405,11 @@
                 <td>A.08</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'120.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -393,8 +423,11 @@
                 <td>A.09</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'180.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -408,8 +441,11 @@
                 <td>A.10</td> 
                 <td>Attika</td>
                 <td>3.5</td>
-                <td>95.00</td>
-                <td>2'170.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -423,8 +459,11 @@
                 <td>A.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
-                <td>131.00</td>
-                <td>2'780.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -766,7 +805,6 @@
             </tr>
         </table>
     </div>
-    
+    <?php include 'footer.php'; ?>
 </body>
-
 </html>
