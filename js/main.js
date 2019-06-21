@@ -8,7 +8,6 @@ $(document).ready(function () {
         $("html, body").stop(true).animate({scrollTop:$("#a").position().top - 100},800);
     });
     
-
     $(".ae1w1").hover(function() {
         $(".ae1w1").toggleClass("activ");
         $(".ae1").nextAll().toggleClass("up");});
@@ -43,7 +42,7 @@ $(document).ready(function () {
         $(".ae4w1").toggleClass("activ");});
     $(".ae4w2").hover(function() {
         $(".ae4w2").toggleClass("activ");});
-                        
+                   
     // building B //
 
     $(".b").hover(function() {
@@ -90,7 +89,7 @@ $(document).ready(function () {
         $(".be4w2").toggleClass("activ");});
     
     // building C //
-
+    
     $(".c").hover(function() {
         $("html, body").stop(true).animate({scrollTop:$("#c").position().top - 100}, 800);
     });
