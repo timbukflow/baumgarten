@@ -38,7 +38,7 @@
                         <span class="error"><?= $mitteilung_error ?></span>
                     </fieldset>
                     <fieldset>
-                        <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Senden</button>
+                        <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Nachricht senden</button>
                     </fieldset>
                     <div class="success"><?= $success; ?></div>
                 </form>
@@ -50,11 +50,33 @@
         <article>
             <div class="container">  
                 <h1>Downloads</h1>
-                <table id="a">
-            <tr>
-                <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus A</strong> Alle Grundrisse (PDF)</a></td> 
-            </tr>
-        </table>
+                <table>
+                    <tr>
+                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus A | Mietwohnungen</strong> Grundrisse (PDF)</a></td> 
+                    </tr>
+                    <tr>
+                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus B | Mietwohnungen</strong> Grundrisse (PDF)</a></td> 
+                    </tr>
+                    <tr>
+                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus C | Mietwohnungen</strong> Grundrisse (PDF)</a></td> 
+                    </tr>
+                    <tr>
+                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Mietpreisliste</strong> (PDF)</a></td> 
+                    </tr>
+                    <tr>
+                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Anmeldeformular</strong> (PDF)</a></td> 
+                    </tr>
+                    
+                </table>
+                <table class="downtable">
+                    <tr>
+                        <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus B | Eigentumswohnungen</strong> Grundrisse (PDF)</a></td> 
+                    </tr>
+                    <tr>
+                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Verkaufspreisliste</strong> (PDF)</a></td> 
+                    </tr>
+                    
+                </table>
             </div>
         </article>    
     </section>

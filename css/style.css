@@ -26,7 +26,7 @@ body {
     padding: 0px;
 }
     
-h1, h2, h3, h4, p, a, figcaption, input, textarea, button, span  {
+h1, h2, h3, h4, p, a, figcaption, input, textarea, button, span, .success  {
     color: #718166;
     font-weight: 400;
     font-style: normal;
@@ -741,6 +741,7 @@ th:last-child, td:last-child {border-right: none;}
     border: none;
     padding-top: 30px;
 }
+
 /*---------------------------------- 
     contact form
 -----------------------------------*/    
@@ -761,13 +762,16 @@ th:last-child, td:last-child {border-right: none;}
 }
 
 .error {
-    color: #fff;
+    color: #deb887;
+    font-size: 15px;
+    line-height: 2;
 }
 
 .success {
-    color: #A52340;
-    text-align: center;
-    font-size: 16px;
+    color: #deb887;
+    text-align: left;
+    font-size: 17px;
+    padding: 10px;
 }
 
 .container h1, 
@@ -781,16 +785,22 @@ th:last-child, td:last-child {border-right: none;}
     margin: 0;
     width: 100%;
 }
+
+.container .downtable {
+    margin-top: 20px;
+}
     
 #contact input, 
 #contact textarea {
-    border-radius: 4px;
-    width: 96%;
-    border: 1px solid #fff;
+    border-radius: 0;
+    box-sizing: border-box;
+    width: 100%;
+    border: none;
     background: #ffffff;
     box-shadow: none;
-    margin: 0 0 15px;
-    padding: 2%;
+    margin: 15px 0 5px;
+    padding: 10px 12px;
+    font-size: 17px;
 }
     
 #contact input:hover,
@@ -798,7 +808,7 @@ th:last-child, td:last-child {border-right: none;}
     -webkit-transition:border-color 0.3s ease-in-out;
     -moz-transition:border-color 0.3s ease-in-out;
     transition:border-color 0.3s ease-in-out;
-    border:1px solid #888;
+    border-left: none;
 }
     
 #contact textarea {
@@ -809,18 +819,16 @@ th:last-child, td:last-child {border-right: none;}
     
 #contact button {
     cursor: pointer;
-    width: 100%;
     border: 1px solid #fff;
     background: #718166;
     color: #fff;
-    margin: 0 0 5px;
+    margin: 15px 0 5px;
     padding: 10px;
-    font-size: 20px;
-    letter-spacing: 0.75px;
+    font-size: 17px;
 }
     
 #contact button:hover {
-    background: #fff;
+    background: rgba(255, 255, 255, 0.2);
     -webkit-transition:background 0.3s ease-in-out;
     -moz-transition:background 0.3s ease-in-out;
     transition:background-color 0.3s ease-in-out;
@@ -833,7 +841,8 @@ th:last-child, td:last-child {border-right: none;}
 #contact input:focus, 
 #contact textarea:focus {
     outline:0;
-    border:1px solid #718166;
+    border:none;
+    background-color: none;
 }
 ::-webkit-input-placeholder {
     color:#888;
@@ -847,6 +856,8 @@ th:last-child, td:last-child {border-right: none;}
 :-ms-input-placeholder {
     color:#888;
 }
+
+
 
 /*---------------------------------- 
     footer
