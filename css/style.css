@@ -429,7 +429,7 @@ p, a{
     background-position: left;}
 
 .gimg {
-    background-image: url("../img/baumgarten-freudenau-goldach-bodensee.jpg");background-position: center; width: 100%;
+    background-image: url("../img/baumgarten-freudenau-goldach-bodensee-lage-mietwohnung.jpg");background-position: center; width: 100%;
 }
 
 /*---------------------------------- 
@@ -513,6 +513,7 @@ p, a{
     max-width: 900px;
     display: block;
     margin: 20px auto 150px;
+    padding: 20px 30px 30px 30px;
 }
 .content50img {
     position: relative;
@@ -520,6 +521,10 @@ p, a{
     float: left;
     padding: 0%;
 }
+.content50img figure {
+    margin: 0;
+}
+
 .content75img {
     position: relative;
     width: 85%;
@@ -1016,7 +1021,8 @@ responsive ipad
     .content50 {width: calc(100% - 60px);padding: 20px 30px 50px 30px;}
     .building {padding: 40px 10% 0px; width: 80%;}
     .building svg {width: 80%;}
-    .content75img {width: 100%;}
+    .content75img, .content50img {width: 100%;}
+    
     figure {margin-bottom: 10px;}
     .content {margin-bottom: 50px;}
     
