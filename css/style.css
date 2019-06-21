@@ -27,11 +27,11 @@ body {
 }
     
 h1, h2, h3, h4, p, a, figcaption, input, textarea, button, span, .success  {
-    color: #718166;
+    color: #57634e;
     font-weight: 400;
     font-style: normal;
     font-family: 'PT Serif', serif;  
-    font-size: 18px;
+    font-size: 17px;
     line-height: 1.4;
     text-align: left;
     text-rendering: optimizeLegibility;
@@ -67,7 +67,7 @@ figcaption {
 }
 
 p, a{
-    font-size: 18px;
+    font-size: 17px;
     line-height: 1.75;
 }
 
@@ -483,7 +483,7 @@ p, a{
     background: #718166;
     width: calc(50% - 120px);
     top: 0;
-    padding: 20px 60px 80px 60px;
+    padding: 0px 60px 80px 60px;
 }
 .goldach {
     float: left;
@@ -850,16 +850,26 @@ th:last-child, td:last-child {border-right: none;}
     background-color: none;
 }
 ::-webkit-input-placeholder {
-    color:#888;
+    color:#718166;
 }
 :-moz-placeholder {
-    color:#888;
+    color:#718166;
 }
 ::-moz-placeholder {
-    color:#888;
+    color:#718166;
 }
 :-ms-input-placeholder {
-    color:#888;
+    color:#718166;
+}
+
+.vermietungsstart h3{
+    color: #fff;
+    padding: 0 10px;
+    font-size: 17px;
+    margin: 50px 100px;  
+}
+.vermietungsstart h3 a {
+    color: #fff;
 }
 
 
@@ -924,6 +934,25 @@ footer a{
     padding: 40px 40px;
     position: relative;
     float: left;
+}
+
+.disclamer {
+    font-size: 12px;
+    color: #fff;
+}
+
+#datenschutz,
+#konditionen {
+    display: none;
+    padding: 0px 40px 40px;
+    position: relative;
+    float: left;
+}
+
+#datenschutz p,
+#konditionen p{
+    font-size: 12px;
+    color: #fff;
 }
 
 

@@ -204,6 +204,7 @@ $(document).ready(function () {
     $('.impressum').click(function() {
         var totoggle = $(this).attr("data-toggle");
         $(totoggle).slideToggle(500);
+        $(totoggle).next().hide();
         
         if ($(totoggle).is(":visible")) {
             $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000);
