@@ -50,6 +50,10 @@ $(document).ready(function () {
         $("html, body").stop(true).animate({scrollTop:$("#b").position().top - 100},800);
     });
     
+    $(".beover").hover(function() {
+        $("html, body").stop(true).animate({scrollTop:$("#be").position().top - 100},800);
+    });
+    
     $(".be1w1").hover(function() {
         $(".be1w1").toggleClass("activ");
         $(".be1").nextAll().toggleClass("up");});

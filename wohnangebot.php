@@ -13,27 +13,25 @@
         <img src="img/baumgarten-freudenau-goldach-baum.svg" alt="baumgarten freudenau goldach logo" width="30"/>
     </div>
     <header class="cd-auto-hide-header" id="notscroll">
-	<div class="logo">
-        <a href="index" target="_top">
-            <img src="img/baumgarten-freudenau-goldach-icon.svg" alt="baumgarten freudenau goldach logo" height="52" width="76"/>
+	   <div class="logo">
+            <a href="index" target="_top">
+                <img src="img/baumgarten-freudenau-goldach-icon.svg" alt="baumgarten freudenau goldach logo" height="52" width="76"/>
             </a>
         </div>
-
-	<nav class="cd-primary-nav">
-		<a href="#cd-navigation" class="nav-trigger">
-			<span>
-				<em aria-hidden="true"></em>
-			</span>
-		</a>
-
-		<ul id="cd-navigation">
-            <li><a href="index">Baumgarten</a></li>
-			<li><a href="goldach">Goldach</a></li>
-			<li><a href="wohnangebot">Wohnangebot</a></li>
-			<li><a href="kontakt">Kontakt</a></li>
-		</ul>
-	</nav>
-</header>
+    	<nav class="cd-primary-nav">
+    		<a href="#cd-navigation" class="nav-trigger">
+    			<span>
+    				<em aria-hidden="true"></em>
+    			</span>
+    		</a>
+    		<ul id="cd-navigation">
+                <li><a href="index">Baumgarten</a></li>
+    			<li><a href="goldach">Goldach</a></li>
+    			<li><a href="wohnangebot">Wohnangebot</a></li>
+    			<li><a href="kontakt">Kontakt</a></li>
+    		</ul>
+    	</nav>
+    </header>
     
     <div class="cb">
         <svg version="1.1" id="bulding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -166,8 +164,8 @@
                 </g>
             </g>
             
-            <g class="b"><!--building b-->
-                <g class="be1">
+            <g><!--building b-->
+                <g class="be1 b">
                     <polygon class="be1w1 st1" points="136.6,255.3 136.6,274.9 170.6,294.5 170.6,274.9 204.6,255.3 170.6,235.7"/>
                     <polygon class="be1w3 st1" points="204.6,216 170.6,235.7 238.6,274.9 238.6,294.5 272.6,274.9 272.6,255.3"/>
                     <polygon class="be1w2 st1" points="170.6,294.5 170.6,274.9 204.6,255.3 238.6,274.9 238.6,294.5 204.6,314.2"/>
@@ -176,7 +174,7 @@
                         <line class="st0" x1="204.6" y1="314.2" x2="204.6" y2="294.5"/>
                     </g>
                 </g>
-                <g class="be2">
+                <g class="be2 b">
                     <polygon class="be2w3 st1" points="136.6,235.6 136.6,255.3 170.6,274.9 170.6,255.3 204.6,235.7 170.6,216"/>
                     <polygon class="be2w1 st1" points="204.6,196.4 170.6,216 238.6,255.3 238.6,274.9 272.6,255.3 272.6,235.6"/>
                     <polygon class="be2w2 st1" points="170.6,274.9 170.6,255.3 204.6,235.7 238.6,255.3 238.6,274.9 204.6,294.5"/>
@@ -185,7 +183,7 @@
                         <line class="st0" x1="204.6" y1="294.5" x2="204.6" y2="274.9"/>
                     </g>
                 </g>
-                <g class="be3">
+                <g class="be3 beover">
                     <polygon class="be3w3 st1" points="136.6,216 136.6,235.6 170.6,255.3 170.6,235.6 204.6,216 170.6,196.4"/>
                     <polygon class="be3w1 st1" points="204.6,176.7 170.6,196.4 238.6,235.6 238.6,255.3 272.6,235.6 272.6,216"/>
                     <polygon class="be3w2 st1" points="170.6,255.3 170.6,235.6 204.6,216 238.6,235.6 238.6,255.3 204.6,274.9"/>
@@ -194,7 +192,7 @@
                         <line class="st0" x1="204.6" y1="274.9" x2="204.6" y2="255.3"/>
                     </g>
                 </g>
-                <g class="be4">
+                <g class="be4 b">
                     <polygon class="be4w2 st1" points="170.6,235.7 187.4,225.7 187.4,206.1 221.4,186.7 272.6,216 204.6,255.3"/>
                     <polygon class="be4w1 st1" points="136.6,216 153.5,206.3 153.5,186.5 187.4,166.9 221.4,186.7 187.4,206.1 187.4,225.7 170.6,235.7"/>
                     <g>
@@ -253,7 +251,7 @@
         </svg>
         
         <div class="reservation">
-            <h3><strong>Reservieren</strong> Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Oktober 2020 bezugsbereit.<br><a class="link" href="download/.pdf" download="Baumgarten Anmeldeformular">Anmeldeformular</a></h3>
+            <h3><strong>Reservieren</strong> Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Spätherbst 2020 bezugsbereit.<br><a class="link" href="download/.pdf" download="Baumgarten Anmeldeformular">Anmeldeformular</a></h3>
         </div>
     </div>
     
@@ -262,7 +260,7 @@
         <div class="grundriss">
             <h1>Baumgarten<br><strong>Wohnangebot</strong></h1>
         </div>
-        <h4>Haus A</h4>
+        <h4><strong>Haus A</strong> | Mietwohnungen</h4>
         <table id="a">
             <tr>      
                 <th>Nr.</th>
@@ -291,7 +289,7 @@
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.01</strong> / 4.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / Erdgeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -308,11 +306,11 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-aeg02.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-aeg02">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-aeg02.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-aeg02">
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.02</strong> / 3.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / Erdgeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -329,11 +327,11 @@
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-aeg03.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-aeg03">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-aeg03.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-aeg03">
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.03</strong> / 3.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / Erdgeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -354,7 +352,7 @@
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.04</strong> / 4.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / 1. Obergeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -375,7 +373,7 @@
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.05</strong> / 3.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / 1. Obergeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -396,7 +394,7 @@
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.06</strong> / 3.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / 1. Obergeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -417,7 +415,7 @@
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.07</strong> / 4.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / 2. Obergeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -438,7 +436,7 @@
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.08</strong> / 3.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / 2. Obergeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -459,7 +457,7 @@
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.09</strong> / 3.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / 2. Obergeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -480,7 +478,7 @@
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.10</strong> / 3.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / Dachgeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -501,35 +499,47 @@
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> A.11</strong> / 4.5 Zimmerwohnung (PDF)
+                            <strong> Haus A</strong> / Dachgeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
             </tr>
             <tr>
-                <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
+                <td class="downloadplan" colspan="9"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
         </table>
         
-        <h4>Haus B</h4>
+        <h4><strong>Haus B</strong> | Mietwohnungen</h4>
         <table id="b">   
             <tr>      
                 <th>Nr.</th>
-                <th>EB</th>
+                <th>Etage</th>
                 <th>ZWHG</th>
-                <th>BF</th>
-                <th>MZB</th>
+                <th>Wohnfläche</th>
+                <th>Aussenfläche</th>
+                <th>Mietzins<br>netto</th>
+                <th>Neben-<br>kosten</th>
+                <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
             </tr>   
             <tr class="be1w1">
                 <td>B.01</td> 
                 <td>EG</td>
                 <td>2.5</td>
-                <td>84.00</td>
-                <td>1'750.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d.svg" alt="Smiley face">
+                        <img src="img/grundriss-baumgarten-mietwohnung-2-5-zimmerwohnung-erdgeschoss-beg01.png" alt="grundriss-baumgarten-mietwohnung-2-5-zimmerwohnung-erdgeschoss-beg01">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / Erdgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -537,11 +547,20 @@
                 <td>B.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'070.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-beg02.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-beg02">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / Erdgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -549,23 +568,41 @@
                 <td>B.03</td> 
                 <td>EG</td>
                 <td>4.5</td>
-                <td>118.00</td>
-                <td>2'330.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-beg03.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-beg03">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / Erdgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
             <tr class="be2w1">
                 <td>B.04</td> 
                 <td>1. OG</td>
-                <td>3.5</td>
-                <td>105.00</td>
-                <td>2'120.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>4.5</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-bog04.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-bog04">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / 1. Obergeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -573,59 +610,41 @@
                 <td>B.05</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
-                <td>105.00</td>
-                <td>2'120.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-bog05.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-bog05">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / 1. Obergeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
             <tr class="be2w3">
                 <td>B.06</td> 
                 <td>1. OG</td>
-                <td>4.5</td>
-                <td>118.00</td>
-                <td>2'380.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
-                    <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
-                    </div>
-                </td>
-            </tr>
-            <tr class="be3w1">
-                <td>B.07</td> 
-                <td>2. OG</td>
                 <td>3.5</td>
-                <td>105.00</td>
-                <td>2'170.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
-                    </div>
-                </td>
-            </tr>
-            <tr class="be3w2">
-                <td>B.08</td> 
-                <td>2. OG</td>
-                <td>3.5</td>
-                <td>105.00</td>
-                <td>2'170.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
-                    <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
-                    </div>
-                </td>
-            </tr>
-            <tr class="be3w3">
-                <td>B.09</td> 
-                <td>2. OG</td>
-                <td>4.5</td>
-                <td>118.00</td>
-                <td>2'430.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
-                    <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-bog06.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-bog06">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / 1. Obergeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -633,11 +652,20 @@
                 <td>B.10</td> 
                 <td>Attika</td>
                 <td>4.5</td>
-                <td>117.00</td>
-                <td>2'580.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-bdg10.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-bdg10">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / Dachgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -645,41 +673,132 @@
                 <td>B.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
-                <td>117.00</td>
-                <td>2'580.-</td>
-                <td class="planb"><img src="img/plan.svg" alt="plan icon" width="21" height="18">
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/bulding-3d%202.svg" alt="Smiley face">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-bdg11.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-bdg11">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / Dachgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
             <tr>
-                <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B</strong> Alle Grundrisse (PDF)</a></td> 
+                <td class="downloadplan" colspan="9"><a href="download/.pdf" download="Baumgarten Haus B Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
         </table>
         
-            <h4>Haus C</h4>
+        <h4><strong>Haus B</strong> | Eigentumswohnungen</h4>
+        <table id="be">   
+            <tr>      
+                <th>Nr.</th>
+                <th>Etage</th>
+                <th>ZWHG</th>
+                <th>Wohnfläche</th>
+                <th>Aussenfläche</th>
+                <th>Verkaufspreis</th>
+                <th>Plan</th>
+            </tr>   
+            <tr class="be3w1">
+                <td>B.07</td> 
+                <td>2. OG</td>
+                <td>4.5</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-bog07.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-bog07">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / 2. Obergeschoss Grundriss (PDF)
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr class="be3w2">
+                <td>B.08</td> 
+                <td>2. OG</td>
+                <td>3.5</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-bog08.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-bog08">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / 2. Obergeschoss Grundriss (PDF)
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr class="be3w3">
+                <td>B.09</td> 
+                <td>2. OG</td>
+                <td>3.5</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-bog09.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-bog09">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / 2. Obergeschoss Grundriss (PDF)
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus B Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Eigentumswohnungen</strong> Alle Grundrisse (PDF)</a></td> 
+            </tr>
+        </table>
+        
+            <h4><strong>Haus C</strong> | Mietwohnungen</h4>
         <table id="c">
             <tr>      
                 <th>Nr.</th>
-                <th>EB</th>
+                <th>Etage</th>
                 <th>ZWHG</th>
-                <th>BF</th>
-                <th>MZB</th>
+                <th>Wohnfläche</th>
+                <th>Aussenfläche</th>
+                <th>Mietzins<br>netto</th>
+                <th>Neben-<br>kosten</th>
+                <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
             </tr>   
             <tr class="ce1w1">
                 <td>C.01</td> 
                 <td>EG</td>
                 <td>4.5</td>
-                <td>133.00</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
                 <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w1.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-ceg01.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-erdgeschoss-ceg01">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.1.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / Erdgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -687,14 +806,20 @@
                 <td>C.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'070.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-ceg02.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-ceg02">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / Erdgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -702,14 +827,20 @@
                 <td>C.03</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>93.00</td>
-                <td>2'070.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w3.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-ceg03.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-ceg01">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / Erdgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -717,14 +848,20 @@
                 <td>C.04</td> 
                 <td>1.OG</td>
                 <td>4.5</td>
-                <td>129.00</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
                 <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-cog04.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-cog04">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / 1. Obergeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -732,14 +869,20 @@
                 <td>C.05</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'070.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-cog05.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-cog05">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / 1. Obergeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -747,14 +890,20 @@
                 <td>C.06</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'070.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-cog06.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-cog06">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / 1. Obergeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -762,14 +911,20 @@
                 <td>C.07</td> 
                 <td>2. OG</td>
                 <td>4.5</td>
-                <td>129.00</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
                 <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-cog07.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-obergeschoss-cog07">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / 2. Obergeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -777,14 +932,20 @@
                 <td>C.08</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'120.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-cog08.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-cog08">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / 2. Obergeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -792,14 +953,20 @@
                 <td>C.09</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
-                <td>101.00</td>
-                <td>2'180.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae1w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-cog09.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-obergeschoss-cog09">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.1.2.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / 2. Obergeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -807,14 +974,20 @@
                 <td>C.10</td> 
                 <td>Attika</td>
                 <td>3.5</td>
-                <td>95.00</td>
-                <td>2'170.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae4w1.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-attika-cdg10.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-attika-cdg10">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.4.1.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / 2. Dachgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
@@ -822,19 +995,28 @@
                 <td>C.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
-                <td>131.00</td>
-                <td>2'780.-</td>
+                <td>133.00 m²</td>
+                <td>20.00 m²</td>
+                <td>2'000.-</td>
+                <td>480.-</td>
+                <td>2'480.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
-                        <img src="img/plan-ae4w2.png" alt="baumgarten grundriss Haus A / Ebene 1 / Wohnung 1">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-cdg11.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-cdg11">
                         <div class="closer">&#10005;</div>
-                        <a class="link" href="download/.pdf" target="_blank"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"><strong> Grundrissplan / A.4.1.</strong> / 4.5 ZWHG (PDF)</a>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / 2. Dachgeschoss Grundriss (PDF)
+                        </a>
                     </div>
                 </td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
+            </tr>
+            <tr>
+                <td colspan="9" class="data">Aktualisiert per 18.06.2019</td> 
             </tr>
         </table>
     </div>
