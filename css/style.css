@@ -421,11 +421,11 @@ p, a{
     z-index: 1;
 }
 .simgl {
-    background-image: url("../img/baumgarten-freudenau-goldach-attika-wohnung-wohnen.jpg");
+    background-image: url("../img/baumgarten-freudenau-goldach-mietwohnung-4-5-zimmer-attika-dachgeschoss-wohnung.jpg");
     background-position: left;
 }
 .simgr {
-    background-image: url("../img/baumgarten-freudenau-goldach-obergeschoss-wohnung.jpg");
+    background-image: url("../img/baumgarten-freudenau-goldach-mietwohnung-eigentumswohnung-obergeschoss-haus-b-4-5-zimmerwohnung.jpg");
     background-position: left;}
 
 .gimg {
@@ -514,6 +514,7 @@ p, a{
     display: block;
     margin: 20px auto 150px;
     padding: 20px 30px 30px 30px;
+    float: left;
 }
 .content50img {
     position: relative;

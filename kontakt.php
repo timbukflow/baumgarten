@@ -9,6 +9,9 @@
 </head>
     
 <body class="contact">
+    <div id="loader">
+        <img src="img/baumgarten-freudenau-goldach-baum.svg" alt="baumgarten freudenau goldach logo" width="30"/>
+    </div>
     <?php include 'header.php'; ?>
     
     <section class="sectioncontact">
