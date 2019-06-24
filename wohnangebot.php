@@ -1016,10 +1016,18 @@
                 <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
             <tr>
-                <td colspan="9" class="data">Aktualisiert per 18.06.2019</td> 
+                <td colspan="9" class="data">Aktualisiert per 18.06.2019 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
             </tr>
         </table>
+        <div id="konditionen">
+            <p class="konditionen">
+                Die vorliegende Webseite stellt das Bauvorhaben in der Projektphase dar. Aus sämtlichen Plänen, Zeichnungen, Darstellungen, Möblierungen, Visualisierungen oder Beschreibungen können keinerlei Ansprüche abgeleitet werden. Insbesondere kommt den Plänen keine gesetzliche Wirkung von Grundbuchplänen zu.
+                
+                Ausführungsbedingte Änderungen, Anpassungen und/oder Massabweichungen können vorkommen und bleiben jederzeit ausdrücklich vorbehalten. Sämtliche Massangaben sind Circa-Masse.
+            </p> 
+        </div>
     </div>
+        
     
         <?php include 'script.php'; ?>
 </body>

@@ -160,6 +160,8 @@ p, a{
     to      { bottom: 0px;}
 }
 
+
+
    
 /*---------------------------------- 
     header nav
@@ -514,7 +516,6 @@ p, a{
     display: block;
     margin: 20px auto 150px;
     padding: 20px 30px 30px 30px;
-    float: left;
 }
 .content50img {
     position: relative;
@@ -630,7 +631,6 @@ g {
     right: 0;
     display: inline-block;
     background: #f7f7f5;
-    padding-bottom: 100px;
 }
 
 .ct .grundriss h1 {
@@ -743,7 +743,7 @@ th:last-child, td:last-child {border-right: none;}
 }
 .data {
     text-align: right;
-    font-size: 12px;
+    font-size: 14px;
     border: none;
     padding-top: 30px;
 }
@@ -758,6 +758,8 @@ th:last-child, td:last-child {border-right: none;}
 .sectioncontact, .sectiondload {
     width: 50%;
     float: left;
+    margin-bottom: 60px;
+
 }
 
 .container {
@@ -938,8 +940,13 @@ footer a{
 }
 
 .disclamer {
-    font-size: 12px;
+    font-size: 14px;
     color: #fff;
+}
+
+.konditionen {
+    font-size: 14px;
+    color: #718166;
 }
 
 #datenschutz,
@@ -950,9 +957,8 @@ footer a{
     float: left;
 }
 
-#datenschutz p,
-#konditionen p{
-    font-size: 12px;
+#datenschutz p{
+    font-size: 14px;
     color: #fff;
 }
 
@@ -1031,32 +1037,26 @@ responsive ipad
     .cd-auto-hide-header {height: 72px; width: 100%; background: #fff;}
     .cd-auto-hide-header .logo {padding: 10px 20px;}
     .cd-auto-hide-header .logo img {width: 50px;}
-    .cd-primary-nav {float: right; padding-right: 10px;}
+    .cd-primary-nav {float: right; padding-right: 10px; padding-left: 0px;}
     .cd-primary-nav > ul {top:72px;}
-    .respbaumgarten {display: inline-block;
-}
-    
-    
-    
+    .respbaumgarten {display: inline-block;}
     .stitle {display: none;}
     .simgl {display: none;}
     .simgr {width: 100%;}
-    .einleitung {width: calc(100% - 60px); padding: 30px 30px 0px 30px; top: -90px;}
+    .einleitung {width: calc(100% - 40px); padding: 20px 20px 0px 20px; top: -110px;}
     .einleitung h1 {margin-bottom: 40px;}
-    h1 {font-size: 21px;margin-top: 20px; margin-bottom: 30px;}
+    h1 {font-size: 24px;margin-top: 20px; margin-bottom: 30px;}
     h2 {font-size: 16px; margin-top: 10px;}
-    .einleitunglauftext{width: calc(100% - 60px); padding: 0px 30px 50px 30px;}
-    p, a {font-size: 16px;}
+    .einleitunglauftext{width: calc(100% - 40px); padding: 0px 20px 50px 20px;}
+    p, a {font-size: 16px; line-height: 1.5;}
     .logocontainer {width: 100%; margin-top: 70px; margin-bottom: 70px;}
+    .logocontainer img {width: 180px;}
     .content50 {width: calc(100% - 60px);padding: 20px 30px 50px 30px;}
-    .building {padding: 40px 10% 0px; width: 80%;}
-    .building svg {width: 80%;}
+    .building {padding: 0px; width: 80%; margin: 10%;}
+    .building svg {width: 100%;}
     .content75img, .content50img {width: 100%;}
-    
     figure {margin-bottom: 10px;}
     .content {margin-bottom: 50px;}
-    
-    
     .cb {width: 100%; position: fixed; height: 320px; z-index: 10; background: #fff;}
     #bulding {top:auto;bottom: auto; margin: 70px 10% 0;}
     .reservation {display: none;}
@@ -1065,6 +1065,4 @@ responsive ipad
     table {margin: 3% 1%; width: 98%;}
     th, td {font-size: 14px; padding: 6px;}
     th {font-size: 10px;}
-        
-    
 }
