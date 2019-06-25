@@ -1059,10 +1059,10 @@ responsive ipad
     figure {margin-bottom: 10px;}
     figcaption {padding: 20px 20px; font-size: 12px;}
     .content {margin-bottom: 10px; padding: 20px 20px 30px 20px;}
-    .cb {width: 100%; position: fixed; height: 300px; z-index: 10; background: #fff; margin: 20px 0px;}
-    #bulding {top:auto;bottom: auto; margin: 70px 15% 0;}
+    .cb {width: 100%; position: fixed; height: 50vh; z-index: 10; background: #fff; margin: 0px;}
+    #bulding {top: 0; left: 0; right: 0; bottom: 0; margin: 16vh auto 0; height: 30vh;}
     .reservation {display: none;}
-    .ct {width: 100%; top: 320px;}
+    .ct {width: 100%; top: 50vh;}
     #notscroll {transform: translateZ(0);}
     table {margin: 3% 1%; width: 98%;}
     th, td {font-size: 12px; padding: 6px;}
