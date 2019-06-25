@@ -742,7 +742,7 @@ th:last-child, td:last-child {border-right: none;}
     color: #718166;
 }
 .data {
-    text-align: right;
+    text-align: left;
     font-size: 14px;
     border: none;
     padding-top: 30px;
@@ -919,6 +919,7 @@ footer {
 .footernav ul {
     margin: 0;
     display: inline-block;
+    padding: 0;
 }
 
 footer a{
@@ -1048,21 +1049,31 @@ responsive ipad
     h1 {font-size: 24px;margin-top: 20px; margin-bottom: 30px;}
     h2 {font-size: 16px; margin-top: 10px;}
     .einleitunglauftext{width: calc(100% - 40px); padding: 0px 20px 50px 20px;}
-    p, a {font-size: 16px; line-height: 1.5;}
+    p, a {font-size: 15px; line-height: 1.5;}
     .logocontainer {width: 100%; margin-top: 70px; margin-bottom: 70px;}
     .logocontainer img {width: 180px;}
-    .content50 {width: calc(100% - 60px);padding: 20px 30px 50px 30px;}
+    .content50 {width: calc(100% - 40px);padding: 20px 20px 50px 20px;}
     .building {padding: 0px; width: 80%; margin: 10%;}
     .building svg {width: 100%;}
-    .content75img, .content50img {width: 100%;}
+    .content75img, .content50img {width: 100%; float: none;}
     figure {margin-bottom: 10px;}
-    .content {margin-bottom: 50px;}
-    .cb {width: 100%; position: fixed; height: 320px; z-index: 10; background: #fff;}
-    #bulding {top:auto;bottom: auto; margin: 70px 10% 0;}
+    figcaption {padding: 20px 20px; font-size: 12px;}
+    .content {margin-bottom: 10px; padding: 20px 20px 30px 20px;}
+    .cb {width: 100%; position: fixed; height: 300px; z-index: 10; background: #fff; margin: 20px 0px;}
+    #bulding {top:auto;bottom: auto; margin: 70px 15% 0;}
     .reservation {display: none;}
-    .ct {width: 100%; top: 360px;}
+    .ct {width: 100%; top: 320px;}
     #notscroll {transform: translateZ(0);}
     table {margin: 3% 1%; width: 98%;}
-    th, td {font-size: 14px; padding: 6px;}
+    th, td {font-size: 12px; padding: 6px;}
     th {font-size: 10px;}
+    .footerkontakt p {margin: 20px; margin-bottom: 10px;}
+    .footernav {float: left; margin: 20px;}
+    #impressum, #datenschutz {padding: 20px;}
+    .resptable {background: #f7f7f5;}
+    .ct h4, .ct .grundriss h1 {margin: 20px;padding-left: 0px;font-size: 20px;}
+    .sectioncontact, .sectiondload {width: 100%; margin-bottom: 0}
+    .container {padding: 80px 20px 0px}
+    .respcont {padding-top: 20px;}
+    .vermietungsstart h3 {margin: 50px 20px; padding:0;}
 }

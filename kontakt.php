@@ -51,7 +51,7 @@
     
     <section class="sectiondload">
         <article>
-            <div class="container">  
+            <div class="container respcont">  
                 <h1>Downloads</h1>
                 <table>
                     <tr>
