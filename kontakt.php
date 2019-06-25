@@ -67,7 +67,7 @@
                         <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Mietpreisliste</strong> (PDF)</a></td> 
                     </tr>
                     <tr>
-                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Anmeldeformular</strong> (PDF)</a></td> 
+                        <td class="downloadplan"><a href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Baumgarten Anmeldeformular"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Anmeldeformular</strong> (PDF)</a></td> 
                     </tr>
                     
                 </table>
