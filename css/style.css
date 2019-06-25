@@ -1003,37 +1003,38 @@ responsive ipad
 
 
 @media only screen and (max-width: 1400px) {
-   
+    th, td {font-size: 12px; padding: 6px;}
+    th {font-size: 10px;}
    
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1270px) {
+  .fadeInUp {top: -170px;}
+}
+    
+@media only screen and (max-width: 1130px) {
+   .ct h4, .ct .grundriss h1 {margin: 20px;padding-left: 0px;font-size: 20px;}
+    table {margin: 20px 20px; width: calc(100% - 40px)}
+    .cb {width: 100%; position: fixed; height: 50vh; z-index: 10; background: #fff; margin: 0px;}
+    #bulding {top: 0; left: 0; right: 0; bottom: 0; margin: 16vh auto 0; height: 30vh;}
+    .reservation {display: none;}
+    .ct {width: 100%; top: 50vh;}
+    .stitle {font-size: 110px;}
+    h1 {font-size: 28px;}
+    h2 {font-size: 16px; margin-top: 10px;}
+    p, a {font-size: 16px;}
+    .content75img, .content50img {width: 100%; float: left;}
    
   
 }
 
 @media only screen and (max-width: 770px) {
     #navburger {display: block;}
-    .topnav a {
-    display: none;
-    float: none;
-    }
-    
+    .topnav a {display: none; float: none;}   
 }
 
-@media only screen and (max-width: 690px) {
- 
-}
 
-@media only screen and (max-width: 570px) {
-  
-}
-
-@media only screen and (max-width: 415px) {
-  
-}
-
-@media only screen and (max-width: 667px) {
+@media only screen and (max-width: 768px) {
     
     .cd-auto-hide-header {height: 72px; width: 100%; background: #fff;}
     .cd-auto-hide-header .logo {padding: 10px 20px;}
@@ -1044,12 +1045,12 @@ responsive ipad
     .stitle {display: none;}
     .simgl {display: none;}
     .simgr {width: 100%;}
-    .einleitung {width: calc(100% - 40px); padding: 20px 20px 0px 20px; top: -110px;}
+    .einleitung {width: calc(100% - 40px); padding: 20px 20px 20px 20px; top: -110px;}
     .einleitung h1 {margin-bottom: 40px;}
     h1 {font-size: 24px;margin-top: 20px; margin-bottom: 30px;}
     h2 {font-size: 16px; margin-top: 10px;}
     .einleitunglauftext{width: calc(100% - 40px); padding: 0px 20px 50px 20px;}
-    p, a {font-size: 15px; line-height: 1.5;}
+    p, a, li span {font-size: 15px; line-height: 1.5;}
     .logocontainer {width: 100%; margin-top: 70px; margin-bottom: 70px;}
     .logocontainer img {width: 180px;}
     .content50 {width: calc(100% - 40px);padding: 20px 20px 50px 20px;}
@@ -1059,10 +1060,6 @@ responsive ipad
     figure {margin-bottom: 10px;}
     figcaption {padding: 20px 20px; font-size: 12px;}
     .content {margin-bottom: 10px; padding: 20px 20px 30px 20px;}
-    .cb {width: 100%; position: fixed; height: 50vh; z-index: 10; background: #fff; margin: 0px;}
-    #bulding {top: 0; left: 0; right: 0; bottom: 0; margin: 16vh auto 0; height: 30vh;}
-    .reservation {display: none;}
-    .ct {width: 100%; top: 50vh;}
     #notscroll {transform: translateZ(0);}
     table {margin: 3% 1%; width: 98%;}
     th, td {font-size: 12px; padding: 6px;}
@@ -1076,4 +1073,5 @@ responsive ipad
     .container {padding: 80px 20px 0px}
     .respcont {padding-top: 20px;}
     .vermietungsstart h3 {margin: 50px 20px; padding:0;}
-}
+    .plan a {font-size: 12px;margin: 20px;}
+    .footerkontakt {float: none;}
