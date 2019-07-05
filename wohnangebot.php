@@ -254,7 +254,7 @@
         </svg>
         
         <div class="reservation">
-            <h3><strong>Reservieren</strong> Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Spätherbst 2020 bezugsbereit.<br><a class="link" href="download/.pdf" download="Baumgarten Anmeldeformular">Anmeldeformular</a></h3>
+            <h3><strong>Reservieren</strong> Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Spätherbst 2020 bezugsbereit.<br><a class="link" href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Baumgarten Anmeldeformular">Anmeldeformular</a></h3>
         </div>
     </div>
     
@@ -508,6 +508,23 @@
                 </td>
             </tr>
             <tr>
+                <td>A.00</td> 
+                <td colspan="5">Tiefgaragenparkplatz</td>
+                <td>pro</td>
+                <td>120.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/grundriss-baumgarten-mietwohnung-untergeschoss.png" alt="grundriss-baumgarten-mietwohnung-untergeschoss">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus A</strong> / Untergeschoss Grundriss (PDF)
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
                 <td class="downloadplan" colspan="9"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
         </table>
@@ -694,6 +711,23 @@
                 </td>
             </tr>
             <tr>
+                <td>B.00</td> 
+                <td colspan="5">Tiefgaragenparkplatz</td>
+                <td>pro</td>
+                <td>120.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/grundriss-baumgarten-mietwohnung-untergeschoss.png" alt="grundriss-baumgarten-mietwohnung-untergeschoss">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / Untergeschoss Grundriss (PDF)
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
                 <td class="downloadplan" colspan="9"><a href="download/.pdf" download="Baumgarten Haus B Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
         </table>
@@ -762,6 +796,23 @@
                         <a class="link" href="downloads/....pdf" target="_blank">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
                             <strong> Haus B</strong> / 2. Obergeschoss Grundriss (PDF)
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>B.00</td> 
+                <td colspan="5">Tiefgaragenparkplatz</td>
+                <td>pro</td>
+                <td>120.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/grundriss-baumgarten-mietwohnung-untergeschoss.png" alt="grundriss-baumgarten-mietwohnung-untergeschoss">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / Untergeschoss Grundriss (PDF)
                         </a>
                     </div>
                 </td>
@@ -1015,8 +1066,28 @@
                     </div>
                 </td>
             </tr>
+             <tr>
+                <td>C.00</td> 
+                <td colspan="5">Tiefgaragenparkplatz</td>
+                <td>pro</td>
+                <td>120.-</td>
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/grundriss-baumgarten-mietwohnung-untergeschoss.png" alt="grundriss-baumgarten-mietwohnung-untergeschoss">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/....pdf" target="_blank">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus C</strong> / Untergeschoss Grundriss (PDF)
+                        </a>
+                    </div>
+                </td>
+            </tr>
             <tr>
                 <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A</strong> Alle Grundrisse (PDF)</a></td> 
+            </tr>
+            <tr>
+                <td class="downloadplan" colspan="9"><a href="download/.pdf" download="Baumgarten Mietpreisliste (PDF)"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Baumgarten</strong> Mietpreisliste (PDF)</a></td> 
             </tr>
             <tr>
                 <td colspan="9" class="data">Aktualisiert per 18.06.2019 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
