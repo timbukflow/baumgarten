@@ -666,7 +666,6 @@ table, th, td, td a {
 th {
     font-size: 12px;
     line-height: 1.25;
-    white-space:nowrap; 
 }
 
 th, td {
@@ -674,6 +673,7 @@ th, td {
     text-align: left;
     border-bottom: 1px solid #BEC7BE;   
     border-right: 1px dashed #BEC7BE;
+       white-space: nowrap; 
 }
 
 
