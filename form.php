@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $message_body .= "$key: $value\n";
         }
         
-        $to = "ivo@schwizerschlatter.com";
+        $to = "angela.signer@sur.ag";
         $subject = "Baumgarten Anfrage";
         if (mail($to, $subject, $message_body)){
             $success = "Ihre Anfrage wurde erfolgreich gesendet.";

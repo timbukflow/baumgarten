@@ -15,9 +15,9 @@
                 <strong>Ansprechperson</strong><br>
                 Sproll &amp; Ramseyer AG<br>
                 Frau Angela Signer<br>
-                T 071 229 00 29<br>
-                angela.signer@sur.ag<br>
-                <a class="linkw" href="download/.pdf" download="Anmeldeformular">Anmeldeformular</a>
+                <a href="tel:0712290029">T 071 229 00 29</a><br>
+                <a href="mailto:angela.signer@sur.ag" target="_top">angela.signer@sur.ag</a><br>
+                <a class="linkw" href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Anmeldeformular">Anmeldeformular</a>
             </p>
         </div>
         <nav class="footernav">   

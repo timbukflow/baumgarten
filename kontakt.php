@@ -55,30 +55,23 @@
                 <h1>Downloads</h1>
                 <table>
                     <tr>
-                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus A | Mietwohnungen</strong> Grundrisse (PDF)</a></td> 
+                        <td class="downloadplan"><a href="downloads/baumgarten-grundrisse-haus-a-mietwohnung.pdf" download="Baumgarten-Haus-A-Grundrisspläne-Mietwohung"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus A | Mietwohnungen</strong> Grundrisse (PDF)</a></td> 
                     </tr>
                     <tr>
-                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus B | Mietwohnungen</strong> Grundrisse (PDF)</a></td> 
+                        <td class="downloadplan"><a href="downloads/baumgarten-grundrisse-haus-b-mietwohung.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Mietwohung"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus B | Mietwohnungen</strong> Grundrisse (PDF)</a></td> 
                     </tr>
                     <tr>
-                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus C | Mietwohnungen</strong> Grundrisse (PDF)</a></td> 
+                        <td class="downloadplan"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne-Mietwohung"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus C | Mietwohnungen</strong> Grundrisse (PDF)</a></td> 
                     </tr>
                     <tr>
-                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Mietpreisliste</strong> (PDF)</a></td> 
-                    </tr>
-                    <tr>
-                        <td class="downloadplan"><a href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Baumgarten Anmeldeformular"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Anmeldeformular</strong> (PDF)</a></td> 
+                        <td class="downloadplan"><a href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Baumgarten-Anmeldeformular"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Anmeldeformular</strong> (PDF)</a></td> 
                     </tr>
                     
                 </table>
                 <table class="downtable">
                     <tr>
-                        <td class="downloadplan" colspan="7"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus B | Eigentumswohnungen</strong> Grundrisse (PDF)</a></td> 
+                        <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-b-2-obergeschoss.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Eigentumswohungen"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Haus B | Eigentumswohnungen</strong> Grundrisse (PDF)</a></td> 
                     </tr>
-                    <tr>
-                        <td class="downloadplan"><a href="download/.pdf" download="Baumgarten Haus A Grundrisspläne"><img src="img/download-icon-weiss.svg" width="11" height="11" alt="download icon"> <strong> Verkaufspreisliste</strong> (PDF)</a></td> 
-                    </tr>
-                    
                 </table>
             </div>
             <div class="vermietungsstart">
