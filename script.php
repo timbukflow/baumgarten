@@ -1,6 +1,6 @@
 <div id="optoutbanner99">
     <p>Wir verwenden Cookies für ein besseres Online-Erlebnis. </p>
-    <a id="acceptga" onclick="accept()">Okay</a>
+    <a id="acceptga" onclick="accept()">akzeptieren</a>
 </div>
 
 <script src="js/vendor/modernizr-3.6.0.min.js"></script>
