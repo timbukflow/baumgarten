@@ -44,7 +44,7 @@
         </article>
         <article class="acontainer">
             <div class="content">
-                <h1>Mediterrane Riviera</h1>
+                <h1>Goldach, Bodenseeregion</h1>
                 <p>«Goldaha», wie Goldach um 789 genannt wurde, ist ein Ort, wo sich alle Qualitäten des Lebens vereinen. An heissen Sommertagen verwandelt sich das Seeufer zu einer mediterranen Riviera, Jung und Alt, Familien und Paare treffen sich im Freibad oder auf Wiesen, treiben Sport oder lassen einfach die Seele baumeln. Sie geniessen das vielfältige kulinarische Gastronomieangebot oder löschen den Durst mit einem erfrischenden Getränk in einer der kultigen Bars. Ach, «Gold»-ach, wahrhaftig präsentiert sich diese Gemeinde von ihrer goldigsten Seite. Wer ankommt, will bleiben.</p>
                 <a class="link" href="wohnangebot" target="_self">Entdecken Sie das Wohnangebot im Baumgarten.</a>
             </div>
