@@ -269,8 +269,8 @@
                 <th>Nr.</th>
                 <th>Etage</th>
                 <th>ZWHG</th>
-                <th>Wohnfläche</th>
-                <th>Aussenfläche</th>
+                <th>Wohnfläche m²</th>
+                <th>Aussenfläche m²</th>
                 <th>Mietzins<br>netto</th>
                 <th>Neben-<br>kosten</th>
                 <th>Mietzins<br>brutto</th>
