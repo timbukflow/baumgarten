@@ -280,7 +280,7 @@
                 <td>A.01</td> 
                 <td>EG</td>
                 <td>4.5</td>
-                <td>135.80 m²</td>
+                <td>135.30 m²</td>
                 <td>14.10 m²</td>
                 <td>2'050.-</td>
                 <td>250.-</td>
@@ -301,7 +301,7 @@
                 <td>A.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>94.50 m²</td>
+                <td>94.30 m²</td>
                 <td>13.90 m²</td>
                 <td>1'620.-</td>
                 <td>190.-</td>
@@ -322,7 +322,7 @@
                 <td>A.03</td> 
                 <td>EG</td>
                 <td>3.5</td>
-                <td>103.20 m²</td>
+                <td>103.60 m²</td>
                 <td>13.90 m²</td>
                 <td>1'680.-</td>
                 <td>190.-</td>
@@ -365,7 +365,7 @@
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
-                <td>12.20 m²</td>
+                <td>12.30 m²</td>
                 <td>1'640.-</td>
                 <td>190.-</td>
                 <td>1'830.-</td>
@@ -429,7 +429,7 @@
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
-                <td>12.20 m²</td>
+                <td>12.30 m²</td>
                 <td>1'680.-</td>
                 <td>190.-</td>
                 <td>1'870.-</td>
@@ -471,7 +471,7 @@
                 <td>Attika</td>
                 <td>3.5</td>
                 <td>96.30 m²</td>
-                <td>67.70 m²</td>
+                <td>64.70 m²</td>
                 <td>1'970.-</td>
                 <td>190.-</td>
                 <td>2'160.-</td>
@@ -491,8 +491,8 @@
                 <td>A.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
-                <td>128.70 m²</td>
-                <td>85.60 m²</td>
+                <td>128.80 m²</td>
+                <td>74.30 m²</td>
                 <td>2'400.-</td>
                 <td>250.-</td>
                 <td>2'650.-</td>
@@ -673,8 +673,8 @@
                 <td>B.10</td> 
                 <td>Attika</td>
                 <td>4.5</td>
-                <td>118.70 m²</td>
-                <td>77.40 m²</td>
+                <td>118.30 m²</td>
+                <td>63.10 m²</td>
                 <td>2'200.-</td>
                 <td>250.-</td>
                 <td>2'450.-</td>
@@ -694,8 +694,8 @@
                 <td>B.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
-                <td>118.70 m²</td>
-                <td>63.10 m²</td>
+                <td>119.00 m²</td>
+                <td>50.60 m²</td>
                 <td>2'200.-</td>
                 <td>250.-</td>
                 <td>2'450.-</td>
@@ -804,8 +804,7 @@
             <tr>
                 <td>B.00</td> 
                 <td colspan="5">Tiefgaragenparkplatz</td>
-                <td>pro</td>
-                <td>130.-</td>
+                <td colspan="2">33‘000.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -842,9 +841,9 @@
                 <td>4.5</td>
                 <td>133.20 m²</td>
                 <td>15.60 m²</td>
-                <td>2'050.-</td>
+                <td>2'200.-</td>
                 <td>250.-</td>
-                <td>2'300.-</td>
+                <td>2'450.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -1030,7 +1029,7 @@
                 <td>Attika</td>
                 <td>3.5</td>
                 <td>96.30 m²</td>
-                <td>67.70 m²</td>
+                <td>64.90 m²</td>
                 <td>1'960.-</td>
                 <td>190.-</td>
                 <td>2'150.-</td>
@@ -1050,8 +1049,8 @@
                 <td>C.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
-                <td>128.70 m²</td>
-                <td>85.60 m²</td>
+                <td>128.80 m²</td>
+                <td>73.70 m²</td>
                 <td>2'400.-</td>
                 <td>250.-</td>
                 <td>2'650.-</td>
