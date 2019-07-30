@@ -54,7 +54,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
         
         $headers = "From:ivoschwizer@gmail.com";
-        $headers .= "Content-Type: text/plain; charset=utf-8";
         $to = "ivo@schwizerschlatter.com";
         $subject = "Baumgarten Anfrage";
         if (mail($to, $subject, $message_body, $headers)){
