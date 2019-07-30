@@ -54,7 +54,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
         
         $headers = "From:anfrage@baumgarten-goldach.ch";
-        $to = "ivo@schwizerschlatter.com";
+        $to = "angela.signer@sur.ag";
         $subject = "Baumgarten Anfrage";
         if (mail($to, $subject, $message_body, $headers)){
             $success = "Ihre Anfrage wurde erfolgreich gesendet.";
