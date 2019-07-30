@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $message_body .= "$key: $value\n";
         }
         
-        $headers = "From:ivoschwizer@gmail.com"
+        $headers = "From:ivoschwizer@gmail.com";
         $to = "ivo@schwizerschlatter.com";
         $subject = "Baumgarten Anfrage";
         if (mail($to, $subject, $message_body, $headers)){
