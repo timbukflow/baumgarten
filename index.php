@@ -103,7 +103,7 @@
             </div>
             <div class="content">
                 <h1>Materialisierung:<br>Putz und Holz | Geborgenheit und Wärme</h1>
-                <p>Die Wohnhäuser stehen im steten Dialog mit der Umgebung und dem Baumgarten. Die warmen <strong>Eichenfenster</strong> lassen die Innenräume mit Licht durchfluten und schaffen so ein helles und <strong>warmes Wohnklima</strong>. Hochwertige und ökologische Materialien werden beim gesamten Bau, aussen wie innen eingesetzt.</p>
+                <p>Die Wohnhäuser stehen im steten Dialog mit der Umgebung und dem Baumgarten. Die warmen <strong>Fichtenfenster</strong> lassen die Innenräume mit Licht durchfluten und schaffen so ein helles und <strong>warmes Wohnklima</strong>. Hochwertige und ökologische Materialien werden beim gesamten Bau, aussen wie innen eingesetzt.</p>
                 <p>Mit seiner soliden und langlebigen Bauweise leistet der Baumgarten einen positiven und zeitgemässen Beitrag zum Thema <strong>Nachhaltigkeit</strong>. Mittels Erdsonden werden die Häuser umweltschonend beheizt. Das Einsteinmauerwerk sorgt für ein optimales Raumklima. Auch für <strong>E-Bikes und E-Fahrzeuge</strong> ist gesorgt: In den grosszügigen Veloräumen wie in der Tiefgarage gibt es Ladestationen oder die Möglichkeit nachzurüsten.</p>
             </div>
         </article>
