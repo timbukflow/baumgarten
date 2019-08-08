@@ -3,7 +3,7 @@
 <!--[if IE 8]>	 <html class="no-js lt-ie9" lang="de"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
-<title>Baumgarten</title>
+<title>Baumgarten | Wohnen in Goldach</title>
 <meta name="description" content="Baumgarten | Home"/>
 <?php include 'head.php'; ?>
 </head>
