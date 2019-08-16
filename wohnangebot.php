@@ -669,15 +669,16 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be4w1">
+            <tr class="be4w1 v">
                 <td>B.10</td> 
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>118.30 m²</td>
                 <td>63.10 m²</td>
-                <td>2'200.-</td>
+                <td colspan="3">vermietet</td>
+                <!--<td>2'200.-</td>
                 <td>250.-</td>
-                <td>2'450.-</td>
+                <td>2'450.-</td>-->
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -690,16 +691,15 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be4w2 v">
+            <tr class="be4w2">
                 <td>B.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>119.00 m²</td>
                 <td>50.60 m²</td>
-                <td colspan="3">vermietet</td>
-                <!--<td>2'200.-</td>
+                <td>2'200.-</td>
                 <td>250.-</td>
-                <td>2'450.-</td>-->
+                <td>2'450.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
