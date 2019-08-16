@@ -4,10 +4,10 @@
             <p>
                 <strong>Bauherrschaft</strong>:<br>
                 Bauherrengemeinschaft<br> 
-                Baumgarten <br>
-                Freudenau Goldach<br>
-                c/o Schwager Mätzler Schneider<br>
-                Rechtsanwälte
+                Baumgarten Goldach <br>
+                c/o Dr. Eugen Mätzler<br>
+                Rechtsanwalt<br>
+                St.Gallen
             </p>
         </div>
         <div class="footerkontakt">   
