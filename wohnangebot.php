@@ -381,13 +381,12 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae2w3"><!--class v for reserviert-->
+            <tr class="ae2w3">
                 <td>A.06</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>12.20 m²</td>
-                <!--<td colspan="3">reserviert</td>-->
                 <td>1'700.-</td>
                 <td>190.-</td>
                 <td>1'890.-</td>
@@ -564,15 +563,16 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w2">
+            <tr class="be1w2 v">
                 <td>B.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
                 <td>13.50 m²</td>
-                <td>1'680.-</td>
+                <td colspan="3">vermietet</td>
+                <!--<td>1'680.-</td>
                 <td>190.-</td>
-                <td>1'870.-</td>
+                <td>1'870.-</td>-->
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -690,15 +690,16 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be4w2">
+            <tr class="be4w2 v">
                 <td>B.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>119.00 m²</td>
                 <td>50.60 m²</td>
-                <td>2'200.-</td>
+                <td colspan="3">vermietet</td>
+                <!--<td>2'200.-</td>
                 <td>250.-</td>
-                <td>2'450.-</td>
+                <td>2'450.-</td>-->
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">

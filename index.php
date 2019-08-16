@@ -34,7 +34,7 @@
                 </div>
              <div class="einleitunglauftext">   
                 <h2>
-                    An bester Lage in Goldach am Bodensee entsteht in der Freudenau die Überbauung <strong>&#171;Baumgarten&#187;</strong>. Auf drei Wohnhäuser sind 33 grosszügige 2 ½-, 3 ½- und 4 ½-Zimmer-Wohnungen verteilt.
+                    In der Freudenau entsteht im Herzen von Goldach die Überbauung <strong>&#171;Baumgarten&#187;</strong>. Auf drei Wohnhäuser sind 33 grosszügige 2 ½-, 3 ½- und 4 ½-Zimmer-Wohnungen verteilt.
                  </h2>
                 <h2>
                     Diese laden mit ihren offen gestalteten Grundrissen, den lichtdurchfluteten Wohnräumen und den grosszügigen Aussenbereichen zum Geniessen und Entspannen ein. Sie stehen ab <strong>Spätherbst 2020</strong> zum Erstbezug bereit.
@@ -48,8 +48,8 @@
         
         <article class="acontainer">
             <figure>
-                <img src="img/baumgarten-freudenau-goldach-mietwohnung-eigentumswohnung-baumgartenweg.jpg" alt="baumgarten freudenau goldach baumgartenweg wohnen in goldach bodensee warteggweg mietwohnung" width="100%" height="auto">
-                <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus A und B, wohnen am Baumgartenweg in Goldach.</figcaption>
+                <img src="img/baumgarten-freudenau-goldach-mietwohnung-3-5-zimmer-erdgeschoss-wohnung.jpg" alt="baumgarten freudenau goldach innenansicht mietwohnung 3.5 zimmer wohnen in goldach bodensee warteggweg" width="100%" height="auto">
+                <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus B Mietwohnung, 3.5 Zimmer Erdgeschosswohnung mit Gartensitzplatz.</figcaption>
             </figure>
             <div class="content50 building">
                 <svg version="1.1" id="buildinghome" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 494.4 383.4" style="enable-background:new 0 0 494.4 383.4;" xml:space="preserve">
@@ -70,8 +70,8 @@
         <article class="acontainer">
             <div class="content75img">
                 <figure>
-                    <img src="img/baumgarten-freudenau-goldach-mietwohnung-3-5-zimmer-erdgeschoss-wohnung.jpg" alt="baumgarten freudenau goldach innenansicht mietwohnung 3.5 zimmer wohnen in goldach bodensee warteggweg" width="100%" height="auto">
-                    <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus B Mietwohnung, 3.5 Zimmer Erdgeschosswohnung mit Gartensitzplatz.</figcaption>
+                    <img src="img/baumgarten-freudenau-goldach-mietwohnung-eigentumswohnung-obergeschoss-haus-b-4-5-zimmerwohnung.jpg" alt="baumgarten freudenau goldach obergeschoss wohnen in goldach bodensee warteggweg mietwohnung haus-b 4.5-zimmerwohnung" width="100%" height="auto">
+                    <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus B, Miet- oder Eigentumswohnung, Obergeschosswohnung mit Loggia.</figcaption>
                 </figure>
             </div>
             <div class="content">
@@ -83,8 +83,8 @@
         
         <article class="acontainer">
             <figure>
-                <img src="img/baumgarten-freudenau-goldach-mietwohnung-eigentumswohnung-obergeschoss-haus-b-4-5-zimmerwohnung.jpg" alt="baumgarten freudenau goldach obergeschoss wohnen in goldach bodensee warteggweg mietwohnung haus-b 4.5-zimmerwohnung" width="100%" height="auto">
-                <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus B, Miet- oder Eigentumswohnung, Obergeschosswohnung mit Loggia.</figcaption>
+                <img src="img/baumgarten-freudenau-goldach-mietwohnung-4-5-zimmer-attika-dachgeschoss-wohnung.jpg" alt=" baumgarten freudenau goldach attikawohnung wohnen in goldach bodensee warteggweg mietwohnung 3.5 bis 4.5 zimmerwohnung" width="100%" height="auto">
+                <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus C Mietwohnung, Attikawohnung mit Terrasse. </figcaption>
             </figure>
             <div class="content">
                 <h1>Baumgartenweg</h1>
@@ -97,8 +97,8 @@
         <article class="acontainer">
             <div class="content75img">
                 <figure>
-                    <img src="img/baumgarten-freudenau-goldach-mietwohnung-4-5-zimmer-attika-dachgeschoss-wohnung.jpg" alt="baumgarten freudenau goldach attikawohnung wohnen in goldach bodensee warteggweg mietwohnung 3.5 bis 4.5 zimmerwohnung" width="100%" height="auto">
-                    <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus C Mietwohnung, Attikawohnung mit Terrasse. </figcaption>
+                    <img src="img/baumgarten-freudenau-goldach-mietwohnung-eigentumswohnung-baumgartenweg.jpg" alt=" baumgarten freudenau goldach baumgartenweg wohnen in goldach bodensee warteggweg mietwohnung" width="100%" height="auto">
+                    <figcaption><strong>Baumgarten Freudenau Goldach</strong> / Ansicht Haus A und B, wohnen am Baumgartenweg in Goldach.</figcaption>
                 </figure>
             </div>
             <div class="content">
@@ -116,7 +116,7 @@
             <div class="content">
                 <h1>Lebensqualität</h1>
                 <p>Steigern Sie Ihre Lebensqualität und geniessen Sie alle Privilegien dieser Top-Wohnlage: sei es eine Abkühlung im Bodensee an heissen Sommertagen, entspanntes Fischen an einem ruhigen Herbsttag, ein Spaziergang am verschneiten Seeufer im Winter oder eine Runde Joggen an einem herrlichen Frühlingsmorgen.</p>
-                <p>In der Überbauung <strong>&#171;Baumgarten&#187;</strong> finden Sie alles, was Sie für Ihr Leben und Ihren Alltag benötigen, in Ihrer Nähe: Kitas, Kindergarten und Schulen in Sichtweite; die Postautohaltestelle in drei Minuten; diverse Einkaufsmöglichkeiten, Seniorentreffs und kulturelle Veranstaltungen in Gehdistanz. Und die regionale Sport- und Erholungsanlage Kellern, Goldach, wo Familien mit ihren (Klein-)Kindern, Fussballer, Leichtathleten, Jogger, Beachvolleyballer und erholungsuchende Grillfreunde mit dem Auto hinfahren, erreichen Sie in fünf Gehminuten!</p>
+                <p>In der Überbauung <strong>&#171;Baumgarten&#187;</strong> finden Sie alles, was Sie für Ihr Leben und Ihren Alltag benötigen, in Ihrer Nähe: Kitas, Kindergarten und Schulen in Sichtweite; die Postautohaltestelle in drei Minuten; diverse Einkaufsmöglichkeiten, Seniorentreffs und kulturelle Veranstaltungen in Gehdistanz. Und die regionale Sport- und Erholungsanlage Kellen, Goldach, wo Familien mit ihren (Klein-)Kindern, Fussballer, Leichtathleten, Jogger, Beachvolleyballer und erholungsuchende Grillfreunde mit dem Auto hinfahren, erreichen Sie in fünf Gehminuten!</p>
                 <a class="link" href="goldach" target="_self">Erfahren Sie mehr über <strong>Goldach</strong></a>
             </div>
         </article>
