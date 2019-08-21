@@ -805,7 +805,7 @@
             <tr>
                 <td>B.00</td> 
                 <td colspan="5">Tiefgaragenparkplatz</td>
-                <td colspan="2">33‘000.-</td>
+                <td colspan="2">35‘000.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
