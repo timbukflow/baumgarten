@@ -1027,7 +1027,7 @@ responsive ipad
 }
     
 @media only screen and (max-width: 1130px) {
-   .ct h4, .ct .grundriss h1 {margin: 20px;padding-left: 0px;font-size: 20px;}
+   .ct h4, .ct .grundriss h1 {margin: 40px 20px;padding-left: 0px;font-size: 20px;}
     table {margin: 20px 20px; width: calc(100% - 40px)}
     .cb {width: 100%; position: fixed; height: 50vh; z-index: 10; background: #fff; margin: 0px;}
     #bulding {top: 0; left: 0; right: 0; bottom: 0; margin: 16vh auto 0; height: 30vh;}
@@ -1082,7 +1082,7 @@ responsive ipad
     .footernav {float: left; margin: 20px;}
     #impressum, #datenschutz {padding: 20px;}
     .resptable {background: #f7f7f5;}
-    .ct h4, .ct .grundriss h1 {margin: 20px;padding-left: 0px;font-size: 20px;}
+    .ct h4, .ct .grundriss h1 {margin: 40px 20px;padding-left: 0px;font-size: 20px;}
     .sectioncontact, .sectiondload {width: 100%; margin-bottom: 0}
     .container {padding: 80px 20px 0px}
     .respcont {padding-top: 20px;}
