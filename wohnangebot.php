@@ -792,7 +792,7 @@
                 <td>3.5</td>
                 <td>106.60 m²</td>
                 <td>11.70 m²</td>
-                <td colspan="3">670'000.-</td>
+                <td colspan="3">680'000.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -812,7 +812,7 @@
                 <td>3.5</td>
                 <td>106.60 m²</td>
                 <td>11.70 m²</td>
-                <td colspan="3">680'000.-</td>
+                <td colspan="3">700'000.-</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
