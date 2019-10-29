@@ -75,7 +75,7 @@
                 </table>
             </div>
             <div class="vermietungsstart">
-                <h3><strong>Vermietungsstart:</strong>Bewerben Sie sich jetzt für Ihre gewünschte Wohnung. Die Wohnungen sind ab Spätherbst 2020 bezugsbereit.</h3>
+                <h3><strong>Vermietungsstart:</strong> Bewerben Sie sich jetzt für Ihre gewünschte Wohnung. Die Wohnungen sind ab Spätherbst 2020 bezugsbereit.</h3>
             </div>
         </article>    
     </section>
