@@ -254,7 +254,7 @@
         </svg>
         
         <div class="reservation">
-            <h3><strong>Reservieren</strong> Sie jetzt Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Spätherbst 2020 bezugsbereit.<br><a class="link" href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Baumgarten Anmeldeformular">Anmeldeformular</a></h3>
+            <h3><strong>Bewerben</strong> Sie sich jetzt für Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Spätherbst 2020 bezugsbereit.<br><a class="link" href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Baumgarten Anmeldeformular">Anmeldeformular</a></h3>
         </div>
     </div>
     
@@ -582,7 +582,7 @@
                 <td>3.5</td>
                 <td>106.60 m²</td>
                 <td>13.50 m²</td>
-                <td colspan="3">vermietet</td>
+                <td colspan="3">vermietet an Bauherrschaft</td>
                 <!--<td>1'680.-</td>
                 <td>190.-</td>
                 <td>1'870.-</td>-->
@@ -693,7 +693,7 @@
                 <td>4.5</td>
                 <td>118.30 m²</td>
                 <td>63.10 m²</td>
-                <td colspan="3">vermietet</td>
+                <td colspan="3">vermietet an Bauherrschaft</td>
                 <!--<td>2'200.-</td>
                 <td>250.-</td>
                 <td>2'450.-</td>-->

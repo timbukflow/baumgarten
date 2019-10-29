@@ -39,7 +39,7 @@
                 <h2>
                     Diese laden mit ihren offen gestalteten Grundrissen, den lichtdurchfluteten Wohnräumen und den grosszügigen Aussenbereichen zum Geniessen und Entspannen ein. Sie stehen ab <strong>Spätherbst 2020</strong> zum Erstbezug bereit.
                  </h2>
-                <a class="linkw" href="wohnangebot" target="_self">Reservieren Sie Ihre Wohnung.</a>
+                <a class="linkw" href="wohnangebot" target="_self">Bewerben Sie sich für Ihre wunsch Wohnung.</a>
             </div>
             <figure class="logocontainer">
                 <img src="img/baumgarten-freudenau-goldach-logo.svg" alt="Smiley face" height="155" width="240">
