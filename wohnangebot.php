@@ -298,8 +298,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae1w2">
-                <td>A.02</td> 
+            <tr class="ae1w2 r">
+                <td>A.02 *</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>94.30 m²</td>
@@ -320,8 +320,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae1w3">
-                <td>A.03</td> 
+            <tr class="ae1w3 r">
+                <td>A.03 *</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>103.60 m²</td>
@@ -364,8 +364,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae2w2">
-                <td>A.05</td> 
+            <tr class="ae2w2 r">
+                <td>A.05 *</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -430,8 +430,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae3w2">
-                <td>A.08</td> 
+            <tr class="ae3w2 r">
+                <td>A.08 *</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -452,8 +452,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae3w3">
-                <td>A.09</td> 
+            <tr class="ae3w3 r">
+                <td>A.09 *</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -474,8 +474,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae4w1">
-                <td>A.10</td> 
+            <tr class="ae4w1 r">
+                <td>A.10 *</td> 
                 <td>Attika</td>
                 <td>3.5</td>
                 <td>96.30 m²</td>
@@ -496,8 +496,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae4w2">
-                <td>A.11</td> 
+            <tr class="ae4w2 r">
+                <td>A.11 *</td> 
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>128.80 m²</td>
@@ -536,6 +536,9 @@
                     </div>
                 </td>
             </tr>
+            <tr class="r"> 
+                <td colspan="9" class="reserv">* Reservationsanfragen pendent</td>
+            </tr>
             <tr>
                 <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-a-mietwohnung.pdf" download="Baumgarten-Haus-A-Grundrissplaene"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
@@ -554,8 +557,8 @@
                 <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
             </tr>   
-            <tr class="be1w1">
-                <td>B.01</td> 
+            <tr class="be1w1 r">
+                <td>B.01 *</td> 
                 <td>EG</td>
                 <td>2.5</td>
                 <td>84.60 m²</td>
@@ -582,7 +585,7 @@
                 <td>3.5</td>
                 <td>106.60 m²</td>
                 <td>13.50 m²</td>
-                <td colspan="3">vermietet an Bauherrschaft</td>
+                <td colspan="3">verkauft</td>
                 <!--<td>1'680.-</td>
                 <td>190.-</td>
                 <td>1'870.-</td>-->
@@ -599,8 +602,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be1w3">
-                <td>B.03</td> 
+            <tr class="be1w3 r">
+                <td>B.03 *</td> 
                 <td>EG</td>
                 <td>4.5</td>
                 <td>120.20 m²</td>
@@ -621,8 +624,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be2w1">
-                <td>B.04</td> 
+            <tr class="be2w1 r">
+                <td>B.04 *</td> 
                 <td>1. OG</td>
                 <td>4.5</td>
                 <td>120.10 m²</td>
@@ -693,7 +696,7 @@
                 <td>4.5</td>
                 <td>118.30 m²</td>
                 <td>63.10 m²</td>
-                <td colspan="3">vermietet an Bauherrschaft</td>
+                <td colspan="3">verkauft</td>
                 <!--<td>2'200.-</td>
                 <td>250.-</td>
                 <td>2'450.-</td>-->
@@ -710,8 +713,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be4w2">
-                <td>B.11</td> 
+            <tr class="be4w2 r">
+                <td>B.11 *</td> 
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>119.00 m²</td>
@@ -749,6 +752,9 @@
                         <img class="norden" src="img/norden.svg" alt="norden" width="40" height="40">
                     </div>
                 </td>
+            </tr>
+            <tr class="r"> 
+                <td colspan="9" class="reserv">* Reservationsanfragen pendent</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-b-mietwohung.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Mietwohung"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
@@ -905,8 +911,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce1w3">
-                <td>C.03</td> 
+            <tr class="ce1w3 r">
+                <td>C.03 *</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -993,8 +999,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce3w1">
-                <td>C.07</td> 
+            <tr class="ce3w1 r">
+                <td>C.07 *</td> 
                 <td>2. OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
@@ -1015,8 +1021,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce3w2">
-                <td>C.08</td> 
+            <tr class="ce3w2 r">
+                <td>C.08 *</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -1059,8 +1065,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce4w1">
-                <td>C.10</td> 
+            <tr class="ce4w1 r">
+                <td>C.10 *</td> 
                 <td>Attika</td>
                 <td>3.5</td>
                 <td>96.30 m²</td>
@@ -1121,11 +1127,14 @@
                     </div>
                 </td>
             </tr>
+            <tr class="r"> 
+                <td colspan="9" class="reserv">* Reservationsanfragen pendent</td>
+            </tr>
             <tr>
                 <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
             <tr>
-                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 16.08.2019 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
+                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 11.12.2019 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
             </tr>
         </table>
         <div id="konditionen">

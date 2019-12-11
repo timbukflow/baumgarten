@@ -735,9 +735,11 @@ th:last-child, td:last-child {border-right: none;}
 .planhover {
     display: block;
 }
-
+.r td {
+    color: rgba(95, 115, 92, 0.5);
+}
 .v td {
-    font-style: italic;
+    font-style: normal;
     color: rgba(95, 115, 92, 0.5);
 }
 .v td:last-child {
