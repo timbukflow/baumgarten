@@ -537,7 +537,7 @@
                 </td>
             </tr>
             <tr class="r"> 
-                <td colspan="9" class="reserv">* Reservationsanfragen pendent</td>
+                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Frühjahr 2020</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-a-mietwohnung.pdf" download="Baumgarten-Haus-A-Grundrissplaene"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
@@ -570,29 +570,6 @@
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
                         <img src="img/grundriss-baumgarten-mietwohnung-2-5-zimmerwohnung-erdgeschoss-beg01.png" alt="grundriss-baumgarten-mietwohnung-2-5-zimmerwohnung-erdgeschoss-beg01">
-                        <div class="closer">&#10005;</div>
-                        <a class="link" href="downloads/baumgarten-grundrisse-haus-b-erdgeschoss.pdf" download="Baumgarten-Haus-B-Erdgeschoss">
-                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> Haus B</strong> / Erdgeschoss Grundriss (PDF)
-                        </a>
-                        <img class="norden" src="img/norden.svg" alt="norden" width="40" height="40">
-                    </div>
-                </td>
-            </tr>
-            <tr class="be1w2 v">
-                <td>B.02</td> 
-                <td>EG</td>
-                <td>3.5</td>
-                <td>106.60 m²</td>
-                <td>13.50 m²</td>
-                <td colspan="3">verkauft</td>
-                <!--<td>1'680.-</td>
-                <td>190.-</td>
-                <td>1'870.-</td>-->
-                <td class="planb">
-                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
-                    <div class="plan">
-                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-beg02.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-beg02">
                         <div class="closer">&#10005;</div>
                         <a class="link" href="downloads/baumgarten-grundrisse-haus-b-erdgeschoss.pdf" download="Baumgarten-Haus-B-Erdgeschoss">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
@@ -690,29 +667,6 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be4w1 v">
-                <td>B.10</td> 
-                <td>Attika</td>
-                <td>4.5</td>
-                <td>118.30 m²</td>
-                <td>63.10 m²</td>
-                <td colspan="3">verkauft</td>
-                <!--<td>2'200.-</td>
-                <td>250.-</td>
-                <td>2'450.-</td>-->
-                <td class="planb">
-                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
-                    <div class="plan">
-                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-bdg10.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-bdg10">
-                        <div class="closer">&#10005;</div>
-                        <a class="link" href="downloads/baumgarten-grundrisse-haus-b-attikageschoss.pdf" download="Baumgarten-Haus-B-Attikageschoss">
-                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
-                            <strong> Haus B</strong> / Attikageschoss Grundriss (PDF)
-                        </a>
-                        <img class="norden" src="img/norden.svg" alt="norden" width="40" height="40">
-                    </div>
-                </td>
-            </tr>
             <tr class="be4w2 r">
                 <td>B.11 *</td> 
                 <td>Attika</td>
@@ -754,7 +708,7 @@
                 </td>
             </tr>
             <tr class="r"> 
-                <td colspan="9" class="reserv">* Reservationsanfragen pendent</td>
+                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Frühjahr 2020</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-b-mietwohung.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Mietwohung"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
@@ -771,7 +725,30 @@
                 <th>Aussenfläche</th>
                 <th colspan="3">Verkaufspreis</th>
                 <th>Plan</th>
-            </tr>   
+            </tr>
+            <tr class="be1w2 v">
+                <td>B.02</td> 
+                <td>EG</td>
+                <td>3.5</td>
+                <td>106.60 m²</td>
+                <td>13.50 m²</td>
+                <td colspan="3">verkauft</td>
+                <!--<td>1'680.-</td>
+                <td>190.-</td>
+                <td>1'870.-</td>-->
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-beg02.png" alt="grundriss-baumgarten-mietwohnung-3-5-zimmerwohnung-erdgeschoss-beg02">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/baumgarten-grundrisse-haus-b-erdgeschoss.pdf" download="Baumgarten-Haus-B-Erdgeschoss">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / Erdgeschoss Grundriss (PDF)
+                        </a>
+                        <img class="norden" src="img/norden.svg" alt="norden" width="40" height="40">
+                    </div>
+                </td>
+            </tr>
             <tr class="be3w1">
                 <td>B.07</td> 
                 <td>2. OG</td>
@@ -827,6 +804,29 @@
                         <a class="link" href="downloads/baumgarten-grundrisse-haus-b-2-obergeschoss.pdf" download="Baumgarten-Haus-B-2-Obergeschoss-Eigentumswohung">
                             <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
                             <strong> Haus B</strong> / 2. Obergeschoss Grundriss (PDF)
+                        </a>
+                        <img class="norden" src="img/norden.svg" alt="norden" width="40" height="40">
+                    </div>
+                </td>
+            </tr>
+            <tr class="be4w1 v">
+                <td>B.10</td> 
+                <td>Attika</td>
+                <td>4.5</td>
+                <td>118.30 m²</td>
+                <td>63.10 m²</td>
+                <td colspan="3">verkauft</td>
+                <!--<td>2'200.-</td>
+                <td>250.-</td>
+                <td>2'450.-</td>-->
+                <td class="planb">
+                    <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
+                    <div class="plan">
+                        <img src="img/grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-bdg10.png" alt="grundriss-baumgarten-mietwohnung-4-5-zimmerwohnung-attika-bdg10">
+                        <div class="closer">&#10005;</div>
+                        <a class="link" href="downloads/baumgarten-grundrisse-haus-b-attikageschoss.pdf" download="Baumgarten-Haus-B-Attikageschoss">
+                            <img src="img/download-icon.svg" width="11" height="11" alt="download icon">
+                            <strong> Haus B</strong> / Attikageschoss Grundriss (PDF)
                         </a>
                         <img class="norden" src="img/norden.svg" alt="norden" width="40" height="40">
                     </div>
@@ -1128,7 +1128,7 @@
                 </td>
             </tr>
             <tr class="r"> 
-                <td colspan="9" class="reserv">* Reservationsanfragen pendent</td>
+                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Frühjahr 2020</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
