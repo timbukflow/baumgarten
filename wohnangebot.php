@@ -645,8 +645,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be2w3">
-                <td>B.06</td> 
+            <tr class="be2w3 r">
+                <td>B.06 *</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
