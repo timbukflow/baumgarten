@@ -889,8 +889,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce1w2">
-                <td>C.02</td> 
+            <tr class="ce1w2 r">
+                <td>C.02 *</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>94.30 m²</td>
