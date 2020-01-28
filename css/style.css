@@ -209,7 +209,7 @@ p, a{
 }
 
 .cd-auto-hide-header .logo {
-    background: #718166;
+    background-color: #718166;
     padding: 24px 26px;
 }
 
@@ -290,7 +290,7 @@ p, a{
     float: left;
     height: 100%;
     padding-left: 34px;
-    background: #fff;
+    background-color: #fff;
     padding-right: 34px;
 }
 .cd-primary-nav > ul {
@@ -442,7 +442,7 @@ p, a{
     margin: 0;
     position: relative;
     display: inline-block;
-    background: #fff;
+    background-color: #fff;
     z-index: 10;
     float: left;
 }
@@ -453,7 +453,7 @@ p, a{
     float: left;
 }
 .einleitung {
-    background: #718166;
+    background-color: #718166;
     width: calc(50% - 120px);
     position: absolute;
     right: 0;
@@ -482,7 +482,7 @@ p, a{
 .einleitunglauftext {
     position: relative;
     float: right;
-    background: #718166;
+    background-color: #718166;
     width: calc(50% - 120px);
     top: 0;
     padding: 0px 60px 82px 60px;
@@ -598,7 +598,7 @@ g {
 
 .activ {
     fill: #BEC7BE;
-    background: rgba(190, 199, 190, 0.75);
+    background-color: rgba(190, 199, 190, 0.75);
     -webkit-transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
     transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
@@ -632,7 +632,7 @@ g {
     float: right;
     right: 0;
     display: inline-block;
-    background: #f7f7f5;
+    background-color: #f7f7f5;
 }
 
 .ct .grundriss h1 {
@@ -736,7 +736,7 @@ th:last-child, td:last-child {border-right: none;}
     display: block;
 }
 .r td {
-    color: #b5935d;
+    color: #b5935df;
 }
 .v td {
     color: rgba(95, 115, 92, 0.5);
@@ -767,7 +767,7 @@ th:last-child, td:last-child {border-right: none;}
     contact form
 -----------------------------------*/    
 .contact {
-     background: #718166;
+     background-color: #718166;
 }
 
 .sectioncontact, .sectiondload {
@@ -819,7 +819,7 @@ th:last-child, td:last-child {border-right: none;}
     box-sizing: border-box;
     width: 100%;
     border: none;
-    background: #ffffff;
+    background-color: #ffffff;
     box-shadow: none;
     margin: 15px 0 5px;
     padding: 10px 12px;
@@ -843,7 +843,7 @@ th:last-child, td:last-child {border-right: none;}
 #contact button {
     cursor: pointer;
     border: 1px solid #fff;
-    background: #718166;
+    background-color: #718166;
     color: #fff;
     margin: 15px 0 5px;
     padding: 10px;
@@ -851,9 +851,9 @@ th:last-child, td:last-child {border-right: none;}
 }
     
 #contact button:hover {
-    background: rgba(255, 255, 255, 0.2);
-    -webkit-transition:background 0.3s ease-in-out;
-    -moz-transition:background 0.3s ease-in-out;
+    background-color: rgba(255, 255, 255, 0.2);
+    -webkit-transition:background-color 0.3s ease-in-out;
+    -moz-transition:background-color 0.3s ease-in-out;
     transition:background-color 0.3s ease-in-out;
 }
 
@@ -900,7 +900,7 @@ footer {
     margin: 0;
     position: relative;
     display: inline-block;
-    background: #718166;
+    background-color: #718166;
     width: 100%;
     float: left;
     z-index: 1
@@ -1030,7 +1030,7 @@ responsive ipad
 @media only screen and (max-width: 1130px) {
    .ct h4, .ct .grundriss h1 {margin: 40px 20px;padding-left: 0px;font-size: 20px;}
     table {margin: 20px 20px; width: calc(100% - 40px)}
-    .cb {width: 100%; position: fixed; height: 50vh; z-index: 10; background: #fff; margin: 0px;}
+    .cb {width: 100%; position: fixed; height: 50vh; z-index: 10; background-color: #fff; margin: 0px;}
     #bulding {top: 0; left: 0; right: 0; bottom: 0; margin: 16vh auto 0; height: 30vh;}
     .reservation {display: none;}
     .ct {width: 100%; top: 50vh;}
@@ -1051,7 +1051,7 @@ responsive ipad
 
 @media only screen and (max-width: 768px) {
     
-    .cd-auto-hide-header {height: 72px; width: 100%; background: #fff;}
+    .cd-auto-hide-header {height: 72px; width: 100%; background-color: #fff;}
     .cd-auto-hide-header .logo {padding: 10px 20px;}
     .cd-auto-hide-header .logo img {width: 50px;}
     .cd-primary-nav {float: right; padding-right: 10px; padding-left: 0px;}
@@ -1082,7 +1082,7 @@ responsive ipad
     .footerkontakt p {margin: 20px; margin-bottom: 10px;}
     .footernav {float: left; margin: 20px;}
     #impressum, #datenschutz {padding: 20px;}
-    .resptable {background: #f7f7f5;}
+    .resptable {background-color: #f7f7f5;}
     .ct h4, .ct .grundriss h1 {margin: 40px 20px;padding-left: 0px;font-size: 20px;}
     .sectioncontact, .sectiondload {width: 100%; margin-bottom: 0}
     .container {padding: 80px 20px 0px}
