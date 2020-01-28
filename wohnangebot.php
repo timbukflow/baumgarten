@@ -1087,8 +1087,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce4w2 r">
-                <td>C.11 *</td> 
+            <tr class="ce4w2">
+                <td>C.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>128.80 m²</td>
