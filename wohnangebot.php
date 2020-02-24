@@ -276,8 +276,8 @@
                 <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
             </tr>   
-            <tr class="ae1w1">
-                <td>A.01</td> 
+            <tr class="ae1w1 r">
+                <td>A.01 *</td> 
                 <td>EG</td>
                 <td>4.5</td>
                 <td>135.30 m²</td>
@@ -1043,8 +1043,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce3w3">
-                <td>C.09</td> 
+            <tr class="ce3w3 r">
+                <td>C.09 *</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
