@@ -364,8 +364,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae2w2">
-                <td>A.05</td> 
+            <tr class="ae2w2 r">
+                <td>A.05 *</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
