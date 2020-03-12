@@ -342,8 +342,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae2w1">
-                <td>A.04</td> 
+            <tr class="ae2w1 r">
+                <td>A.04 *</td> 
                 <td>1.OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
@@ -867,8 +867,8 @@
                 <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
             </tr>   
-            <tr class="ce1w1">
-                <td>C.01</td> 
+            <tr class="ce1w1 r">
+                <td>C.01 *</td> 
                 <td>EG</td>
                 <td>4.5</td>
                 <td>133.20 m²</td>
