@@ -623,8 +623,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be2w2">
-                <td>B.05</td> 
+            <tr class="be2w2 r">
+                <td>B.05 *</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
@@ -1134,7 +1134,7 @@
                 <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
             <tr>
-                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 17.03.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
+                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 08.04.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
             </tr>
         </table>
         <div id="konditionen">
