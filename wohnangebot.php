@@ -537,7 +537,7 @@
                 </td>
             </tr>
             <tr class="r"> 
-                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Frühjahr 2020</td>
+                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Ende Juli 2020</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-a-mietwohnung.pdf" download="Baumgarten-Haus-A-Grundrissplaene"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
@@ -708,7 +708,7 @@
                 </td>
             </tr>
             <tr class="r"> 
-                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Frühjahr 2020</td>
+                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Ende Juli 2020</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-b-mietwohung.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Mietwohung"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
@@ -933,8 +933,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce2w1">
-                <td>C.04</td> 
+            <tr class="ce2w1 r">
+                <td>C.04 *</td> 
                 <td>1.OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
@@ -1128,13 +1128,13 @@
                 </td>
             </tr>
             <tr class="r"> 
-                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Frühjahr 2020</td>
+                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Ende Juli 2020</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
             <tr>
-                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 01.05.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
+                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 17.06.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
             </tr>
         </table>
         <div id="konditionen">
