@@ -277,14 +277,14 @@
                 <th>Plan</th>
             </tr>   
             <tr class="ae1w1 r">
-                <td>A.01 *</td> 
+                <td>A.01</td> 
                 <td>EG</td>
                 <td>4.5</td>
                 <td>135.30 m²</td>
                 <td>14.10 m²</td>
-                <td>2'050.-</td>
-                <td>250.-</td>
-                <td>2'300.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -298,8 +298,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae1w2 r">
-                <td>A.02 *</td> 
+            <tr class="ae1w2">
+                <td>A.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>94.30 m²</td>
@@ -321,14 +321,14 @@
                 </td>
             </tr>
             <tr class="ae1w3 r">
-                <td>A.03 *</td> 
+                <td>A.03</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>103.60 m²</td>
                 <td>13.90 m²</td>
-                <td>1'680.-</td>
-                <td>190.-</td>
-                <td>1'870.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -342,8 +342,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae2w1 r">
-                <td>A.04 *</td> 
+            <tr class="ae2w1">
+                <td>A.04</td> 
                 <td>1.OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
@@ -365,14 +365,14 @@
                 </td>
             </tr>
             <tr class="ae2w2 r">
-                <td>A.05 *</td> 
+                <td>A.05</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>12.30 m²</td>
-                <td>1'640.-</td>
-                <td>190.-</td>
-                <td>1'830.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -387,14 +387,14 @@
                 </td>
             </tr>
             <tr class="ae2w3 r">
-                <td>A.06 *</td> 
+                <td>A.06</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>12.20 m²</td>
-                <td>1'700.-</td>
-                <td>190.-</td>
-                <td>1'890.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -431,14 +431,14 @@
                 </td>
             </tr>
             <tr class="ae3w2 r">
-                <td>A.08 *</td> 
+                <td>A.08</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>12.30 m²</td>
-                <td>1'680.-</td>
-                <td>190.-</td>
-                <td>1'870.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -453,14 +453,14 @@
                 </td>
             </tr>
             <tr class="ae3w3 r">
-                <td>A.09 *</td> 
+                <td>A.09</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>12.20 m²</td>
-                <td>1'740.-</td>
-                <td>190.-</td>
-                <td>1'930.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -475,14 +475,14 @@
                 </td>
             </tr>
             <tr class="ae4w1 r">
-                <td>A.10 *</td> 
+                <td>A.10</td> 
                 <td>Attika</td>
                 <td>3.5</td>
                 <td>96.30 m²</td>
                 <td>64.70 m²</td>
-                <td>1'970.-</td>
-                <td>190.-</td>
-                <td>2'160.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -497,14 +497,14 @@
                 </td>
             </tr>
             <tr class="ae4w2 r">
-                <td>A.11 *</td> 
+                <td>A.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>128.80 m²</td>
                 <td>74.30 m²</td>
-                <td>2'400.-</td>
-                <td>250.-</td>
-                <td>2'650.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -537,7 +537,7 @@
                 </td>
             </tr>
             <tr class="r"> 
-                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Ende Juli 2020</td>
+                <td colspan="9" class="reserv">reserviert = Mietvertrag unterwegs | vermietet = Mietvertrag unterzeichnet</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-a-mietwohnung.pdf" download="Baumgarten-Haus-A-Grundrissplaene"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
@@ -558,14 +558,14 @@
                 <th>Plan</th>
             </tr>   
             <tr class="be1w1 r">
-                <td>B.01 *</td> 
+                <td>B.01</td> 
                 <td>EG</td>
                 <td>2.5</td>
                 <td>84.60 m²</td>
                 <td>13.50 m²</td>
-                <td>1'280.-</td>
-                <td>150.-</td>
-                <td>1'430.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -580,14 +580,14 @@
                 </td>
             </tr>
             <tr class="be1w3 r">
-                <td>B.03 *</td> 
+                <td>B.03</td> 
                 <td>EG</td>
                 <td>4.5</td>
                 <td>120.20 m²</td>
                 <td>21.40 m²</td>
-                <td>1'900.-</td>
-                <td>250.-</td>
-                <td>2'150.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -601,8 +601,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be2w1 r">
-                <td>B.04 *</td> 
+            <tr class="be2w1">
+                <td>B.04</td> 
                 <td>1. OG</td>
                 <td>4.5</td>
                 <td>120.10 m²</td>
@@ -624,14 +624,14 @@
                 </td>
             </tr>
             <tr class="be2w2 r">
-                <td>B.05 *</td> 
+                <td>B.05</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
                 <td>11.70 m²</td>
-                <td>1'640.-</td>
-                <td>190.-</td>
-                <td>1'830.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -646,14 +646,14 @@
                 </td>
             </tr>
             <tr class="be2w3 r">
-                <td>B.06 *</td> 
+                <td>B.06</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
                 <td>11.70 m²</td>
-                <td>1'700.-</td>
-                <td>190.-</td>
-                <td>1'890.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -667,8 +667,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be4w2 r">
-                <td>B.11 *</td> 
+            <tr class="be4w2">
+                <td>B.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>119.00 m²</td>
@@ -708,7 +708,7 @@
                 </td>
             </tr>
             <tr class="r"> 
-                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Ende Juli 2020</td>
+                <td colspan="9" class="reserv">reserviert = Mietvertrag unterwegs | vermietet = Mietvertrag unterzeichnet</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-b-mietwohung.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Mietwohung"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
@@ -867,8 +867,8 @@
                 <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
             </tr>   
-            <tr class="ce1w1 r">
-                <td>C.01 *</td> 
+            <tr class="ce1w1">
+                <td>C.01</td> 
                 <td>EG</td>
                 <td>4.5</td>
                 <td>133.20 m²</td>
@@ -890,14 +890,14 @@
                 </td>
             </tr>
             <tr class="ce1w2 r">
-                <td>C.02 *</td> 
+                <td>C.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>94.30 m²</td>
                 <td>13.90 m²</td>
-                <td>1'620.-</td>
-                <td>190.-</td>
-                <td>1'810.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -912,14 +912,14 @@
                 </td>
             </tr>
             <tr class="ce1w3 r">
-                <td>C.03 *</td> 
+                <td>C.03</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>13.90 m²</td>
-                <td>1'680.-</td>
-                <td>190.-</td>
-                <td>1'870.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -933,8 +933,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce2w1 r">
-                <td>C.04 *</td> 
+            <tr class="ce2w">
+                <td>C.04</td> 
                 <td>1.OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
@@ -956,14 +956,14 @@
                 </td>
             </tr>
             <tr class="ce2w2 r">
-                <td>C.05 *</td> 
+                <td>C.05</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>12.20 m²</td>
-                <td>1'640.-</td>
-                <td>190.-</td>
-                <td>1'830.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -978,14 +978,14 @@
                 </td>
             </tr>
             <tr class="ce2w3 r">
-                <td>C.06 *</td> 
+                <td>C.06</td> 
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>12.20 m²</td>
-                <td>1'700.-</td>
-                <td>190.-</td>
-                <td>1'890.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -999,8 +999,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce3w1 r">
-                <td>C.07 *</td> 
+            <tr class="ce3w1">
+                <td>C.07</td> 
                 <td>2. OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
@@ -1022,14 +1022,14 @@
                 </td>
             </tr>
             <tr class="ce3w2 r">
-                <td>C.08 *</td> 
+                <td>C.08</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>12.20 m²</td>
-                <td>1'680.-</td>
-                <td>190.-</td>
-                <td>1'870.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -1044,14 +1044,14 @@
                 </td>
             </tr>
             <tr class="ce3w3 r">
-                <td>C.09 *</td> 
+                <td>C.09</td> 
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
                 <td>12.20 m²</td>
-                <td>1'740.-</td>
-                <td>190.-</td>
-                <td>1'930.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -1066,14 +1066,14 @@
                 </td>
             </tr>
             <tr class="ce4w1 r">
-                <td>C.10 *</td> 
+                <td>C.10</td> 
                 <td>Attika</td>
                 <td>3.5</td>
                 <td>96.30 m²</td>
                 <td>64.90 m²</td>
-                <td>1'960.-</td>
-                <td>190.-</td>
-                <td>2'150.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -1087,8 +1087,8 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce4w2 r">
-                <td>C.11 *</td> 
+            <tr class="ce4w2">
+                <td>C.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>128.80 m²</td>
@@ -1128,13 +1128,13 @@
                 </td>
             </tr>
             <tr class="r"> 
-                <td colspan="9" class="reserv">* Reserverationsanfrage pendent / Vergabe ab Ende Juli 2020</td>
+                <td colspan="9" class="reserv">reserviert = Mietvertrag unterwegs | vermietet = Mietvertrag unterzeichnet</td>
             </tr>
             <tr>
                 <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
             <tr>
-                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 17.06.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
+                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 27.07.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
             </tr>
         </table>
         <div id="konditionen">
