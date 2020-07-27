@@ -298,15 +298,15 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae1w2">
+            <tr class="ae1w2 r">
                 <td>A.02</td> 
                 <td>EG</td>
                 <td>3.5</td>
                 <td>94.30 m²</td>
                 <td>13.90 m²</td>
-                <td>1'620.-</td>
-                <td>190.-</td>
-                <td>1'810.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
