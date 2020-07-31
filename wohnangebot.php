@@ -867,15 +867,15 @@
                 <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
             </tr>   
-            <tr class="ce1w1">
+            <tr class="ce1w1 r">
                 <td>C.01</td> 
                 <td>EG</td>
                 <td>4.5</td>
                 <td>133.20 m²</td>
                 <td>15.60 m²</td>
-                <td>2'200.-</td>
-                <td>250.-</td>
-                <td>2'450.-</td>
+                <td></td>
+                <td></td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
