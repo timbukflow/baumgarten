@@ -565,7 +565,7 @@
                 <td>13.50 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -587,7 +587,7 @@
                 <td>21.40 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -631,7 +631,7 @@
                 <td>11.70 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -653,7 +653,7 @@
                 <td>11.70 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
