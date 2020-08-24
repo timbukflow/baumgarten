@@ -284,7 +284,7 @@
                 <td>14.10 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -306,7 +306,7 @@
                 <td>13.90 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -394,7 +394,7 @@
                 <td>12.20 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -438,7 +438,7 @@
                 <td>12.30 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -504,7 +504,7 @@
                 <td>74.30 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -1134,7 +1134,7 @@
                 <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
             </tr>
             <tr>
-                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 17.08.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
+                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 24.08.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
             </tr>
         </table>
         <div id="konditionen">
