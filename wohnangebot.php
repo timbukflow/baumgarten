@@ -749,13 +749,13 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be3w1">
+            <tr class="be3w1 r">
                 <td>B.07</td> 
                 <td>2. OG</td>
                 <td>4.5</td>
                 <td>120.10 m²</td>
                 <td>20.30 m²</td>
-                <td colspan="3">800'000.-</td>
+                <td colspan="3">reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
