@@ -1087,7 +1087,7 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce4w2">
+            <tr class="ce4w2 r">
                 <td>C.11</td> 
                 <td>Attika</td>
                 <td>4.5</td>
