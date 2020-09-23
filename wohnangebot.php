@@ -35,7 +35,7 @@
     		</ul>
     	</nav>
     </header>
-    
+
     <div class="cb">
         <svg version="1.1" id="bulding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
              viewBox="0 0 494.4 383.4" style="enable-background:new 0 0 494.4 383.4;" xml:space="preserve">
@@ -166,7 +166,7 @@
                     <path class="st4" d="M180.8,10.7c1.7-4.4,3-7.6,3.8-9.7c0.1-0.1,0.2-0.2,0.3-0.4s0.3-0.2,0.4-0.2c0,0,0,0,0.1,0c0,0,0,0,0.1,0 l4,10.4c0.3,0.8,0.5,1.3,0.5,1.3c0.1,0.2,0.3,0.4,0.6,0.5s0.6,0.2,0.7,0.2c0,0.1,0.1,0.2,0.1,0.3s0,0.2,0,0.3 c-1.3-0.1-2-0.1-2.1-0.1c-0.3,0-0.5,0-0.7,0s-0.5,0-0.8,0s-0.5,0-0.7,0c0-0.1-0.1-0.1-0.1-0.3s0-0.2,0.1-0.3c0.1,0,0.4,0,0.6-0.1 s0.4-0.1,0.5-0.2c0.1-0.1,0.1-0.1,0.1-0.3c0-0.2-0.1-0.6-0.3-1.2s-0.4-1.2-0.7-1.8l-0.3-0.8c0-0.1-0.1-0.1-0.1-0.1 c-0.2,0-0.8,0-1.9,0c-0.8,0-1.5,0-2.1,0.1l-0.1,0.1c-0.4,1-0.7,1.8-0.9,2.4c-0.2,0.5-0.3,1-0.3,1.4c0,0.1,0.1,0.2,0.2,0.3 s0.3,0.1,0.4,0.2s0.3,0.1,0.4,0.1s0.2,0,0.3,0c0,0,0,0.1,0.1,0.3s0,0.2,0,0.3c-0.2,0-0.4,0-0.6,0s-0.4,0-0.6,0s-0.4,0-0.7,0 c-0.3,0-0.5,0-0.7,0s-0.4,0-0.7,0s-0.5,0-0.7,0c0,0,0-0.1,0-0.3s0-0.2,0-0.3c0.2,0,0.4,0,0.6-0.1s0.4-0.2,0.5-0.3 C180.2,12.2,180.5,11.6,180.8,10.7z M184.7,2.8l-1.8,4.8c0,0.1,0,0.1,0,0.1c0.7,0,1.3,0,1.8,0c0.5,0,1,0,1.6-0.1c0,0,0,0,0,0 c0,0,0,0,0-0.1v0L184.7,2.8z"/>
                 </g>
             </g>
-            
+
             <g><!--building b-->
                 <g class="be1 b">
                     <polygon class="be1w1 st1" points="136.6,255.3 136.6,274.9 170.6,294.5 170.6,274.9 204.6,255.3 170.6,235.7"/>
@@ -208,7 +208,7 @@
                     <path class="st4" d="M268.3,50.6c0.4,0,0.7,0,1.1,0.1s0.7,0.2,1.1,0.3s0.7,0.3,0.9,0.5s0.5,0.5,0.6,0.8s0.2,0.7,0.2,1.2 c0,0.7-0.2,1.3-0.7,1.8s-0.9,0.9-1.3,1c-0.1,0-0.1,0.1,0,0.1c0.3,0,0.5,0.1,0.9,0.2s0.6,0.4,0.9,0.6s0.6,0.6,0.8,1s0.3,0.8,0.3,1.3 c0,1.2-0.4,2.2-1.3,2.9c-0.8,0.7-2.2,1-4.1,1.1h-4.5c0-0.1-0.1-0.1-0.1-0.3s0-0.2,0.1-0.3c0.2,0,0.5,0,0.8-0.1s0.5-0.1,0.5-0.2 c0.1-0.2,0.1-0.7,0.1-1.4v-8.3c0-0.8,0-1.2-0.1-1.4c0-0.1-0.2-0.2-0.5-0.2s-0.6-0.1-0.8-0.1c0-0.1-0.1-0.1-0.1-0.3s0-0.2,0.1-0.3 c1.3,0.1,2.1,0.1,2.3,0.1c0.2,0,0.6,0,1.2,0S267.9,50.6,268.3,50.6z M266.3,56.2h1.6c0.8,0,1.4-0.2,1.8-0.7s0.6-1,0.6-1.6 c0-0.9-0.3-1.5-0.8-2s-1.3-0.7-2.2-0.7c-0.6,0-0.9,0.1-1,0.2c-0.1,0.2-0.1,0.7-0.1,1.5V56.2z M266.3,56.9v4.2c0,0.2,0,0.4,0,0.8 s0.1,0.5,0.1,0.6c0.1,0.1,0.3,0.2,0.6,0.3s0.6,0.1,1,0.1c2.1,0,3.1-1,3.1-2.9c0-2-1.2-3-3.6-3H266.3z"/>
                 </g>
             </g>
-            
+
             <g class="c"><!--building c-->
                 <g class="ce1">
                     <polygon class="ce1w3 st1" points="289.6,324 340.6,294.6 374.6,314.2 323.6,343.6 323.5,363.2 289.6,343.6"/>
@@ -250,22 +250,22 @@
                     <g>
                 <path class="st4" d="M440.1,147.8c1.5,0,2.9,0.1,4.1,0.4c0.3,1.8,0.4,2.8,0.4,2.9c0,0.1,0,0.1-0.1,0.2s-0.2,0.1-0.3,0.1 s-0.2,0-0.2-0.1c-0.4-1.9-1.6-2.9-3.8-2.9c-0.9,0-1.8,0.3-2.5,0.9s-1.3,1.3-1.7,2.1c-0.4,0.9-0.6,1.8-0.6,2.7 c0,0.6,0.1,1.2,0.2,1.8c0.1,0.6,0.3,1.1,0.6,1.7c0.3,0.5,0.6,1,1,1.4c0.4,0.4,0.9,0.7,1.4,0.9c0.6,0.2,1.2,0.4,1.8,0.4 c1,0,1.9-0.3,2.6-0.9c0.6-0.5,1-1.3,1.2-2.3c0.2,0,0.4,0,0.6,0.2c0,0.2-0.1,0.8-0.2,1.5s-0.3,1.2-0.4,1.3c-1,0.6-2.4,0.9-4.2,0.9 c-0.9,0-1.8-0.2-2.6-0.5s-1.5-0.8-2.1-1.4c-0.6-0.6-1-1.3-1.3-2s-0.5-1.6-0.5-2.5c0-0.9,0.2-1.8,0.5-2.6s0.8-1.5,1.4-2.1 c0.6-0.6,1.3-1.1,2.1-1.5C438.3,148,439.2,147.8,440.1,147.8z"/>
                 </g>
-            </g>   
+            </g>
         </svg>
-        
+
         <div class="reservation">
             <h3><strong>Bewerben</strong> Sie sich jetzt für Ihre gewünschte Wohnung.<br>Die Wohnungen sind ab Spätherbst 2020 bezugsbereit.<br><a class="link" href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Baumgarten Anmeldeformular">Anmeldeformular</a></h3>
         </div>
     </div>
-    
- 
+
+
     <div class="ct">
         <div class="grundriss">
             <h1>Baumgarten<br><strong>Wohnangebot</strong></h1>
         </div>
         <h4><strong>Haus A</strong> | Mietwohnungen</h4>
         <table id="a">
-            <tr>      
+            <tr>
                 <th>Nr.</th>
                 <th>Etage</th>
                 <th>ZWHG</th>
@@ -275,9 +275,9 @@
                 <th>Neben-<br>kosten</th>
                 <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
-            </tr>   
+            </tr>
             <tr class="ae1w1 r">
-                <td>A.01</td> 
+                <td>A.01</td>
                 <td>EG</td>
                 <td>4.5</td>
                 <td>135.30 m²</td>
@@ -299,7 +299,7 @@
                 </td>
             </tr>
             <tr class="ae1w2 r">
-                <td>A.02</td> 
+                <td>A.02</td>
                 <td>EG</td>
                 <td>3.5</td>
                 <td>94.30 m²</td>
@@ -321,7 +321,7 @@
                 </td>
             </tr>
             <tr class="ae1w3 r">
-                <td>A.03</td> 
+                <td>A.03</td>
                 <td>EG</td>
                 <td>3.5</td>
                 <td>103.60 m²</td>
@@ -343,7 +343,7 @@
                 </td>
             </tr>
             <tr class="ae2w1">
-                <td>A.04</td> 
+                <td>A.04</td>
                 <td>1.OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
@@ -365,7 +365,7 @@
                 </td>
             </tr>
             <tr class="ae2w2 r">
-                <td>A.05</td> 
+                <td>A.05</td>
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -387,7 +387,7 @@
                 </td>
             </tr>
             <tr class="ae2w3 r">
-                <td>A.06</td> 
+                <td>A.06</td>
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -408,15 +408,15 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ae3w1">
-                <td>A.07</td> 
+            <tr class="ae3w1 r">
+                <td>A.07</td>
                 <td>2. OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
                 <td>26.20 m²</td>
-                <td>2'220.-</td>
-                <td>250.-</td>
-                <td>2'470.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -431,7 +431,7 @@
                 </td>
             </tr>
             <tr class="ae3w2 r">
-                <td>A.08</td> 
+                <td>A.08</td>
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -453,7 +453,7 @@
                 </td>
             </tr>
             <tr class="ae3w3 r">
-                <td>A.09</td> 
+                <td>A.09</td>
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -475,14 +475,14 @@
                 </td>
             </tr>
             <tr class="ae4w1 r">
-                <td>A.10</td> 
+                <td>A.10</td>
                 <td>Attika</td>
                 <td>3.5</td>
                 <td>96.30 m²</td>
                 <td>64.70 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -497,7 +497,7 @@
                 </td>
             </tr>
             <tr class="ae4w2 r">
-                <td>A.11</td> 
+                <td>A.11</td>
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>128.80 m²</td>
@@ -519,7 +519,7 @@
                 </td>
             </tr>
             <tr>
-                <td>A.00</td> 
+                <td>A.00</td>
                 <td colspan="5">Tiefgaragenparkplatz</td>
                 <td>pro</td>
                 <td>130.-</td>
@@ -536,17 +536,17 @@
                     </div>
                 </td>
             </tr>
-            <tr class="r"> 
+            <tr class="r">
                 <td colspan="9" class="reserv">reserviert = Mietvertrag unterwegs | vermietet = Mietvertrag unterzeichnet</td>
             </tr>
             <tr>
-                <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-a-mietwohnung.pdf" download="Baumgarten-Haus-A-Grundrissplaene"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
+                <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-a-mietwohnung.pdf" download="Baumgarten-Haus-A-Grundrissplaene"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus A | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td>
             </tr>
         </table>
-        
+
         <h4><strong>Haus B</strong> | Mietwohnungen</h4>
-        <table id="b">   
-            <tr>      
+        <table id="b">
+            <tr>
                 <th>Nr.</th>
                 <th>Etage</th>
                 <th>ZWHG</th>
@@ -556,9 +556,9 @@
                 <th>Neben-<br>kosten</th>
                 <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
-            </tr>   
+            </tr>
             <tr class="be1w1 r">
-                <td>B.01</td> 
+                <td>B.01</td>
                 <td>EG</td>
                 <td>2.5</td>
                 <td>84.60 m²</td>
@@ -580,7 +580,7 @@
                 </td>
             </tr>
             <tr class="be1w3 r">
-                <td>B.03</td> 
+                <td>B.03</td>
                 <td>EG</td>
                 <td>4.5</td>
                 <td>120.20 m²</td>
@@ -602,7 +602,7 @@
                 </td>
             </tr>
             <tr class="be2w1">
-                <td>B.04</td> 
+                <td>B.04</td>
                 <td>1. OG</td>
                 <td>4.5</td>
                 <td>120.10 m²</td>
@@ -624,7 +624,7 @@
                 </td>
             </tr>
             <tr class="be2w2 r">
-                <td>B.05</td> 
+                <td>B.05</td>
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
@@ -646,7 +646,7 @@
                 </td>
             </tr>
             <tr class="be2w3 r">
-                <td>B.06</td> 
+                <td>B.06</td>
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
@@ -668,7 +668,7 @@
                 </td>
             </tr>
             <tr class="be4w2 r">
-                <td>B.11</td> 
+                <td>B.11</td>
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>119.00 m²</td>
@@ -690,7 +690,7 @@
                 </td>
             </tr>
             <tr>
-                <td>B.00</td> 
+                <td>B.00</td>
                 <td colspan="5">Tiefgaragenparkplatz</td>
                 <td>pro</td>
                 <td>130.-</td>
@@ -707,17 +707,17 @@
                     </div>
                 </td>
             </tr>
-            <tr class="r"> 
+            <tr class="r">
                 <td colspan="9" class="reserv">reserviert = Mietvertrag unterwegs | vermietet = Mietvertrag unterzeichnet</td>
             </tr>
             <tr>
-                <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-b-mietwohung.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Mietwohung"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
+                <td class="downloadplan" colspan="9"><a href="downloads/baumgarten-grundrisse-haus-b-mietwohung.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Mietwohung"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td>
             </tr>
         </table>
-        
+
         <h4><strong>Haus B</strong> | Eigentumswohnungen</h4>
-        <table id="be">   
-            <tr>      
+        <table id="be">
+            <tr>
                 <th>Nr.</th>
                 <th>Etage</th>
                 <th>ZWHG</th>
@@ -727,7 +727,7 @@
                 <th>Plan</th>
             </tr>
             <tr class="be1w2 v">
-                <td>B.02</td> 
+                <td>B.02</td>
                 <td>EG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
@@ -750,7 +750,7 @@
                 </td>
             </tr>
             <tr class="be3w1 r">
-                <td>B.07</td> 
+                <td>B.07</td>
                 <td>2. OG</td>
                 <td>4.5</td>
                 <td>120.10 m²</td>
@@ -770,7 +770,7 @@
                 </td>
             </tr>
             <tr class="be3w2">
-                <td>B.08</td> 
+                <td>B.08</td>
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
@@ -790,7 +790,7 @@
                 </td>
             </tr>
             <tr class="be3w3">
-                <td>B.09</td> 
+                <td>B.09</td>
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
@@ -810,7 +810,7 @@
                 </td>
             </tr>
             <tr class="be4w1 v">
-                <td>B.10</td> 
+                <td>B.10</td>
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>118.30 m²</td>
@@ -833,7 +833,7 @@
                 </td>
             </tr>
             <tr>
-                <td>B.00</td> 
+                <td>B.00</td>
                 <td colspan="5">Tiefgaragenparkplatz</td>
                 <td colspan="2">35‘000.-</td>
                 <td class="planb">
@@ -850,13 +850,13 @@
                 </td>
             </tr>
             <tr>
-                <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-b-2-obergeschoss.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Eigentumswohungen"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Eigentumswohnungen</strong> Alle Grundrisse (PDF)</a></td> 
+                <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-b-2-obergeschoss.pdf" download="Baumgarten-Haus-B-Grundrisspläne-Eigentumswohungen"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus B | Eigentumswohnungen</strong> Alle Grundrisse (PDF)</a></td>
             </tr>
         </table>
-        
+
             <h4><strong>Haus C</strong> | Mietwohnungen</h4>
         <table id="c">
-            <tr>      
+            <tr>
                 <th>Nr.</th>
                 <th>Etage</th>
                 <th>ZWHG</th>
@@ -866,9 +866,9 @@
                 <th>Neben-<br>kosten</th>
                 <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
-            </tr>   
+            </tr>
             <tr class="ce1w1 r">
-                <td>C.01</td> 
+                <td>C.01</td>
                 <td>EG</td>
                 <td>4.5</td>
                 <td>133.20 m²</td>
@@ -890,7 +890,7 @@
                 </td>
             </tr>
             <tr class="ce1w2 r">
-                <td>C.02</td> 
+                <td>C.02</td>
                 <td>EG</td>
                 <td>3.5</td>
                 <td>94.30 m²</td>
@@ -912,7 +912,7 @@
                 </td>
             </tr>
             <tr class="ce1w3 r">
-                <td>C.03</td> 
+                <td>C.03</td>
                 <td>EG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -934,7 +934,7 @@
                 </td>
             </tr>
             <tr class="ce2w">
-                <td>C.04</td> 
+                <td>C.04</td>
                 <td>1.OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
@@ -956,7 +956,7 @@
                 </td>
             </tr>
             <tr class="ce2w2 r">
-                <td>C.05</td> 
+                <td>C.05</td>
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -978,7 +978,7 @@
                 </td>
             </tr>
             <tr class="ce2w3 r">
-                <td>C.06</td> 
+                <td>C.06</td>
                 <td>1. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -1000,7 +1000,7 @@
                 </td>
             </tr>
             <tr class="ce3w1">
-                <td>C.07</td> 
+                <td>C.07</td>
                 <td>2. OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
@@ -1022,7 +1022,7 @@
                 </td>
             </tr>
             <tr class="ce3w2 r">
-                <td>C.08</td> 
+                <td>C.08</td>
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -1044,7 +1044,7 @@
                 </td>
             </tr>
             <tr class="ce3w3 r">
-                <td>C.09</td> 
+                <td>C.09</td>
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>102.90 m²</td>
@@ -1066,7 +1066,7 @@
                 </td>
             </tr>
             <tr class="ce4w1 r">
-                <td>C.10</td> 
+                <td>C.10</td>
                 <td>Attika</td>
                 <td>3.5</td>
                 <td>96.30 m²</td>
@@ -1088,14 +1088,14 @@
                 </td>
             </tr>
             <tr class="ce4w2 r">
-                <td>C.11</td> 
+                <td>C.11</td>
                 <td>Attika</td>
                 <td>4.5</td>
                 <td>128.80 m²</td>
                 <td>73.70 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -1110,7 +1110,7 @@
                 </td>
             </tr>
              <tr>
-                <td>C.00</td> 
+                <td>C.00</td>
                 <td colspan="5">Tiefgaragenparkplatz</td>
                 <td>pro</td>
                 <td>130.-</td>
@@ -1127,26 +1127,26 @@
                     </div>
                 </td>
             </tr>
-            <tr class="r"> 
+            <tr class="r">
                 <td colspan="9" class="reserv">reserviert = Mietvertrag unterwegs | vermietet = Mietvertrag unterzeichnet</td>
             </tr>
             <tr>
-                <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td> 
+                <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td>
             </tr>
             <tr>
-                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 10.09.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
+                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 23.09.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td> 
             </tr>
         </table>
         <div id="konditionen">
             <p class="konditionen">
                 Die vorliegende Webseite stellt das Bauvorhaben in der Projektphase dar. Aus sämtlichen Plänen, Zeichnungen, Darstellungen, Möblierungen, Visualisierungen oder Beschreibungen können keinerlei Ansprüche abgeleitet werden. Insbesondere kommt den Plänen keine gesetzliche Wirkung von Grundbuchplänen zu.
-                
+
                 Ausführungsbedingte Änderungen, Anpassungen und/oder Massabweichungen können vorkommen und bleiben jederzeit ausdrücklich vorbehalten. Sämtliche Massangaben sind Circa-Masse.
-            </p> 
+            </p>
         </div>
     </div>
-        
-    
+
+
         <?php include 'script.php'; ?>
 </body>
 </html>
