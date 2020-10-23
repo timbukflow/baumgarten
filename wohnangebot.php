@@ -276,7 +276,7 @@
                 <th>Mietzins<br>brutto</th>
                 <th>Plan</th>
             </tr>
-            <tr class="ae1w1">
+            <tr class="ae1w1 r">
                 <td>A.01</td>
                 <td>EG</td>
                 <td>4.5</td>
