@@ -282,9 +282,9 @@
                 <td>4.5</td>
                 <td>135.30 m²</td>
                 <td>14.10 m²</td>
-                <td>2‘050.-</td>
-                <td>250.-</td>
-                <td>2‘300.-</td>
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -1134,7 +1134,7 @@
                 <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td>
             </tr>
             <tr>
-                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 05.10.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td>
+                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 23.10.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td>
             </tr>
         </table>
         <div id="konditionen">
