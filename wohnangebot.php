@@ -769,7 +769,7 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be3w2">
+            <tr class="be3w2 r">
                 <td>B.08</td>
                 <td>2. OG</td>
                 <td>3.5</td>
