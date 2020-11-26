@@ -749,13 +749,13 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be3w1 r">
+            <tr class="be3w1 v">
                 <td>B.07</td>
                 <td>2. OG</td>
                 <td>4.5</td>
                 <td>120.10 m²</td>
                 <td>20.30 m²</td>
-                <td colspan="3">reserviert</td>
+                <td colspan="3">verkauft</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -775,7 +775,7 @@
                 <td>3.5</td>
                 <td>106.60 m²</td>
                 <td>11.70 m²</td>
-                <td colspan="3">680'000.-</td>
+                <td colspan="3">reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -1134,7 +1134,7 @@
                 <td class="downloadplan" colspan="7"><a href="downloads/baumgarten-grundrisse-haus-c-mietwohung.pdf" download="Baumgarten-Haus-C-Grundrisspläne"><img src="img/download-icon.svg" width="11" height="11" alt="download icon"> <strong>Haus C | Mietwohnungen</strong> Alle Grundrisse (PDF)</a></td>
             </tr>
             <tr>
-                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 05.11.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td>
+                <td colspan="9" class="data">Mietzins und Nebenkosten in CHF | m² gerundet<br>Aktualisiert per 26.11.2020 | <span class="linkw konditionen impressum" data-toggle="#konditionen">Konditionen</span></td>
             </tr>
         </table>
         <div id="konditionen">
