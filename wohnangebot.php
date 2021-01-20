@@ -941,7 +941,7 @@
                 <td>26.20 m²</td>
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -999,15 +999,18 @@
                     </div>
                 </td>
             </tr>
-            <tr class="ce3w1">
+            <tr class="ce3w1 r">
                 <td>C.07</td>
                 <td>2. OG</td>
                 <td>4.5</td>
                 <td>130.60 m²</td>
                 <td>26.20 m²</td>
-                <td>2'150.-</td>
+                <!--<td>2'150.-</td>
                 <td>250.-</td>
-                <td>2'400.-</td>
+                <td>2'400.-</td>-->
+                <td></td>
+                <td></td>
+                <td>reserviert</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
