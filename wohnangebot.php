@@ -789,13 +789,13 @@
                     </div>
                 </td>
             </tr>
-            <tr class="be3w3 r">
+            <tr class="be3w3 v">
                 <td>B.09</td>
                 <td>2. OG</td>
                 <td>3.5</td>
                 <td>106.60 m²</td>
                 <td>11.70 m²</td>
-                <td colspan="3">reserviert</td>
+                <td colspan="3">verkauft</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
@@ -1010,7 +1010,7 @@
                 <td>2'400.-</td>-->
                 <td></td>
                 <td></td>
-                <td>reserviert</td>
+                <td>vermietet</td>
                 <td class="planb">
                     <img class="plani" src="img/plan.svg" alt="plan icon" width="21" height="18">
                     <div class="plan">
