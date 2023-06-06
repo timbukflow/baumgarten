@@ -32,10 +32,13 @@
         </nav>
     </div>
         <div id="impressum">    
-            <p><b>Design &#38; Interaction:</b><br>Schwizer &#38; Schlatter GmbH<br>Davidstrasse 45<br>9000 St.Gallen<br>
-                <a class="linkw" href="https://www.schwizerschlatter.com" target="_blank">www.schwizerschlatter.com</a>
+            <p>
+                <b>Design &amp; Code:</b><br>
+                Schwizer Design GmbH<br>
+                <a class="linkw" href="https://goo.gl/maps/bBmLDGMJSYqbwbmj8">Gallusstrasse 43, 9000 St. Gallen</a><br>
+                <a class="linkw" href="https://schwizerdesign.ch/" target="_blank">www.schwizerdesign.ch</a>
             </p>
-            <p class="disclamer">© 2019 Bauherrengemeinschaft Baumgarten. All rights reserved | <span class="linkw disclamer impressum" data-toggle="#datenschutz">Disclamer</span></p>
+            <p class="disclamer">© 2023 Bauherrengemeinschaft Baumgarten. All rights reserved | <span class="linkw disclamer impressum" data-toggle="#datenschutz">Disclamer</span></p>
         </div>
         <div id="datenschutz">
             <p>
