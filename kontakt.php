@@ -12,7 +12,7 @@
     </div>
     <?php include 'header.php'; ?>
     
-    <section class="sectioncontact">
+    <!-- <section class="sectioncontact">
         <article>
             <?php include('form.php'); ?>
             <div class="container">  
@@ -46,7 +46,7 @@
             </div>
         </article>    
     </section>
-    
+     -->
     <section class="sectiondload">
         <article>
             <div class="container respcont">  

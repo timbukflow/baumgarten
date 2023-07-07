@@ -10,7 +10,7 @@
                 St.Gallen
             </p>
         </div>
-        <div class="footerkontakt">   
+        <!-- <div class="footerkontakt">   
             <p>
                 <strong>Ansprechperson</strong><br>
                 Sproll &amp; Ramseyer AG<br>
@@ -19,7 +19,7 @@
                 <a href="mailto:angela.signer@sur.ag" target="_top">angela.signer@sur.ag</a><br>
                 <a class="linkw" href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Anmeldeformular">Anmeldeformular</a>
             </p>
-        </div>
+        </div> -->
         <nav class="footernav">   
             <ul>
                 <li><a class="linkw" href="index">Baumgarten</a></li>
