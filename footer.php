@@ -27,7 +27,7 @@
                 <li><a class="linkw" href="wohnangebot">Wohnangebot</a></li>
                 <li><a class="linkw" href="kontakt">Kontakt</a></li>
                 <li><a class="linkw" href="kontakt">Downloads</a></li>
-                <li><span class="linkw impressum" data-toggle="#impressum">Impressum</span></li>
+                <li><span class="linkw impressum" data-target="#impressum">Impressum</span></li>
             </ul>
         </nav>
     </div>
@@ -38,7 +38,7 @@
                 <a class="linkw" href="https://goo.gl/maps/bBmLDGMJSYqbwbmj8">Gallusstrasse 43, 9000 St. Gallen</a><br>
                 <a class="linkw" href="https://schwizerdesign.ch/" target="_blank">www.schwizerdesign.ch</a>
             </p>
-            <p class="disclamer">© 2023 Bauherrengemeinschaft Baumgarten. All rights reserved | <span class="linkw disclamer impressum" data-toggle="#datenschutz">Disclamer</span></p>
+            <p class="disclamer">© 2023 Bauherrengemeinschaft Baumgarten. All rights reserved | <span class="linkw disclamer impressum" data-target="#datenschutz">Disclamer</span></p>
         </div>
         <div id="datenschutz">
             <p>

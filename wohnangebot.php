@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<!--[if IE 7]>	 <html class="no-js lt-ie9 lt-ie8" lang="de"><![endif]-->
-<!--[if IE 8]>	 <html class="no-js lt-ie9" lang="de"><![endif]-->
-<!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
+<html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 <title>Baumgarten | Wohnangebot</title>
 <meta name="description" content="Baumgarten | Wohnangebot"/>
@@ -1148,8 +1146,6 @@
             </p>
         </div>
     </div>
-
-
-        <?php include 'script.php'; ?>
+    <?php include 'script.php'; ?>
 </body>
 </html>
